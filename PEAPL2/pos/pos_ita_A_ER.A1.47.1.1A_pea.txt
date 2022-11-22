@@ -1,0 +1,36 @@
+Eu/PRS chamo/V me/CL XXXXX/A ,/PNT eu/PRS sou/V italiano/A mas/CONJ agora/ADV estudo/N em/P Portugal/N em/P Coimbra/N ./PNT
+
+Eu/PRS estudo/N economia/N ,/PNT mas/CONJ em/P o/ART Verão/N trabalho/N com/P minha/POSS família/N em/P a/ART empresa/N famíliar/V ./PNT
+
+Eu/PRS não/ADV sou/V alto/A e/CONJ tenho/V os/ART por/P os/ART curtos/A e/CONJ pretos/N ,/PNT tenho/V os/ART oculos/N e/CONJ sou/V um/ART poco/N gordo/A ./PNT
+
+A/ART minha/POSS família/N tem/V outras/ART 3/N pessoas/N ,/PNT meu/POSS pai/N minha/POSS mae/N e/CARD minha/POSS irmã/N ,/PNT eu/PRS tenho/V também/ADV um/ART gato/N ./PNT
+
+A/ART minha/POSS casa/N fica/V perto/ADV de/P o/ART centro/N de/P cidade/N ,/PNT e/CONJ eu/PRS posso/V ir/V para/P o/ART centro/N a/P a/ART pé/N ./PNT
+
+Gosta/V muito/ADV jogar/V futebol/N e/CONJ olhar/N música/N italiana/A e/CONJ estrangera/A e/CONJ tamben/A fazer/V um/ART viaje/N cada/QNT anos/N ./PNT
+
+Gostaria/V muito/ADV ir/V para/P Brazil/N e/CONJ ter/V uma/ART casa/N grande/A ./PNT
+
+Normalmente/ADV em/P o/ART Verão/N eu/PRS vou/V com/P minha/POSS namorada/N e/CARD meus/POSS amigos/N a/P a/ART la/N praia/N porque/CONJ em/P a/ART minha/POSS região/N tem/V muitas/QNT praias/N ./PNT
+
+Gosta/V muito/ADV sair/V a/P a/ART noite/N para/P bar/N ,/PNT ou/CONJ jantar/V com/P meus/POSS amigos/N e/CONJ logo/ADV sair/V por/P tomar/V alguma/QNT cosa/N de/P beber/V ./PNT
+
+a/P o/ART domingo/N eu/PRS vou/V para/P estadio/N por/P ver/V meu/POSS equipo/N jogar/V ./PNT
+
+Durante/P a/ART a/N semana/N normalmente/ADV vou/V sempre/ADV para/P Universidade/N e/CONJ a/P a/ART noite/N vou/V a/P o/ART cinema/N o/ART a/N o/ART teatro/N ./PNT
+
+Gosta/V muito/ADV olhar/N musica/A e/CONJ tocar/N piano/N ./PNT
+
+Minha/N familia/A tem/V a/P a/ART pastelaria/N em/P minha/POSS ciudade/N ,/PNT e/CONJ gosta/V muito/ADV fazer/V bolos/N ,/PNT sandes/N ./PNT
+
+Prefiro/V cozinhar/V que/C limpar/V ./PNT
+
+Minha/N namorada/N mora/V perto/ADV de/P minha/POSS casa/N ,/PNT e/CONJ normalmente/ADV posso/V sair/V com/P ela/PRS para/P parque/N ,/PNT ou/CONJ para/P praça/N ,/PNT onde/ADV normalmente/ADV ficam/V meus/POSS amigos/N ./PNT
+
+A/ART Minha/N irmã/N tem/V 14/CARD anos/N e/CONJ faz/V escola/N secundaria/A ./PNT
+
+Ela/PRS joga/V e/CONJ toca/V tambén/V o/ART piano/N ./PNT
+
+Agora/ADV eu/PRS tenho/V que/C acabar/V a/ART universidade/N por/P iniciar/V meu/POSS trabalho/N ./PNT
+

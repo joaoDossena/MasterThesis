@@ -1,0 +1,24 @@
+Eu/PRS chamo/V me/CL XXXXX/V ./PNT
+
+Eu/PRS sou/V russa/A e/CONJ tenho/V 27/CARD anos/N ./PNT
+
+Chegei/V a/ART Portugal/N há/V nove/CARD meses/N com/P o/ART meu/POSS marido/N e/CONJ a/ART minha/POSS filha/N porque/CONJ o/ART trabalho/N de/P o/ART meu/POSS marido/N em/P a/ART Rússia/N já/ADV tinha/V acabado/N ./PNT
+
+Comencei/V estudar/V português/A por/P contactos/N com/P os/ART meus/POSS sogros/N e/CONJ amigos/N aqui/ADV e/CONJ depois/ADV entrei/V em/P o/ART Universidade/N para/P estudar/V a/ART língua/N melhor/A ./PNT
+
+Gosto/V muito/ADV de/P estudar/V aqui/ADV porque/CONJ gosto/V de/P comunicar/V com/P outras/ART pessoas/N e/CONJ culturas/N e/CONJ também/ADV já/ADV foi/V mais/ADV fácil/A para/P falar/V português/A ./PNT
+
+Falto/V muito/ADV de/P a/ART minha/POSS trabalha/N em/P a/ART Rússia/N e/CONJ também/ADV p/V '/PNT enso/N que/REL vai/V muito/ADV difícil/A para/P mim/PRS començar/V trabalhar/V em/P Portugal/N ./PNT
+
+Eu/PRS sou/V uma/ART pessoa/N que/REL nunca/ADV ficei/V em/P casa/N sem/P trabalho/N ./PNT
+
+In/N principio/A ,/PNT a/ART minha/POSS vida/N em/P Portugal/N é/V feliz/A ./PNT
+
+as/ART pessoas/N ,/PNT que/REL eu/PRS conheço/V são/V muito/ADV simpáticas/A e/CONJ ajudam/V me/CL muito/ADV para/P ficar/V habituada/N de/P vida/N portuguesa/A ./PNT
+
+A/ART minha/POSS sogra/N é/V mesmo/A herói/N de/P a/ART minha/POSS vida/N e/CONJ ajuda/V me/CL que/C nenguem/V antes/ADV ajudou/V ./PNT
+
+Gosto/V também/ADV comida/N portuguesa/A feita/V por/P sogra/N ,/PNT especialmente/ADV as/ART pratos/N grelhadas/A e/CONJ o/ART leitão/N que/REL é/V óptimo/A para/P mim/PRS ./PNT
+
+A/ART minha/POSS casa/N em/P Portugal/N é/V muito/ADV ecológico/A :/PNT tem/V muito/QNT coisas/N em/P madeira/N ,/PNT uma/ART terása/N linda/A com/P a/ART vista/N de/P floresta/N ,/PNT que/REL de/P a/ART manha/N sempre/ADV sheira/V me/CL natureza/N ./PNT
+

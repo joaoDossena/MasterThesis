@@ -1,0 +1,16 @@
+-/N Eu/PRS sou/V uma/ART rapariga/N baixinha/A ,/PNT tenho/V o/ART cabelho/N nívio/A e/CONJ os/ART meus/POSS olhos/N são/V azuis/A ./PNT
+
+Sou/V a/ART irmão/N mais/ADV nova/A ,/PNT assim/ADV tenho/V uma/ART irmã/N maior/A ,/PNT de/P 27/CARD anos/N ./PNT
+
+Eu/PRS gosto/V muito/ADV de/P os/ART animais/N ,/PNT por/P isso/DEM tenho/V um/ART cão/N ./PNT
+
+-/N Eu/PRS gosto/V de/P todas/QNT as/ART comidas/N mas/CONJ o/ART melhor/N para/P mim/PRS é/V a/ART lasanha/N ./PNT
+
+A/ART minha/POSS familia/N fica/V contenta/N com/P mim/PRS porque/CONJ quando/CONJ era/V mais/ADV nova/A sempre/ADV tinha/V comido/N de/P todo/QNT ./PNT
+
+Gostava/V de/P peixe/N ,/PNT de/P carne/N ,/PNT de/P verduras/N ,/PNT de/P frutas/N ,/PNT de/P legumes/N ./PNT
+
+Antes/ADV não/ADV gostava/V de/P cogumelos/N ,/PNT mas/CONJ agora/ADV é/V um/ART de/P os/ART alimentos/N de/P que/REL gosto/V mais/ADV ./PNT
+
+Eu/PRS posso/V pôr/V cogumelos/V a/P todas/QNT as/ART comidas/N ,/PNT em/P a/ART pizza/N ,/PNT em/P a/ART pasta/N ,/PNT com/P todo/QNT fica/V bem/ADV ./PNT
+

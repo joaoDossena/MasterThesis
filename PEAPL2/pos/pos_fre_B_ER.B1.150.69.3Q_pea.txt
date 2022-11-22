@@ -1,0 +1,42 @@
+A/ART vida/N em/P a/ART cidade/N ./PNT
+
+Quando/CONJ era/V pequena/A ,/PNT tinha/V o/ART sonho/N de/P viver/V em/P o/ART centro/N de/P uma/ART cidade/N ,/PNT em/P uma/ART rua/N estreita/A ./PNT
+
+Mas/V agora/ADV ,/PNT com/P mais/ADV experiênça/A ,/PNT mudei/N de/P opinião/N ./PNT
+
+Já/ADV vivi/V em/P a/ART cidade/N -LRB-/A não/ADV em/P o/ART centro/N -RRB-/A e/CONJ fui/V suficiente/N ./PNT
+
+Para/P mim/PRS ,/PNT as/ART desvantagens/N ultrapassam/V as/ART vantagens/N ./PNT
+
+Com/P efeito/N ,/PNT o/ART que/REL não/ADV gosto/V em/P viver/V em/P a/ART cidade/N ,/PNT é/V o/ART barulho/N -LRB-/A de/P os/ART carros/N ,/PNT de/P os/ART vizinhos/N .../PNT -RRB-/V ,/PNT a/ART polução/N -LRB-/V o/ART pior/A é/V quando/CONJ eu/PRS vou/V a/ART pé/N a/P a/ART faculdade/N -RRB-/A ,/PNT a/ART multidão/N ./PNT
+
+Em/P a/ART cidade/N ,/PNT nunca/ADV é/V possível/A sair/V sem/P se/CL vestir/V bem/ADV ./PNT
+
+Se/CONJ se/CL mora/V em/P um/ART prédio/N ,/PNT não/ADV há/V um/ART jardim/N ou/CONJ espaço/N verde/A privado/A para/P descansar/N sozinho/A ./PNT
+
+Mas/V não/ADV posso/V dizer/V que/C não/ADV gosto/V de/P a/ART cidade/N ./PNT
+
+Acho/V que/C as/ART vantagens/N são/V numerosas/QNT :/PNT a/ART proximidade/N de/P tudo/QNT -LRB-/N farmacias/A ,/PNT supermercados/A ,/PNT escolas/N ,/PNT administrações/N .../PNT -RRB-/V ,/PNT os/ART museus/N ,/PNT os/ART amigos/N morram/A e/CONJ saem/V sobretudo/ADV em/P a/ART cidade/N ./PNT
+
+Os/ART meus/POSS pais/N sempre/ADV moraram/V em/P o/ART campo/N ,/PNT então/ADV ,/PNT tenho/V uma/ART visão/N subjectiva/A de/P a/ART vida/N aí/ADV ./PNT
+
+Gostei/V de/P a/ART possibilidade/N de/P sair/V para/P passear/V sem/P ser/V obrigado/V de/P usar/V o/ART carro/N ,/PNT de/P fazer/V festas/N sem/P se/CL preocupar/V de/P o/ART barulho/N ,/PNT de/P o/ART ar/N puro/A ,/PNT de/P o/ART calmo/N ,/PNT de/P a/ART vegetação/N variada/A ./PNT
+
+Mas/V também/ADV não/ADV gostei/V de/P viver/V aí/ADV ./PNT
+
+Eramos/V longe/ADV de/P tudo/QNT ./PNT
+
+Não/ADV era/V possível/A visitar/N amigos/N sem/P pedir/V a/P os/ART pais/N de/P me/CL acompanhar/V ./PNT
+
+Não/ADV era/V possível/A ir/V comprar/V pão/N sem/P usar/N o/ART carro/N ./PNT
+
+Não/ADV era/V possível/A -LRB-/N para/P mim/PRS -RRB-/V ficar/V sozinha/N em/P a/ART casa/N ./PNT
+
+Em/ADV breve/ADV ,/PNT a/ART vida/N em/P o/ART campo/N necessita/V um/ART carro/N ./PNT
+
+Em/P a/ART cidade/N pode/V se/CL ir/V em/P todos/QNT os/ART lados/N sem/P carro/N =/A há/V meios/N de/P transporte/N comuns/A ,/PNT e/CONJ é/V sempre/ADV possível/A caminhar/N ./PNT
+
+Eu/PRS sei/V que/C tenho/V sorte/N de/P conhecer/V a/ART vida/N em/P o/ART campo/N e/CONJ em/P a/ART cidade/N ./PNT
+
+Então/ADV ,/PNT acho/N que/REL em/P o/ART futuro/N ,/PNT apreciarei/V a/ART vida/N em/P uma/ART aldeia/N ,/PNT sem/P comercios/N e/CONJ vizinhos/V ,/PNT mas/CONJ também/ADV com/P um/ART jardim/N ,/PNT o/ART mínimo/N vital/A de/P intimidade/N e/CONJ a/ART natureza/N não/ADV muito/ADV longe/ADV ./PNT
+

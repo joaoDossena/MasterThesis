@@ -1,0 +1,4 @@
+Em/P verdade/N não/ADV gosto/V muito/ADV de/P comida/N portuguese/A mas/CONJ eu/PRS tenho/V de/P comer/N muitas/QNT pratos/N ainda/ADV ./PNT
+
+Eu/PRS adoro/V as/ART pastelas/N de/P nata/N mas/CONJ eu/PRS não/ADV gosto/V de/P sopa/N _/A A/ART Minha/N Mai/A é/V muito/ADV capaz/A de/P cozinhar/V e/CONJ o/ART meu/POSS pai/N gosta/V muito/ADV de/P comer/N e/CONJ ele/PRS aprecia/V muito/ADV o/ART bakalhao/N
+

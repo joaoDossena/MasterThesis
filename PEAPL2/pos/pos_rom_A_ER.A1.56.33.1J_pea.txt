@@ -1,0 +1,10 @@
+Eu/PRS vou/V fazer/V 33.1/N J/N ./PNT
+
+Fale/V de/P aquilo/DEM que/REL gosta/V de/P fazer/V em/P os/ART tempos/N livres/A ./PNT
+
+Eu/PRS em/ADV meu/POSS tempo/N livre/A ,/PNT gosto/V de/P nadar/N ,/PNT de/P pescar/N ,/PNT de/P ler/V um/ART livro/N ,/PNT de/P ir/V a/ART montagna/N ./PNT
+
+Mais/ADV mas/CONJ de/P todo/QNT ,/PNT gosto/V de/P ir/V a/ART visitar/N os/ART meus/POSS avós/N ,/PNT pourque/V eu/PRS gosto/V muito/ADV de/P meus/POSS avós/N ./PNT
+
+Eu/PRS gosto/V muito/ADV de/P pasar/N el/N tempo/N com/P ellas/N pourque/A são/V douentes/A ,/PNT e/CONJ gosto/V muito/ADV de/P ajudar/V #/N los/A ./PNT
+

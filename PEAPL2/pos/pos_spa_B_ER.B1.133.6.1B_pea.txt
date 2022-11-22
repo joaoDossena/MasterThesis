@@ -1,0 +1,64 @@
+Ola/V XXXXX/N !/PNT
+
+!/N
+
+E/CONJ isso/DEM aí/ADV XXXXX/V !/PNT
+
+!/N
+
+Sou/V XXXXX/N ./PNT
+
+Como/ADV é/V que/C vocês/V estão/V lá/ADV em/P XXXXX/N ?/PNT
+
+Já/ADV sabes/V que/C vim/V para/P Coimbra/N a/P estudar/V há/V uns/ART meses/N ./PNT
+
+Até/P o/ART momento/N as/ART coisas/N vão/V muito/ADV bem/ADV ./PNT
+
+Já/ADV consegui/V adaptar/V me/CL a/P o/ART ritmo/N de/P vida/N português/A ./PNT
+
+Estou/V a/ART morar/N em/P uma/ART República/N ;/PNT a/ART República/N XXXXX/N XXXXX/N ./PNT
+
+É/V a/ART República/N mais/ADV antiga/A cá/ADV em/P Coimbra/N ./PNT
+
+É/V uma/ART casa/N de/P estudantes/N comunitária/A onde/ADV passa/V muita/QNT gente/N quasi/A todos/QNT os/ART dias/N ./PNT
+
+Vivir/V aqui/ADV é/V o/ART melhor/A ./PNT
+
+Há/V que/C tempo/N que/REL não/ADV falamos/V ,/PNT por/P uma/ART parte/N ,/PNT tenho/V vontade/N de/P voltar/V para/P casa/N ,/PNT ver/V a/P a/ART minha/POSS mãe/N ,/PNT passar/V por/P a/ART XXXXX/N e/CONJ dar/V lhes/V um/ART abraço/N forte/A a/P todos/QNT os/ART que/REL voltaram/V já/ADV ./PNT
+
+Como/V estava/V a/P dizer/V estou/V a/ART morar/N em/P os/ART XXXXX/N ./PNT
+
+Moro/N com/P quatro/CARD portugueses/N :/PNT XXXXX/V ,/PNT XXXXX/ADV ,/PNT XXXXX/A e/CONJ XXXXX/A ./PNT
+
+Realmente/ADV são/V uma/ART gente/N muito/ADV muito/ADV boa/A ,/PNT -LRB-/A como/CONJ dizem/V aqui/ADV ,/PNT são/V ``/N muito/ADV fixe/A ''/N -RRB-/A Estou/V a/P aprender/V o/ART português/A muito/ADV mais/ADV rápido/A de/P o/ART que/REL pensava/V ,/PNT imagina/N que/REL só/ADV estou/V aqui/ADV ha/A dois/CARD meses/N e/CONJ já/ADV sou/V capaz/N de/P escrever/V uma/ART carta/N meiobem/A ./PNT
+
+Não/ADV imaginava/V que/C ia/V ser/V tão/ADV fácil/A ./PNT
+
+O/ART que/REL sim/V é/V dificil/A e/CONJ a/ART pronuncia/N ./PNT
+
+Até/ADV agora/ADV não/ADV tive/V muitas/QNT aulas/N cá/ADV em/P Coimbra/N ,/PNT só/ADV Inglês/A e/CONJ Português/N ,/PNT acho/N que/REL merecia/V me/CL umas/ART férias/N ,/PNT jaja/N ,/PNT são/V já/ADV 23/CARD anos/N estudando/V sem/P parar/N e/CONJ me/CL tocava/V ./PNT
+
+O/ART outro/A dia/N estivem/V com/P o/ART pessoal/N de/P a/ART casa/N falado/V de/ADV como/CONJ vivimos/V lá/ADV em/P Pamplona/N ./PNT
+
+Aqui/ADV todas/QNT perguntam/N se/CL somos/V Espanhós/A ou/CONJ Bascos/A ,/PNT eu/PRS só/ADV posso/V dizer/V que/C sou/V filho/N de/P a/ART minha/POSS mãe/N ,/PNT pronto/N ./PNT
+
+Não/ADV perceven/V muito/ADV .../PNT Te/V lembras/V de/ADV quando/CONJ estivemos/V em/P aquele/DEM refugio/N em/P as/ART montanhas/N ?/PNT
+
+Isso/DEM sim/V que/C foi/V bom/A ./PNT
+
+Aquelas/V noites/N de/P frio/N ,/PNT de/P fazer/V uma/ART fogueira/N e/CONJ beber/V até/ADV que/C saiera/V o/ART sol/N ./PNT
+
+Acredita/V que/C tenho/V imensa/A vontade/N de/P ver/V lhes/V novamente/ADV ,/PNT mas/CONJ já/ADV deveriam/V saber/V que/C são/V vocês/V os/ART que/REL têm/V que/C fazer/V me/CL uma/ART visita/N ./PNT
+
+Têm/V que/C aproveitar/V que/C estou/V cá/ADV ,/PNT tenho/V um/ART colchão/N para/P o/ART primeiro/ORD que/REL chegue/V ,/PNT Então/ADV ,/PNT quando/CONJ vão/V vir/V ?/PNT
+
+Não/ADV ha/V mais/ADV que/C dizer/V por/P aqui/ADV ./PNT
+
+Beijos/N e/CONJ um/ART abraço/N ./PNT
+
+XXXXX/V Ps/N ./PNT
+
+Trazer/V XXXXX/N ./PNT
+
+Cumprimentos/V para/P todos/QNT ./PNT
+

@@ -1,0 +1,34 @@
+Chamo/V me/CL XXXXX/A e/CONJ tenho/V 33/CARD -LRB-/CARD trenta/CARD e/CARD três/CARD -RRB-/CARD anos/N ./PNT
+
+Sou/V romena/N e/CONJ estou/V em/P Portugal/N para/P estudar/V ./PNT
+
+Estou/V estudante/N de/P doutoramento/N em/P a/ART Faculdade/N de/P Quimica/N ./PNT
+
+Eu/PRS vou/V moram/V em/P Coimbra/N até/P a/P o/ART fim/N de/P o/ART Octobre/N ./PNT
+
+A/ART minha/POSS familia/N está/V em/P a/ART Romenia/N ;/PNT a/ART minha/POSS mãe/N ,/PNT o/ART meu/POSS pais/N e/CONJ a/ART minha/POSS irmã/N que/REL chama/V se/CL XXXXX/V ./PNT
+
+Eu/PRS não/ADV sou/V muito/ADV alta/A e/CONJ tenho/V 60/CARD kilogramas/N ./PNT
+
+Os/ART meus/POSS olhos/N são/V verdes/A e/CARD meus/POSS cabelos/N são/V castanho/A ./PNT
+
+A/ART minha/POSS casa/N não/ADV e/CONJ grande/A mas/CONJ e/CONJ bonita/A ./PNT
+
+Têm/V dois/CARD quartos/N ,/PNT uma/ART cozinha/N ,/PNT uma/ART sala/N de/P banho/N e/CONJ um/ART corridor/N ./PNT
+
+Em/P o/ART meu/POSS quarto/N fica/V uma/ART cama/N e/CONJ um/ART escritorio/N ./PNT
+
+Aqui/ADV há/V também/ADV uma/ART estante/N com/P muitos/QNT livros/N ./PNT
+
+Em/P cima/P de/P a/ART escritorio/N fica/V o/ART meu/POSS computador/N que/REL eu/PRS preciso/A todos/QNT os/ART dias/N em/P o/ART meu/POSS trabalho/N ./PNT
+
+Gosto/V muito/ADV de/P escuchar/N musica/A e/CONJ de/P vêr/N filmes/N ,/PNT em/P o/ART fim/N de/P semana/N ./PNT
+
+Depois/ADV de/P acabar/V o/ART meu/POSS doutoramento/N eu/PRS trabalhar/V como/ADV investigador/A ./PNT
+
+Eu/PRS gosto/V muito/ADV de/P viver/V em/P Portugal/N Acho/A que/REL a/ART gente/N é/V tão/ADV simpatica/A e/CONJ gosto/V muito/ADV comer/A comida/N portuguêsa/A :/PNT bacalhau/N ,/PNT caldo/N verde/A ,/PNT pasteis/V de/P nata/N e/CONJ tomar/V um/ART abatanado/N pingado/A com/P os/ART meus/POSS coleguês/N depois/ADV de/P almoçar/N ./PNT
+
+Eu/PRS quero/V estudar/V português/A porque/CONJ ainda/ADV não/ADV posso/V falar/V muito/ADV bom/A ./PNT
+
+Posso/V entender/V as/ART noticias/N em/P o/ART rádio/N mas/CONJ não/ADV consigo/V ainda/ADV falar/V ./PNT
+

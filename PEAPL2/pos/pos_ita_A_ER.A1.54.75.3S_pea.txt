@@ -1,0 +1,18 @@
+Eu/PRS gosto/V muito/ADV viajar/A ./PNT
+
+Eu/PRS prefiro/V apanhar/V o/ART autocarro/N porque/CONJ é/V baratissimo/A ./PNT
+
+Eu/PRS para/ADV ir/V em/P a/ART minha/POSS cidade/N vou/V em/P o/ART autocarro/N 3/N dias/N ./PNT
+
+Se/CONJ eu/PRS quero/V ir/V pará/N Milano/A onde/ADV ha/V as/ART minha/POSS amigas/N ,/PNT eu/PRS tenho/V ir/V de/P o/ART avião/N porque/CONJ moro/V em/P Sicilia/N ./PNT
+
+Eu/PRS gosto/V muito/ADV ir/V para/P Milano/N para/P comprar/V roupa/N de/P vestir/V ,/PNT porque/CONJ ha/V muitas/QNT lojas/N ./PNT
+
+Se/CONJ eu/PRS queiro/V ,/PNT posso/V ir/V para/P Africa/N de/P barco/N mas/CONJ a/ART mais/ADV rapido/A barco/N é/V muito/ADV caro/A ;/PNT e/CONJ tenho/V apanhar/V o/ART barco/N mais/ADV lento/A ./PNT
+
+Eu/PRS vou/V cada/QNT fim/N de/P semana/N parà/N Palermo/N para/P o/ART meu/POSS namorado/N e/CONJ com/P o/ART carro/N de/P ele/PRS viajamos/N para/P todas/QNT o/ART Sicilia/N ./PNT
+
+Vamos/V visitar/V a/ART praia/N ./PNT
+
+Se/CONJ o/ART tempo/N è/V bom/A eu/PRS gosto/V viajar/V a/ART noite/N ./PNT
+

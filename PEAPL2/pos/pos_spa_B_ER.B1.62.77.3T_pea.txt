@@ -1,0 +1,32 @@
+Em/P Coimbra/N moro/V em/P um/ART bairro/N que/REL gosto/V muito/ADV em/P a/ART Alta/N ./PNT
+
+A/ART minha/POSS casa/N fica/V perto/ADV de/P a/ART faculdade/N de/P Letras/N ,/PNT só/ADV demoro/V 5/CARD minutos/N em/P chegar/V a/P as/ART aulas/N caminando/A !/PNT
+
+O/ART prédio/N onde/ADV moro/A tem/V quase/ADV 60/CARD anos/N ,/PNT está/V em/P uma/ART rua/N muito/ADV céntrica/A ,/PNT perto/ADV de/P a/ART Praça/N de/P a/ART República/N ./PNT
+
+Em/P a/ART mesma/A rua/N ,/PNT a/P o/ART lado/N de/P o/ART meu/POSS prédio/N ,/PNT há/V dois/CARD bares/N que/REL onde/ADV sempre/ADV há/V muita/QNT gente/N :/PNT O/ART Requinte/N e/CONJ o/ART Jocas/N ./PNT
+
+À/V noite/N sempre/ADV há/V barulho/N e/CONJ as/ART vezes/N não/ADV é/V fácil/A dormir/V ./PNT
+
+Mas/V viver/V em/P a/ART zona/N de/P festa/N tem/V vantagens/N :/PNT quando/CONJ quisseres/V voltar/V para/P casa/N não/ADV tens/V de/P apanhar/V um/ART autocarro/N o/ART carro/N ou/CONJ o/ART táxi/N ,/PNT podes/V ir/V a/P a/ART pé/N ./PNT
+
+Eu/PRS moro/V em/P o/ART résdochão/N com/P dois/CARD rapazes/N espanhóis/A ./PNT
+
+Em/P o/ART 1º/ORD andar/V moram/V 4/A raparigas/N portuguesas/A ,/PNT mas/CONJ em/P o/ART fimdesemana/N eles/PRS não/ADV ficam/V cá/ADV porque/CONJ as/ART 4/N são/V de/P Lisboa/N ./PNT
+
+Em/P a/ART subcave/N mora/V só/ADV uma/ART rapariga/N espanhola/A ./PNT
+
+Eu/PRS gosto/V muito/ADV de/P a/ART minha/POSS casa/N ,/PNT tem/V umas/ART vistas/N muito/ADV bonitas/V pois/ADV desde/P a/ART minha/POSS janela/N podes/V ver/V a/ART sénova/N e/CONJ desde/P a/ART cozinha/N se/CL vêm/V casas/N de/P cores/N diferentes/A ./PNT
+
+Acho/V que/C é/V quase/ADV o/ART melhor/N de/P o/ART prédio/N ,/PNT as/ART vistas/N !/PNT
+
+O/ART pior/A pode/V ser/V o/ART barulho/N e/CONJ os/ART vizinhos/N que/REL moram/V em/P a/ART cave/N ,/PNT pois/ADV não/ADV arrumam/V nunca/ADV as/ART zonas/N comuns/A como/CONJ ,/PNT por/P exemplo/N ,/PNT o/ART jardim/N ./PNT
+
+Outra/ART coisa/N de/P a/ART qual/REL eu/PRS não/ADV goste/V é/V que/C não/ADV temos/V lojas/N perto/ADV de/P a/ART casa/N e/CONJ se/CL queremos/V fazer/V compras/N temos/V que/C ir/V até/P a/ART Baixa/N a/P o/ART Pingo/N Doce/A ou/CONJ a/P o/ART Dolce/N Vita/A ,/PNT que/REL fica/V um/ART bocado/N mais/ADV longe/ADV e/CONJ é/V precisso/V apanhar/V um/ART táxi/N para/P podez/N trazer/N tudos/N os/ART sacos/N ./PNT
+
+Também/ADV gosto/V muito/ADV de/P o/ART meu/POSS bairro/N porque/CONJ ,/PNT embora/CONJ há/V muita/QNT gente/N nos/N bares/N bébada/N ,/PNT ná/V há/V problemas/N tipo/N delinquência/A ou/CONJ peleas/A ,/PNT é/V muito/ADV tranquilos/A em/P esse/DEM sentido/N ./PNT
+
+Perto/ADV de/P a/ART minha/POSS casa/N há/V várias/QNT república/N e/CONJ ,/PNT embora/CONJ não/ADV gostaria/V de/P nie/V um/ART bocadinho/N de/P morar/N lá/ADV porque/CONJ acho/V que/C isso/DEM é/V um/ART absoluto/N caos/A ,/PNT há/V muita/QNT festa/N e/CONJ são/V muito/ADV divertidas/A ./PNT
+
+Há/V muita/QNT gente/N ,/PNT música/N ,/PNT jantares/N .../PNT
+

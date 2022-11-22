@@ -1,0 +1,38 @@
+Eu/PRS chamo/V me/CL XXXXX/A e/CONJ tenho/V 21/CARD anos/N ./PNT
+
+Sou/V alto/A e/CONJ magro/A ./PNT
+
+Tenho/V o/ART cabeiro/N preto/N e/CONJ curto/A e/CONJ olhos/N castanhos/A ./PNT
+
+Uso/V óculos/N ./PNT
+
+Sou/V muito/ADV simpático/A ./PNT
+
+Sou/V chinês/A ,/PNT mas/CONJ agora/ADV moro/V em/P o/ART Porto/N com/P a/ART minha/POSS mãe/N ./PNT
+
+O/ART meu/POSS apratamento/N não/ADV e/CONJ grande/A ,/PNT mas/CONJ é/V muito/ADV bonito/A ./PNT
+
+Gosto/V muito/ADV de/P o/ART meu/POSS apratamento/N ./PNT
+
+Tem/V dois/CARD quartos/N ,/PNT uma/ART cozinha/N ,/PNT uma/ART casa/N de/P banho/N e/CONJ uma/ART sala/N ./PNT
+
+Tenho/V um/ART quarto/N próprio/POSS que/REL fica/V a/P o/ART lado/N de/P a/ART entrada/N ./PNT
+
+A/ART sala/N fica/V enfrente/N de/P o/ART meu/POSS quarto/N ./PNT
+
+A/ART cozinha/N fica/V a/P a/ART direita/N de/P a/ART sala/N e/CONJ a/ART casa/N de/P banho/N fica/V a/P a/ART esquerda/N de/P a/ART sala/N ./PNT
+
+O/ART quarto/ORD de/P a/ART minha/POSS mão/N fica/V a/P a/ART esquerda/N de/P o/ART corredor/N ./PNT
+
+A/ART minha/POSS rua/N é/V estreita/A e/CONJ tranquila/A ./PNT
+
+Gosto/V de/P nadar/N e/CONJ ler/V livros/N ./PNT
+
+Todos/QNT os/ART dias/N a/P a/ART noite/N leio/V um/ADV pouco/ADV de/P livros/N e/CONJ a/P o/ART fimdesemana/N faço/V desporto/N ./PNT
+
+Agora/ADV estou/V a/P estudar/V Língua/N português/A em/P Coimbra/N ./PNT
+
+Em/P a/ART Universidade/N tenho/V muito/QNT amigos/N estrangeiros/A ./PNT
+
+Desejo/V estudar/V português/A muito/ADV bem/ADV ./PNT
+

@@ -1,0 +1,6 @@
+Viajai/V muito/ADV com/P os/ART comboios/N e/CONJ com/P autocarro/N ./PNT
+
+Pessoalmente/V não/ADV gosto/V de/P conduzir/V o/ART carro/N mas/CONJ acho/ADV isto/DEM é/V o/ART meios/N de/P transporte/N melhor/A ./PNT
+
+Viajai/V tambem/N com/P o/ART aviao/N ./PNT
+

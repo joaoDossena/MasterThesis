@@ -1,0 +1,28 @@
+Sou/V de/P Inglaterra/N ,/PNT e/CONJ embora/CONJ seja/V um/ART país/N bastante/ADV pequeno/A ,/PNT tem/V diversidade/N quanto/P a/P a/ART paisagem/N e/CONJ os/ART hábitos/N ./PNT
+
+Eu/PRS vivi/V em/P o/ART norte/N e/CONJ também/ADV o/ART sul/N ,/PNT as/ART regiões/N com/P mais/QNT diferença/N ./PNT
+
+O/ART norte/N é/V menos/ADV povoado/A ,/PNT com/P só/ADV algumas/QNT grandes/A cidades/N --/N Leeds/N ,/PNT Manchester/N ,/PNT Neecastle/N ,/PNT -/N e/CONJ em/P o/ART meio/N de/P o/ART norte/N até/P o/ART sul/N existe/V uma/ART linha/N de/P montanhas/N ,/PNT separando/V este/DEM e/CONJ oeste/N ./PNT
+
+em/P esta/DEM região/N há/V uma/ART variedade/N de/P propriedades/N que/REL o/ART público/N pode/V visitar/N --/N ``/N Castle/N Howard/N ''/N ,/PNT ``/N Chatsworth/N House/N ''/N --/N com/P jardins/N bem/ADV montados/A e/CONJ algumas/QNT com/P parques/N de/P animais/N ./PNT
+
+O/ART ponto/N alto/A de/P o/ART norte/N tem/V que/C ser/V o/ART noroeste/N --/V o/ART ``/N distrito/N de/P lagos/N ''/A ;/PNT uma/ART região/N de/P montanhas/N ,/PNT lagos/N e/CONJ aldeias/N bonitas/N --/N como/CONJ pode/V se/CL ver/V a/P o/ART lado/N de/P o/ART lago/N Windermere/A ./PNT
+
+Em/P as/ART cidades/N de/P Liverpool/N e/CONJ Manchester/N ,/PNT há/V edifícios/N antigos/A ,/PNT de/P a/ART época/N industrial/A ./PNT
+
+Com/P certeza/N há/V muitos/QNT monumentos/N importantes/A em/P Londres/N ,/PNT em/P o/ART sul/N de/P o/ART país/N ./PNT
+
+Durante/P um/ART caminho/N por/P o/ART centro/N de/P a/ART cidade/N verCLá/V se/CL a/ART ponte/N de/P as/ART torres/N ,/PNT a/ART sé/N S./N Paulo/N e/CONJ a/ART torre/N de/P Londres/N ./PNT
+
+Em/P a/ART costa/N de/P o/ART sul/N há/V mais/ADV uma/ART herança/N marítima/A ,/PNT como/ADV tal/ADV em/P Portsmouth/N e/CONJ Southampton/N ./PNT
+
+em/P aquela/DEM cidade/N existem/V o/ART velho/A porto/N ,/PNT e/CONJ os/ART grandes/A barcos/N de/P velas/N ficam/V lá/ADV --/N ``/N Victory/N ''/N e/CONJ ``/N Warrior/N ''/N ./PNT
+
+Por/P causa/P de/P a/ART longa/A história/N de/P o/ART país/N ,/PNT há/V vários/QNT castelos/N em/P todas/QNT partes/N ,/PNT e/CONJ o/ART monumento/N mais/ADV misterioso/A é/V Stonehenge/A ,/PNT perto/ADV de/P Salisbury/N ./PNT
+
+Em/P relação/N a/P os/ART hábitos/N ,/PNT a/ART cultura/N é/V mais/ADV ou/CONJ menos/ADV igual/A por/P todo/QNT o/ART país/N ,/PNT mas/CONJ a/ART diferença/N mais/ADV notável/A é/V a/ART de/P a/ART língua/N e/CONJ os/ART dialectos/N ./PNT
+
+Há/V uma/ART riqueza/N de/P sotaques/N e/CONJ vocabulário/V específica/N de/P cada/QNT região/N ./PNT
+
+Uma/ART de/P as/ART tradições/N que/REL os/ART ingleses/N costumam/V fazer/V acontece/V em/P o/ART dia/N 5/CARD de/P Novembro/N ,/PNT quando/CONJ fazem/V um/ART grande/A fogo/N ,/PNT e/CONJ lá/ADV em/P cima/P põem/N uma/ART figura/N de/P ``/N Guy/N Fawkes/N ''/N ,/PNT que/REL tentou/V de/P destruir/N o/ART parlamento/N há/V uns/ART séculos/N atrás/A ./PNT
+

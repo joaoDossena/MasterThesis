@@ -1,0 +1,24 @@
+Olá/V XXXXX/N !/PNT
+
+Ainda/ADV te/CL lembras/V de/P mim/PRS ?/PNT
+
+Há/V muito/ADV tempo/N que/REL não/ADV se/CONJ nada/QNT de/P ti/PRS ,/PNT acho/V que/C desde/CONJ que/REL estivemos/N juntos/A em/P a/ART festa/N de/P o/ART teu/POSS povo/N ,/PNT que/REL engraçada/A foi/V ,/PNT ainda/ADV me/CL lembro/V de/P aquelas/DEM musicas/N tradicionais/A ,/PNT de/P quando/CONJ tocávamos/N o/ART bombo/N ,/PNT e/CONJ se/CL ,/PNT também/ADV de/P aquele/DEM vinho/N tão/ADV bom/A que/REL fazem/V teus/POSS avós/N ./PNT
+
+Como/V vai/V tudo/QNT lá/ADV ?/PNT
+
+Ainda/ADV estas/DEM a/P estudar/V o/ART já/ADV és/V um/ART homem/N trabalhador/A ?/PNT
+
+.../PNT Acho/V que/C isso/DEM nunca/ADV vai/V acontecer/V se/CL todo/QNT segue/V igual/A ./PNT
+
+Eu/PRS agora/ADV estou/V a/P estudar/V em/P Coimbra/N -LRB-/N Portugal/N -RRB-/N ./PNT
+
+Vou/V a/P estar/V aqui/ADV até/P Fevereiro/N com/P uma/ART bolsa/N que/REL chama/V se/CL Erasmus/V ./PNT
+
+Estou/V a/P gostar/V muito/ADV ,/PNT a/ART cidade/N é/V bem/ADV bonita/A e/CONJ tenho/V conhecida/A muitas/QNT pessoas/N ./PNT
+
+Agora/ADV vou/V a/P voltar/V a/ART minha/POSS terra/N par/N as/ART festas/N de/P Natal/N ,/PNT tenho/V saudades/N de/P a/ART minha/POSS familia/N porque/CONJ faz/V 4/CARD meses/N que/REL estou/V aqui/ADV e/CONJ que/REL não/ADV os/CL vejo/V ,/PNT e/CONJ também/ADV de/P o/ART nosso/POSS tempo/N quente/A já/ADV que/C aqui/ADV faz/V bastante/QNT frio/N ./PNT
+
+-LRB-/V Sei/V que/C algum/QNT dia/N -RRB-/V Algum/QNT dia/N voltarei/A a/ART teu/POSS pais/N ./PNT
+
+Cumprimentos/V !/PNT
+

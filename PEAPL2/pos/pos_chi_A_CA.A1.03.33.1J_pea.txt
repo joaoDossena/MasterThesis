@@ -1,0 +1,30 @@
+Quanto/P eu/PRS não/ADV tenho/V trabalho/N ./PNT
+
+./N
+
+eu/PRS fica/V em/P casa/N vejo/V televisão/N com/P as/ART minhas/POSS primos/N ./PNT
+
+em/P os/ART pricalharam/N ,/PNT estou/V alegre/A muito/ADV ./PNT
+
+Comemos/V uma/ART pipoca/N ,/PNT eu/PRS acho/V que/C doce/V muito/ADV de/P pipoca/N ./PNT
+
+Depois/ADV saio/V de/P casa/N ,/PNT vou/V para/P doce/N vida/N ,/PNT fazer/V compramos/V as/ART coisas/N nós/PRS sempremos/V comprar/V em/P a/ART doce/N vida/N ,/PNT porque/CONJ fica/V perto/ADV de/P as/ART nossas/POSS casas/N ,/PNT igualmente/ADV ,/PNT as/ART coisas/N é/V bonita/A ,/PNT e/CONJ mais/ADV barato/A ./PNT
+
+Eu/PRS gosto/V muito/ADV de/P um/ART par/N de/P sapados/N branco/A ,/PNT que/REL vijo/V em/P uma/ART montra/N ./PNT
+
+e/CONJ resolvo/N experimentá/N #/N los/N ,/PNT Eu/PRS acho/V que/REL te/CL muito/ADV bem/ADV ./PNT
+
+Mas/V a/ART minha/POSS prima/N acha/A que/C são/V um/ADV pouco/ADV caros/A ./PNT
+
+./N
+
+por/P isso/DEM ,/PNT Eu/PRS não/ADV compro/V os/ART sapatos/N ./PNT
+
+Vamos/V ver/V outro/ART loja/N ,/PNT está/V muito/ADV tarde/ADV ./PNT
+
+Saimos/V de/P casa/N As/ART 9.00/N horas/N ./PNT
+
+eu/PRS tomo/V um/ART banho/N ,/PNT Depois/ADV jogo/N computador/N ./PNT
+
+levanto/V me/CL as/ART 11.00/N horas/N hoje/ADV é/V bom/A dia/N !/PNT
+

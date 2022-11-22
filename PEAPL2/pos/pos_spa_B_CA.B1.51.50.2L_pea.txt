@@ -1,0 +1,36 @@
+Todos/QNT os/ART países/N têm/V suas/POSS particularidades/N ./PNT
+
+Em/P o/ART caso/N de/P Chile/N acho/V que/C a/ART sua/POSS geografia/N é/V muito/ADV curiosa/A ./PNT
+
+Em/P o/ART comprimento/N tem/V mais/ADV de/P 4.000/N km/A ,/PNT mas/CONJ a/ART largura/N é/V só/ADV de/ADV 400/CARD km/N ./PNT
+
+Por/P esta/DEM razão/N ,/PNT em/P o/ART extremo/N norte/A de/P o/ART país/N existe/V o/ART deserto/N mais/ADV seco/A de/P o/ART mundo/N ,/PNT e/CONJ em/P o/ART extremo/N sul/N o/ART clima/N é/V quasi/A polar/N ./PNT
+
+Assim/ADV ,/PNT a/P o/ART mesmo/A tempo/N ,/PNT em/P o/ART mesmo/A território/N ,/PNT há/V dois/CARD climas/N -LRB-/N com/P suas/POSS características/N biogeográficas/A -RRB-/V completamente/ADV diferentes/A ./PNT
+
+Entre/P estos/N extremoshá/A tuda/V a/ART variedade/N de/P climas/N que/REL existem/V ,/PNT condição/N que/REL muda/V não/ADV só/ADV a/ART geografia/N e/CONJ a/ART biodiversidade/N ,/PNT como/CONJ também/ADV a/ART gente/N e/CONJ os/ART seus/POSS costumes/N ./PNT
+
+A/ART relativa/A ``/N pequena/A ''/V largura/N de/P o/ART país/N permite/V nos/N viajar/A entre/P a/ART cordilheira/N e/CONJ o/ART océano/N em/P só/ADV dois/CARD a/P três/CARD horas/N ./PNT
+
+Assim/ADV uma/ART pessoa/N pode/V viajar/V desde/P a/ART praia/N até/P a/ART cordilheira/N nevada/A ,/PNT e/CONJ voltar/V em/P o/ART mesmo/A dia/N ./PNT
+
+Para/P mim/PRS ,/PNT um/ART de/P os/ART monumentos/N -LRB-/N naturais/A -RRB-/N que/REL tem/V muita/QNT importânza/N em/P o/ART país/N é/V a/ART cordilheira/N de/P os/ART Andes/N ,/PNT com/P volcãos/N com/P mais/ADV de/ADV 6.000/CARD m/N de/P altura/N e/CONJ neves/N eternas/A ./PNT
+
+O/ART mar/N ,/PNT também/ADV ,/PNT tem/V muita/QNT importânza/N porque/CONJ a/ART maioria/N de/P a/ART população/N mora/V em/P a/ART costa/N ./PNT
+
+Há/V muita/QNT pesca/N ,/PNT tanto/ADV industrial/A como/CONJ artesanal/A ./PNT
+
+As/ART características/N oceonográficas/N de/P a/ART costa/N chilena/A ,/PNT com/P ventos/N de/P surgências/N e/CONJ pouca/QNT contaminação/N ,/PNT permitem/V uma/ART alta/A biodiversidade/N marina/A ./PNT
+
+Em/P relação/N a/P os/ART hábitos/N de/P a/ART população/N ,/PNT eu/PRS não/ADV vejo/V muita/QNT diferença/N com/P Portugal/N ./PNT
+
+O/ART comportamento/N de/P a/ART gente/N é/V semelhante/A ,/PNT se/CONJ calhar/V mais/ADV alegre/A ./PNT
+
+Gosta/V se/CL muito/ADV de/P festas/N e/CONJ boa/A comida/N ,/PNT sobretudo/ADV em/P grandes/A quantidades/N ./PNT
+
+Uma/ART data/N importante/A que/REL se/CL festeja/V é/V o/ART dia/N de/P a/ART Independência/N ./PNT
+
+Os/ART dias/N 18/CARD e/CARD 19/CARD de/P Septembro/N são/V feriados/A ,/PNT mas/CONJ a/ART festa/N dura/V a/ART semana/N completa/A ./PNT
+
+Bebe/V se/CL bom/A vinho/N e/CONJ faze/V se/CL muitos/QNT churrascos/N e/CONJ doces/N ./PNT
+

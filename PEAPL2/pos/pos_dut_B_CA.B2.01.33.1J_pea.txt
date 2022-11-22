@@ -1,0 +1,28 @@
+Em/P os/ART meus/POSS tempos/N livres/A gosto/V de/P fazer/V várias/QNT coisas/N :/PNT ler/ADV ,/PNT fazer/V desporto/N ,/PNT passear/V em/P a/ART serra/N ,/PNT falar/V com/P meus/POSS amigos/N .../PNT ./PNT
+
+Agora/ADV ,/PNT ciclismo/N é/V o/ART meu/POSS preferido/N ./PNT
+
+Tenho/V uma/ART bicicleta/N `/N racing/N '/PNT que/REL trouxe/V de/P a/ART Bélgica/N ,/PNT e/CONJ cada/QNT dia/N -LRB-/A quando/CONJ o/ART tempo/N está/V bom/A ,/PNT se/CONJ o/ART tempo/N for/V bom/A ,/PNT quente/A -RRB-/A costumo/A andar/V de/P bicicleta/N partindo/A de/P a/ART minha/POSS casa/N ,/PNT logo/ADV há/V uma/ART descida/N de/P 4/A quilómetros/N para/P Lousã/N ,/PNT e/CONJ em/P a/ART Lousã/N começa/V a/ART subida/N a/P a/ART Alta/N de/P Trevim/N ,/PNT o/ART ponto/N mais/ADV alto/A de/P o/ART território/N Português/N Continental/N -LRB-/N 1204/N -RRB-/N ./PNT
+
+A/ART subida/N e/CONJ a/ART descida/N ,/PNT então/ADV o/ART viagem/N ida/N e/CONJ volta/N dura/V entre/P 2/N horas/N e/CONJ meia/N e/CONJ 3/N horas/N ,/PNT dependente/V de/P a/ART minha/POSS forma/N ./PNT
+
+Comecei/V com/P a/ART subida/N de/P a/ART Cova/N de/P o/ART Lobo/N ,/PNT a/ART Gandramar/N ,/PNT uma/ART descida/N de/P 5/CARD km/N e/CONJ depois/ADV uma/ART subida/N de/P 6/N quilómetros/N -LRB-/CARD %/PERCENT de/P declive/N :/PNT 12/CARD até/P 15/CARD -RRB-/N ./PNT
+
+Já/ADV uma/ART vez/N tive/V um/ART furo/N durante/P a/ART descida/N ,/PNT em/P uma/ART viagem/N e/CONJ caí/N para/P baixa/N de/P o/ART declive/N ./PNT
+
+Felizmente/N ,/PNT quando/CONJ finalmente/ADV consegui/V chegar/V em/P a/ART rua/N de/P novo/A ,/PNT passou/V um/ART carro/N -LRB-/A o/ART quê/N é/V muito/ADV raro/A -RRB-/A e/CONJ o/ART conductor/N parou/A ,/PNT vindo/V sangue/A e/CONJ chamou/V os/ART bombeiros/N ./PNT -RRB-/V
+
+Chegam/V os/ART bombeiros/N ,/PNT olham/V a/ART situação/N e/CONJ chamam/V logo/ADV O/ART INEM/N para/P transportarem/N me/CL a/ART Coimbra/N -LRB-/N HUC/N -RRB-/N Não/ADV tinha/V fracturas/N e/CONJ as/ART enfermeiras/N ``/N consertaramme/N ''/N ./PNT
+
+Em/P a/ART aldeia/N havia/V muito/QNT comentário/N -LRB-/A positivo/A -RRB-/N ./PNT
+
+Depois/ADV de/P um/ART mes/N ,/PNT consegui/V fazé/N #/N lo/N em/P um/ART prazo/N de/P 2/N h/A 30/CARD -LRB-/N média/A de/P 18/CARD -/N 19/CARD hora/N -RRB-/A ./PNT
+
+Agora/ADV não/ADV posso/V treinar/V muito/ADV por/P causa/N de/P o/ART curso/N e/CONJ de/P o/ART tempo/N ,/PNT mas/CONJ quando/CONJ as/ART condições/N metereológicas/V começar/V a/ART ameliorar/N ,/PNT vou/V recomeçar/V ./PNT
+
+Para/P manter/V a/ART forma/N em/P um/ART nível/N aceitável/A ,/PNT subo/V as/ART escadas/N monumentais/N 3/N vezes/N cada/QNT dia/N -LRB-/A Para/P encontrar/V estacionamento/N tenho/V de/P chegar/V muito/ADV cedo/ADV de/P manhã/N -RRB-/A ./PNT
+
+Estou/V a/ART ler/N também/ADV a/ART série/N ``/A Os/ART filhos/N de/P a/ART Terra/N ''/A -LRB-/V 5/CARD livros/N -RRB-/A de/P a/ART escritora/N J.M/A ./PNT
+
+AVEL/V ,/PNT sobre/P a/ART transição/N de/P o/ART homem/N Neenderthaler/N -/N que/C não/ADV consegui/V falar/V --/V só/ADV gestos/V para/P o/ART homem/N Sapiens/A devolução/N de/P a/ART língua/N ./PNT
+

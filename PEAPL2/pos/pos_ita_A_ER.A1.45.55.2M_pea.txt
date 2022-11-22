@@ -1,0 +1,30 @@
+Gosto/V muito/ADV de/P comer/N ./PNT
+
+Quando/CONJ como/CONJ eu/PRS sou/V feliz/A porque/CONJ posso/V comer/N sem/P a/ART preocupação/N de/P diventar/N gordo/A ./PNT
+
+Eu/PRS tenho/V muita/QNT sorte/N porque/CONJ tenho/V uma/ART caracteristica/N fisica/N muito/ADV boa/A :/PNT posso/V comer/V muito/ADV sem/P diventar/N gordo/A ./PNT
+
+Por/ADV esto/ADV facto/ADV como/CONJ as/ART todas/QNT as/ART horas/N de/P o/ART dia/N sem/P preocupaçoes/N ./PNT
+
+Eu/PRS tenho/V muita/QNT sorte/N também/ADV porque/CONJ minha/POSS namorada/N trabalho/N em/P o/ART restaurante/N ``/N XXXXX/N ''/N ,/PNT que/REL é/V uma/ART ádega/N tipica/A portuguesa/A ,/PNT portanto/ADV como/CONJ comidas/A portuguesas/A todos/QNT os/ART dias/N ./PNT
+
+A/ART comida/N que/REL gosto/V mais/ADV e/CONJ o/ART bacalhau/N -LRB-/V também/ADV a/ART minha/POSS avó/N italiana/A sabe/V cozinhar/V bacalhau/N -RRB-/A ./PNT
+
+Como/V bacalhau/N com/P natas/N ,/PNT com/P polvo/N ,/PNT a/ART lagrougeiro/N e/CONJ são/V ``/N pataniscas/N ''/N ./PNT
+
+Quando/CONJ a/ART Minha/N namorada/N trago/V me/CL ``/V pataniscas/N ''/A e/CONJ ``/N migas/N ''/N -LRB-/N com/P pão/N e/CONJ feijaos/N -RRB-/A eu/PRS sou/V muito/ADV feliz/A !/PNT
+
+Eu/PRS acho/V que/C a/P os/ART comidas/N portuguesas/A são/V muitos/QNT boas/A mas/CONJ eu/PRS detesto/V comer/N ``/N orelhas/N de/P porco/N ''/A ./PNT
+
+Eu/PRS nunca/ADV como/ADV ``/V orelhas/N de/P porco/N ''/A e/CONJ não/ADV quero/V comer/V esta/DEM cominda/N para/P toda/QNT a/ART minha/POSS vida/N !/PNT
+
+Eu/PRS gosto/V tambem/A sobremesas/N portuguesas/A ./PNT
+
+Minhas/N sobremesas/N preferidas/N são/V :/PNT ``/N bolo/N rei/N ''/N ,/PNT ``/N baba/A de/P camelop/N ''/A ,/PNT ``/V bolo/N de/P bolachas/N ''/A e/CONJ os/ART obçes/N de/P Santa/N Clara/N ./PNT
+
+Os/ART obçes/N de/P Santa/N Clara/N são/V muito/ADV boas/A ./PNT
+
+Eu/PRS seu/POSS que/REL irmas/V de/P a/ART igreia/N de/P Santa/N Clara/N fazem/V estes/DEM obdçes/N ./PNT
+
+Eu/PRS gosto/V muito/ADV de/P saber/V informaçoes/N sobra/A comidas/N portuguesas/A !/PNT
+

@@ -1,0 +1,30 @@
+Olá/V querido/N !/PNT
+
+Tudo/QNT bem/ADV ?/PNT
+
+Já/ADV há/V muito/QNT tempo/N vivo/A em/P Coimbra/N para/P começar/V a/P estudar/V português/A e/CONJ ainda/ADV não/ADV recebi/V notícia/N nenhuma/QNT sobre/P ti/PRS !/PNT
+
+Como/V é/V possível/A ?/PNT
+
+Esqueceste/V te/CL de/P mim/PRS ?/PNT
+
+Ou/CONJ se/CL calhar/V não/ADV tens/V saudades/N de/P os/ART anos/N em/P que/REL estudámos/N juntos/A .../PNT Como/N vês/V não/ADV perdi/A o/ART hábito/N e/CONJ o/ART gosto/V para/P o/ART estudo/N de/P as/ART línguas/N estrangeiras/A ,/PNT espero/N que/REL tu/PRS também/ADV estejas/V a/P continuar/V a/ART aprendizajem/N de/P o/ART holandês/A --/N gostavas/A tanto/ADV de/P aquela/DEM língua/N ,/PNT não/ADV é/V ?/PNT
+
+O/ART que/REL é/V que/C estás/V a/P fazer/V agora/ADV ?/PNT
+
+A/ART última/ORD vez/N que/REL nos/V encontrámos/V falámos/N em/P os/ART teus/POSS projectos/N profissionais/A e/CONJ em/P a/ART tua/POSS vontade/N de/P ir/V viver/V para/P fora/ADV .../PNT então/ADV ,/PNT há/V alguma/QNT novedade/N ?/PNT
+
+A/ART minha/POSS vida/N aqui/ADV está/V a/P correr/V muito/ADV bem/ADV :/PNT desde/P que/REL cheguei/V a/ART Coimbra/N tenho/V estudado/V muito/ADV mas/CONJ também/ADV tive/V numerosas/QNT oportunidades/N para/P conhecer/V a/ART cultura/N deste/N povo/N ./PNT
+
+Os/ART Portugueses/N são/V mais/ADV abertos/A de/P o/ART que/REL achava/V ,/PNT e/CONJ isso/DEM foi/V uma/ART sorpresa/N bem/ADV agradável/A !/PNT
+
+A/ART cidade/N fica/V bastante/ADV perto/ADV quer/V de/P Lisboa/N quer/V de/P o/ART Porto/N ,/PNT e/CONJ por/P isso/DEM estou/V a/ART aproveitar/N quase/QNT todos/QNT os/ART fins/N de/P semana/N para/P visitar/N estas/DEM cidades/N -/N ir/V a/P os/ART museus/N ,/PNT a/P os/ART concertos/N ,/PNT sair/V a/P a/ART noite/N e/CONJ fazer/V festas/N .../PNT tal/D como/ADV costumávamos/A fazer/V juntos/A ,/PNT lembras/V te/CL ?/PNT
+
+Porém/ADV agora/ADV é/V diferente/A ,/PNT de/P aqui/ADV a/ART poucos/QNT meses/N vou/V começar/V a/P trabalhar/V novamente/ADV e/CONJ infelizmente/N vou/V abandonar/V os/ART divertimentos/N de/P a/ART maravilhosa/A vida/N de/P o/ART estudante/N --/A e/CONJ é/V diferente/A também/ADV porque/CONJ nunca/ADV gostei/A de/P sair/V com/P ninguém/N tanto/ADV como/CONJ gostava/V de/P fazê/N #/N lo/N com/P ti/PRS !/PNT
+
+!/N
+
+Fico/V a/P a/ART espera/N de/P notícias/N tuas/POSS ,/PNT poderias/ADV escrever/V me/CL por/P o/ART menos/ADV algumas/QNT linhas/N por/P email/N .../PNT Obviamente/ADV convido/V te/CL para/P uma/ART visita/N a/ART Portugal/N ,/PNT espero/V ver/V te/CL a/P o/ART vivo/A também/ADV !/PNT
+
+Beijinhos/N e/CONJ abraços/N ./PNT
+

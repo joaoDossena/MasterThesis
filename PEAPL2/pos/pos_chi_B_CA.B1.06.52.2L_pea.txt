@@ -1,0 +1,36 @@
+Estudo/N português/A há/V 3/CARD anos/N ,/PNT durante/P este/DEM período/N aprendi/V algumas/QNT culturas/N portuguesas/A ,/PNT como/CONJ a/ART sua/POSS língua/N ,/PNT habitação/N de/P a/ART população/N e/CONJ arte/N ./PNT
+
+Quando/CONJ aprendo/V mais/ADV esta/DEM língua/N ,/PNT descobro/V mais/ADV deferença/A a/ART cultura/N entre/P este/DEM país/N e/CONJ o/ART meu/POSS país/N ,/PNT China/N ./PNT
+
+Por/P exemplo/N ,/PNT a/ART língua/N chinesa/A tem/V a/ART sua/POSS regra/N ,/PNT a/ADV seguir/ADV sujeito/A ,/PNT mais/ADV verbo/A e/CONJ mais/ADV objecto/N e/CONJ não/ADV pode/V mudar/V este/DEM regra/N ,/PNT em/P o/ART entanto/ADV ,/PNT o/ART português/A aparece/V mais/ADV livre/A ./PNT
+
+A/ART língua/N portuguesa/A fala/V ``/N tomar/V sopa/N ''/A e/CONJ o/ART chinês/A usa/N o/ART verbo/N ``/V beber/V ''/N ./PNT
+
+podemos/V dizer/V que/C estas/DEM dua/N línguas/V quase/ADV totalmente/ADV são/V diferentes/A ./PNT
+
+Em/P o/ART apecto/N de/P habitação/N ,/PNT os/ART chineses/N costumam/N comer/N arroz/N todos/QNT os/ART dias/N e/CONJ raramente/ADV comer/A pão/N ou/CONJ massa/N durante/P em/P o/ART almoço/N ou/CONJ em/P o/ART jantar/N ./PNT
+
+Os/ART portugueses/N gostam/V de/P tomar/V um/ART corpo/N café/N em/P o/ART tempo/N livre/A e/CONJ os/ART chineses/N preferem/N chá/N ./PNT
+
+O/ART estilo/N de/P arquitectura/N também/ADV é/V muito/ADV diferente/A ./PNT
+
+A/P saber/V ,/PNT o/ART edifício/N português/A é/V mais/ADV baixa/A e/CONJ mais/ADV decoração/N ./PNT
+
+Gosto/V muito/ADV de/P igreja/N de/P Portugal/N ,/PNT é/V muito/ADV muito/ADV grande/A ./PNT
+
+Normalmente/ADV tem/V a/ART sua/POSS história/N ,/PNT tem/V o/ART estilo/N manuelino/A e/CONJ ou/CONJ Barroco/A ./PNT
+
+A/ART pintura/N dentro/ADV de/P igreja/N é/V fantástica/A ./PNT
+
+Estou/V sempre/ADV a/P pensar/V como/CONJ é/V que/C os/ART portugueses/N conseguem/V fazer/V um/ART estilo/N tão/ADV maravilhoso/A !/PNT
+
+Portanto/ADV ,/PNT Portugal/N e/CONJ a/ART China/N também/ADV tem/V a/ART sua/POSS história/N gloriosa/A ./PNT
+
+Em/P o/ART século/N XVI/N ,/PNT como/CONJ o/ART século/N ouro/N em/P Portugal/N ./PNT
+
+Os/ART portugueses/N faziam/V o/ART descobrimento/N marítimo/A e/CONJ extingia/V todo/QNT o/ART mundo/N ,/PNT trazia/V muitos/QNT produtos/N para/P Portugal/N ./PNT
+
+E/CONJ a/ART China/N tem/V 5.000/CARD anos/N históricos/A e/CONJ era/V dominado/V por/P os/ART Impérios/N diversos/QNT ./PNT
+
+Mesmo/ADV que/CONJ dois/CARD país/N tenham/V a/ART cultura/N tão/ADV diferente/A ,/PNT hoje/ADV em/P dia/N ,/PNT a/ART relação/N entre/P de/P eles/PRS está/V a/P desenvolver/V em/P paz/N ./PNT
+

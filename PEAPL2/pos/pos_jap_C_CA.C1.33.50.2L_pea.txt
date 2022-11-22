@@ -1,0 +1,28 @@
+Nasci/V e/CONJ cresci/V em/P o/ART Japão/N ./PNT
+
+O/ART Japão/N é/V um/ART país/N bem/ADV interessante/A porque/CONJ mesmo/A que/REL se/CL situa/V em/P o/ART Extremo/N Oriente/N ,/PNT é/V bem/ADV diferente/A de/P o/ART que/REL os/ART países/N vizinhos/A quer/CONJ em/P os/ART aspectos/N físicos/A quer/CONJ em/P os/ART aspectos/N mentais/A ./PNT
+
+Japão/N pode/V dividir/V se/CL em/P a/ART Ilha/N Norte/N ,/PNT o/ART Norte/N ,/PNT o/CONJ Este/DEM ,/PNT o/ART OesteCentral/N e/CONJ as/ART Ilhas/N Oestes/A ./PNT
+
+Em/P a/ART outra/A dimensão/N também/ADV pode/V dividir/V se/CL em/P o/ART lado/N de/P o/ART Oceano/N Pacífico/A e/CONJ de/P o/ART Oceano/N Japonês/A ./PNT
+
+Cada/QNT tem/V diversos/QNT climas/N ,/PNT culturas/N ,/PNT dialectos/A e/CONJ indústrias/A ./PNT
+
+Mesmo/ADV em/P a/ART cidade/N de/P Tóquio/N ,/PNT em/P que/REL eu/PRS cresci/V ,/PNT há/V muitas/QNT casas/N ./PNT
+
+O/ART bairro/N leste/A é/V a/ART zona/N histórica/A ./PNT
+
+A/ART sua/POSS cultura/N é/V mais/ADV tradicional/A e/CONJ a/ART mentalidade/N de/P o/ART povo/N parece/V mais/ADV afectiva/A de/P o/ART que/REL a/ART de/P os/ART outros/A de/P os/ART outros/A bairros/N -LRB-/A há/V uma/ART palavra/N ,/PNT tipo/N como/CONJ ``/N saudade/N ''/N ,/PNT que/REL a/ART expressa/N -RRB-/A ./PNT
+
+Com/P a/ART presença/N de/P os/ART portos/N ,/PNT de/P os/ART canais/N e/CONJ de/P a/ART costa/N ,/PNT a/ART vida/N de/P os/ART povos/N é/V ligada/N a/P a/ART indústria/N marinheira/A e/CONJ têxtil/A ./PNT
+
+O/ART bairro/N central/A é/V a/ART zona/N metropolitana/A que/REL há/V muitos/QNT edifícios/N superaltos/A e/CONJ andam/V uns/ART dez/CARD milhões/N de/P pessoas/N durante/P o/ART dia/N e/CONJ a/ART noite/N ./PNT
+
+O/ART bairro/N oeste/A é/V a/ART zona/N residencial/A em/P que/REL muitos/QNT recémchegados/N ou/CONJ estrangeiros/A moram/V ./PNT
+
+E/CONJ ainda/ADV há/V algum/QNT floresta/N em/P a/ART fronteira/N oeste/A ./PNT
+
+Vejo/V que/C os/ART Japoneses/N não/ADV hesitam/V a/ART assinalar/N a/ART sua/POSS cultura/N a/P as/ART outras/A ,/PNT em/P particular/N ,/PNT a/ART cultura/N e/CONJ o/ART estilo/N de/P a/ART vida/N em/P a/ART zona/N urbana/A é/V muito/ADV norteamericanizada/A ./PNT
+
+Mas/V zonas/N interiores/A ,/PNT em/P um/ART de/P eles/PRS que/C eu/PRS nasci/V e/CONJ passei/V a/ART infância/N ,/PNT mantêm/V bem/ADV as/ART característica/N tradicionais/A ,/PNT como/CONJ vida/N agrícola/A ,/PNT comunicação/N em/P comunidades/N e/CONJ religiões/N fés/N e/CONJ rituais/N de/P o/ART budismo/N ou/CONJ xintoísmo/N -LRB-/V a/ART religião/N nativa/N -RRB-/N ./PNT
+

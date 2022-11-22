@@ -1,0 +1,22 @@
+Eu/PRS moro/V em/P a/ART Conchada/N ./PNT
+
+Gosto/V muito/ADV desse/A bairro/N ./PNT
+
+Fica/V perto/ADV de/P tudo/QNT ,/PNT mas/CONJ tem/V um/ART inconveniente/N ,/PNT fica/V em/P a/ART parte/N alta/A de/P a/ART cidade/N ./PNT
+
+Quando/CONJ vou/V a/P a/ART Universidade/N ,/PNT tenho/V que/C subir/V as/ART escadas/N monumentais/A ,/PNT para/CONJ voltar/V para/P casa/N ,/PNT tenho/V que/C subir/V uma/ART rua/N muito/ADV cumprida/A ./PNT
+
+Quando/CONJ vou/V fazer/V compras/N ,/PNT tenho/V que/C subir/V outras/ART escadas/N .../PNT Acho/V que/C o/ART problema/N não/ADV é/V o/ART meu/POSS bairro/N ,/PNT mas/CONJ a/ART cidade/N de/P Coimbra/N ,/PNT sempre/ADV temos/V de/P subir/V escadas/N ,/PNT ruas/N ,/PNT avenidas/N ./PNT
+
+Eu/PRS gostaria/V que/C o/ART elevador/N estivesse/V em/P o/ART outro/A lado/N de/P a/ART cidade/N ,/PNT assim/ADV podia/V utilizá/N #/N lo/N para/P voltar/V a/P a/ART casa/N ./PNT
+
+A/ART mais/ADV ,/PNT eu/PRS vivo/ADV em/P o/ART quinto/ORD piso/N ,/PNT e/CONJ o/ART meu/POSS prédio/N ,/PNT não/ADV tem/V elevador/N !/PNT
+
+Mas/V gosto/V muito/ADV o/ART meu/POSS bairro/N porque/CONJ há/V muitas/QNT pastelarias/N e/CONJ eu/PRS gosto/V muito/ADV de/P as/ART pastelarias/N portuguesas/A ./PNT
+
+Parece/V me/CL que/C em/P este/DEM bairro/N vivem/V sobre/P tudo/QNT pessoas/N velhas/A ,/PNT por/P isso/DEM é/V um/ART bairro/N tranqüilo/A ./PNT
+
+Mas/V o/ART meu/POSS prédio/N é/V ,/PNT algumas/QNT vezes/N ,/PNT muito/ADV barulhento/A .../PNT O/ART que/REL gostaria/V mudar/V são/V os/ART meus/POSS vizinhos/N .../PNT O/ART que/REL gosto/V muito/ADV em/P este/DEM bairro/N ,/PNT é/V que/C fica/V a/P a/ART vez/N perto/ADV de/P o/ART centro/N e/CONJ demasiado/ADV longe/ADV para/P que/REL não/ADV se/CL oiça/V o/ART barulho/N de/P a/ART cidade/N ./PNT
+
+Quando/CONJ saio/V de/P o/ART meu/POSS prédio/N ,/PNT tenho/V uma/ART visão/N panorámica/A de/P Coimbra/N :/PNT as/ART Universidades/N ,/PNT Portagem/N ,/PNT o/ART Forum/N .../PNT Mas/V quando/CONJ olho/N por/P a/ART janela/N de/P o/ART meu/POSS quarto/N ,/PNT vejo/V uma/ART pequena/A montanha/N recoberta/A por/P uma/ART floresta/N floresta/N de/P eucalipto/N e/CONJ muito/ADV longe/ADV outra/ART cidade/N ./PNT
+

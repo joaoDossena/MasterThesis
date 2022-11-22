@@ -1,0 +1,8 @@
+Eu/PRS chamo/V me/CL XXXXX/V ./PNT
+
+Eu/PRS sou/V de/P a/ART Polonia/N ./PNT
+
+Tenho/V 23/CARD anos/N ./PNT
+
+Eu/PRS tenho/V irmão/N ./PNT
+

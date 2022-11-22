@@ -1,0 +1,26 @@
+a/P o/ART momento/N ,/PNT moro/N em/P São/N Sebastião/N em/P Coimbra/N e/CONJ tenho/V de/P dizer/V que/C é/V o/ART sitio/N mais/ADV bonito/A de/P o/ART mundo/N ./PNT
+
+a/P o/ART lado/N de/P minha/POSS casa/N há/V uma/ART igreja/N famosa/A onde/ADV muitas/QNT turistas/N gostam/V de/P visitar/N ./PNT
+
+Além/P de/P isso/DEM ,/PNT há/V uma/ART variedade/N de/P cafés/N que/REL sempre/ADV são/V abertas/A até/P 2/N ou/CONJ 3/N de/P manhã/N ./PNT
+
+Se/CONJ me/CL sinto/V estressada/N ,/PNT eu/PRS vou/V a/P as/ART cafés/N para/P relajar/N e/CONJ falar/V com/P os/ART portugueses/N lá/ADV ./PNT
+
+Também/ADV ,/PNT de/P a/ART minha/POSS balcão/N ,/PNT de/P a/ART casa/N há/V uma/ART vista/N maravilhosa/A que/REL me/CL faz/V feliz/A e/CONJ calma/A ./PNT
+
+Sim/ADV embargo/ADV ,/PNT há/V desvantagens/N ./PNT
+
+Eu/PRS moro/V longe/ADV de/P a/ART universidade/N e/CONJ eu/PRS quero/V que/C haja/V mais/ADV autocarros/N para/P apanhar/V ./PNT
+
+assim/ADV que/CONJ eu/PRS não/ADV tenha/V de/P me/CL levantar/V muito/ADV cedo/ADV para/P ir/V as/ART minhas/POSS aulas/N de/P a/ART manhã/N ./PNT
+
+Também/ADV ,/PNT alguma/QNT coisa/N que/REL me/CL irrita/V muito/ADV são/V os/ART cães/N e/CONJ os/ART gatos/N vadiosos/A em/P a/ART minha/POSS rua/N que/REL brigam/V com/P os/ART outros/A durante/P a/ART noite/N toda/QNT !/PNT
+
+Por/P isso/DEM ,/PNT as/ART vezes/N é/V dificil/V para/P dormir/V porque/CONJ normalmente/ADV há/V muito/QNT barulho/N !/PNT
+
+E/CONJ embora/CONJ seja/V agradável/A que/C moro/V perto/ADV de/P a/ART igreja/N ,/PNT eu/PRS preferia/V que/C esteja/V não/ADV tão/ADV perto/ADV de/P mim/PRS porque/CONJ em/P os/ART domingos/N ,/PNT sempre/ADV ouço/V pessoas/N falando/A que/REL me/CL perturba/V quando/CONJ eu/PRS trato/V de/P dormir/V ou/CONJ estudar/V ./PNT
+
+Também/ADV ,/PNT porque/CONJ eu/PRS moro/V longe/ADV de/P a/ART Praça/N de/P a/ART República/N ,/PNT eu/PRS gostaria/V mais/ADV bares/N e/CONJ discotecas/N em/P São/N Sebastião/N para/P que/REL eu/PRS possa/V conheçer/V mais/ADV pessoas/N de/P a/ART minha/POSS edade/N ./PNT
+
+Para/P concluir/N ,/PNT eu/PRS adoro/V muito/ADV meu/POSS bairro/N ,/PNT mas/CONJ claro/A que/REL há/V coisas/N que/REL podia/V mudar/V ./PNT
+

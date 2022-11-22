@@ -1,0 +1,26 @@
+Moro/V em/P um/ART bairro/N em/P o/ART sul/N de/P Londres/N ./PNT
+
+É/V bastante/ADV pequeno/A mas/CONJ prefiro/A porque/CONJ moro/V em/P uma/ART cidade/N tão/ADV grande/A com/P muito/ADV pessoal/A ./PNT
+
+As/ART vezes/N não/ADV acho/V que/C posa/ADV morar/V em/P um/ART lugar/N diferente/A se/CL bem/ADV que/C muitas/QNT vezas/N esteja/V em/P o/ART norte/N de/P Inglaterra/N ,/PNT onde/ADV estudo/N ./PNT
+
+Acho/N que/REL tenho/V o/ART melhor/N de/P dois/CARD mundos/N porque/CONJ tenho/V a/ART proximidade/N de/P o/ART centro/N de/P Londres/N ,/PNT más/V também/ADV mais/ADV tranquilidade/A ./PNT
+
+Obviamente/ADV há/V aspectos/N de/P o/ART meu/POSS bairro/N que/REL queria/V mudar/V ./PNT
+
+Por/P exemplo/N ,/PNT a/ART maioria/N de/P as/ART partes/N de/P Londres/N tem/V acesso/N a/P o/ART Metro/N ./PNT
+
+Em/P o/ART entanto/ADV ,/PNT não/ADV há/V uma/ART linha/N para/P meu/POSS bairro/N ,/PNT XXXXX/V ,/PNT porque/CONJ é/V bastante/ADV pequeno/A ./PNT
+
+É/V como/ADV se/CL tivesse/V menos/ADV importância/N que/C os/ART outros/A bairros/N Também/ADV seria/V melhor/A se/CONJ houvesse/V mais/ADV lojas/N ou/CONJ talvez/ADV um/ART centro/N commercial/A ,/PNT porque/CONJ normalmente/ADV vou/V a/P as/ART compras/N em/P o/ART centro/N de/P Londres/N devido/V a/P a/ART elecção/N mais/ADV grande/A de/P as/ART lojas/N ./PNT
+
+As/ART vezes/N prefería/V se/CL houverem/V mais/ADV restaurantes/A porque/CONJ não/ADV há/V muitas/QNT opções/N e/CONJ se/CL quiser/V jantar/V a/ART fora/ADV de/P casa/N ,/PNT tenho/V que/C ir/V a/P o/ART bairro/N próximo/A ./PNT
+
+Para/P a/ART maiora/N parte/N ,/PNT XXXXX/N é/V um/ART bairro/N bom/A para/P viver/V ./PNT
+
+Há/V tres/CARD estações/N de/P combio/N mesmo/A que/REL não/ADV haja/V uma/ART estação/N de/P Metro/N ./PNT
+
+Há/V um/ART cinema/N ,/PNT umas/ART lojas/N e/CONJ um/ART parque/N enorme/A ,/PNT que/REL ficam/V perto/ADV de/P a/ART minha/POSS casa/N ./PNT
+
+Se/CONJ não/ADV já/ADV morasse/V em/P o/ART meu/POSS bairro/N ,/PNT queria/V morar/V lá/ADV ./PNT
+

@@ -1,0 +1,10 @@
+Quando/CONJ Eu/PRS não/ADV tenho/V Aulas/N Eu/PRS gosto/V de/P Fazer/N trainar/N deshportivo/N ./PNT
+
+Normalmente/ADV Eu/PRS corro/V 10/CARD km/N todos/QNT os/ART dias/N ./PNT
+
+Tambem/ADV vou/V practicar/V futebol/N dois/CARD vezes/N por/P semana/N ./PNT
+
+AZ/V vezes/N As/ART festas/N e/CONJ As/ART discotecas/N ,/PNT Eu/PRS gosto/V muito/QNT festas/N ./PNT
+
+De/ADV vez/ADV em/ADV Quando/CONJ vou/V a/ART pesca/N em/P Coimbra/N ,/PNT em/P o/ART rio/N mondego/N ./PNT
+

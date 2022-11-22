@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader><notesStmt><note n="textcode">ITALIANO.ER.A2.63</note><note n="stimulus">75.3S</note><note n="fase">Fase 1</note><note n="wrdcount">29</note><note n="qecrl">A2</note></notesStmt><profileDesc><particDesc><listPerson><person><birthdate>1986.08.03</birthdate><portugueseLearning><start>2009 (2008)</start></portugueseLearning><note n="outside-school">Sim.</note><sex type="M"/><langKnowledge><langKnown level="school">Italiano</langKnown><langKnown level="first">Italiano</langKnown><langKnown level="second">Inglês</langKnown><langKnown level="foreign">Inglês</langKnown></langKnowledge><birthcountry>Itália</birthcountry><nationality>Italiana</nationality><residence n="prior">Espanha/ 1 mês; Portugal/ 2 meses (Erasmus)</residence><proficiency write="A1" read="B1" speak="A2" converse="A2" listen="A2"/><profbestl2 write="A1" read="B1" speak="A2" converse="A2" listen="A2"/></person></listPerson></particDesc></profileDesc></teiHeader>
+<text>
+<p id="p-1"><tok id="w-1" lemma="viajar" pos="VMIS1S0">Viajai</tok> <tok id="w-2" lemma="muito" pos="RG">muito</tok> <tok id="w-3" lemma="com" pos="SPS00">com</tok> <tok id="w-4" lemma="o" pos="DA0MP0">os</tok> <tok id="w-5" lemma="comboio" pos="NCMP000">comboios</tok> <tok id="w-6" lemma="e" pos="CC">e</tok> <tok id="w-7" lemma="com" pos="SPS00">com</tok> <tok id="w-8" lemma="autocarro" pos="NCMS000">autocarro</tok><tok id="w-9" lemma="." pos="Fp">.</tok>
+</p>
+<p id="p-2"><tok id="w-10" lemma="pessoal" pos="RG">Pessoalmente</tok> <tok id="w-11" lemma="não" pos="RN">não</tok> <tok id="w-12" lemma="gostar" pos="VMIP1S0">gosto</tok> <tok id="w-13" lemma="de" pos="SP">de</tok> <tok id="w-14" lemma="conduzir" pos="VMN0000">conduzir</tok> <tok id="w-15" lemma="o" pos="DA0MS0">o</tok> <tok id="w-16" lemma="carro" pos="NCMS000">carro</tok> <tok id="w-17" lemma="mas" pos="CC">mas</tok> <add><tok form="acho" id="w-18" lemma="achar" pos="VMIP1S0">acho</tok></add> <tok id="w-19" lemma="isto" pos="PD0NN00">isto</tok> <tok id="w-20" lemma="ser" pos="VMIP3S0">é</tok> <tok id="w-21" lemma="o" pos="DA0MS0">o</tok> <tok id="w-22" lemma="meio" pos="NCMP000">meios</tok> <tok id="w-23" lemma="de" pos="SP">de</tok> <tok id="w-24" lemma="transporte" pos="NCMS000">transporte</tok> <tok id="w-25" lemma="melhor" pos="AQ0CS00">melhor</tok><tok id="w-26" lemma="." pos="Fp">.</tok> </p>
+<p id="p-3"><tok id="w-27" lemma="viajar" pos="VMIS1S0">Viajai</tok> <tok id="w-28" lemma="também" pos="RG" nform="também">tambem</tok> <tok id="w-29" lemma="com" pos="SP">com</tok> <tok id="w-30" lemma="o" pos="DA0MS0">o</tok> <tok id="w-31" lemma="avião" pos="NCMS000" nform="avião">aviao</tok><tok id="w-32" lemma="." pos="Fp">.</tok> </p>
+<p id="p-4"/>
+<p id="p-5"/>
+</text>
+
+</TEI>

@@ -1,0 +1,30 @@
+O/ART meu/POSS país/N ,/PNT os/ART Estados/N Unidos/N de/P a/ART América/N ,/PNT é/V um/ART país/N enorme/A e/CONJ muito/ADV diverso/A ./PNT
+
+Temos/V um/ART grande/A parte/N de/P a/ART terra/N em/P a/ART América/N de/P o/ART Norte/N ,/PNT e/CONJ por/P isso/DEM temos/V muitas/QNT zonas/N diferentes/A ,/PNT cada/QNT uma/ART com/P a/ART sua/POSS própria/POSS identidade/N física/A ./PNT
+
+Eu/PRS já/ADV tinha/V visto/V uma/ART maioridade/N de/P as/ART regiões/N ,/PNT e/CONJ posso/V discriver/N #/N las/N por/P causa/N de/P as/ART minhas/POSS experiências/N ./PNT
+
+Eu/PRS so/V de/P a/ART Califórnia/N de/P o/ART sul/N ,/PNT muito/ADV perto/ADV de/P Los/N Angeles/N ,/PNT e/CONJ essa/DEM região/N é/V muito/ADV diverso/A ./PNT
+
+Em/P geral/N ,/PNT os/ART estados/N sudoccidentais/A são/V ,/PNT em/P grande/A parte/N ,/PNT desertos/A ./PNT
+
+Arizona/N ,/PNT New/N Mexico/A ,/PNT Nevada/A e/CONJ Utah/A tem/V rochas/N fantásticas/A com/P cores/N que/REL não/ADV se/CL sembram/V possíveis/A e/CONJ animais/N raros/A e/CONJ perigosos/A ./PNT
+
+A/ART Califórnia/N de/P o/ART sul/N tem/V áreas/N secas/A ,/PNT mas/CONJ tem/V praias/N famosas/A e/CONJ montanhas/N também/ADV ./PNT
+
+Pode/V se/CL fazer/V o/ART surf/N e/CONJ o/ART ski/N em/P o/ART mesmo/A dia/N !/PNT
+
+Mais/ADV norde/V ,/PNT em/P o/ART Oregon/N e/CONJ Washington/N ,/PNT chuva/N constantemente/A ,/PNT e/CONJ é/V sempre/ADV verde/A -LRB-/N mas/CONJ sempre/ADV frio/N !/PNT -RRB-/N
+
+e/CONJ bonito/A ,/PNT similar/V a/P a/ART Irlanda/N e/CONJ o/ART norte/N de/P Portugal/N ./PNT
+
+O/ART nordeste/N de/P o/ART país/N chama/V se/CL a/ART Nova/N Inglaterra/N ,/PNT e/CONJ tem/V estações/N muito/ADV definidas/A :/PNT em/P o/ART Outono/N as/ART folhas/N mudam/V de/P verde/A a/ART vermelho/A ,/PNT laranja/A e/CONJ ouro/N ;/PNT em/P o/ART inverno/N tem/V muita/QNT neve/N ;/PNT em/P a/ART primavera/N chuva/N muito/ADV ;/PNT e/CONJ os/ART verões/N são/V calmas/N e/CONJ bonitas/N ./PNT
+
+Em/P o/ART ``/N Sul/N ''/N -LRB-/N fisicamente/N o/ART sudeste/N ,/PNT entre/P Louisiana/N e/CONJ Flórida/N -RRB-/A é/V muito/ADV quente/A e/CONJ húmido/N durante/P o/ART ano/N ,/PNT -LRB-/N e/CONJ tem/V moustiques/N enormes/A !/PNT -RRB-/N
+
+mais/ADV tem/V muitos/QNT rios/N e/CONJ florestas/N lindas/A ./PNT
+
+E/CONJ finalmente/ADV ,/PNT em/P o/ART norte/N ,/PNT tem/V muitos/QNT lagos/N e/CONJ muitos/QNT depósitos/N de/P os/ART minerais/N naturais/A ;/PNT por/P isso/DEM tem/V muito/QNT actividade/N industrial/A ,/PNT e/CONJ a/ART gente/N trabalha/V muito/ADV forte/A em/P a/ART fria/N ./PNT
+
+Mas/V ,/PNT por/P evitar/V o/ART tempo/N terrível/A ,/PNT eles/PRS bebem/V muito/ADV a/ART cerveja/N ,/PNT a/ART bêbida/N mais/ADV famosa/A de/P a/ART região/N !/PNT
+

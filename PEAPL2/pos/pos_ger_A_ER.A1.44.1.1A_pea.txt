@@ -1,0 +1,16 @@
+Chamo/V me/CL XXXXX/V ./PNT
+
+Sou/V de/P a/ART Áustria/N ./PNT
+
+Faz/V vinte/CARD e/CARD três/CARD anos/N ./PNT
+
+Sou/V estudante/N de/P a/ART Qímica/N ./PNT
+
+Normalmente/ADV moro/V em/P Viene/N mas/CONJ agora/ADV moro/V em/P Coimbra/N ./PNT
+
+Fico/V em/P Coimbra/N para/P trabalha/N em/P um/ART laboratório/N ./PNT
+
+Sou/V em/P Portugal/N desde/P o/ART Fevereiro/N 2010/A Eu/PRS gosto/V muito/ADV de/P ficar/V em/P Portugal/N Acho/A que/REL ,/PNT Portugal/N é/V um/ART país/N muito/ADV bonito/A e/CONJ um/ADV pouco/ADV diferente/A de/P Áustria/N ./PNT
+
+Muito/ADV gosto/V de/P possibilidade/N ir/V a/P a/ART praia/N e/CONJ ver/V o/ART oceano/N mas/CONJ também/ADV agradecer/V muito/ADV regressar/V para/P Áustria/N e/CONJ ver/V a/ART minha/POSS familia/N e/CONJ os/ART meus/POSS amigos/N ./PNT
+

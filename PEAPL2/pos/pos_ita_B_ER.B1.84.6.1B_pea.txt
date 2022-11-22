@@ -1,0 +1,46 @@
+Caro/N XXXXX/A ,/PNT Que/N tal/A ?/PNT
+
+Já/ADV acabaste/V os/ART cursos/N ?/PNT
+
+Se/CONJ não/ADV me/CL engano/N este/DEM era/V o/ART teu/POSS último/ORD semestre/N de/P estudo/N ,/PNT não/ADV é/V ?/PNT
+
+Que/N bem/ADV !/PNT
+
+Agora/ADV já/ADV tens/V mais/ADV tempo/N livre/A e/CONJ com/P certeza/N poderemos/V ver/V nos/N em/P a/ART próxima/A primavera/N ./PNT
+
+Olha/ADV estava/V aqui/ADV sozinho/A em/P a/ART minha/POSS cozinha/N e/CONJ decidi/N escrever/V te/CL :/PNT há/V muito/QNT tempo/N que/REL não/ADV passamos/V uns/ART dias/N juntos/A ,/PNT que/REL chatice/V !/PNT
+
+Ah/ITJ ,/PNT ah/V antes/ADV em/P a/ART televisão/N vi/V aquela/DEM cantora/N que/REL costumávamos/V ouvir/V em/P o/ART teu/POSS quarto/N ,/PNT relembras/V ?/PNT
+
+E/CONJ esse/DEM dia/N que/REL conseguimos/V decorar/V todas/QNT as/ART palavras/N de/P as/ART canções/N de/P ela/PRS e/CONJ fomos/V logo/ADV a/P a/ART noite/N cantar/V em/P aquele/DEM Bar/N ,/PNT relembras/V ?/PNT
+
+Foi/V giro/V esse/DEM dia/N !/PNT
+
+Opa/V já/ADV aqui/ADV em/P Portugal/N chegou/V o/ART frio/N e/CONJ aí/ADV chover/V muito/ADV ?/PNT
+
+Seguro/N que/REL estávamos/V melhor/A em/P a/ART praia/N como/CONJ o/ART ano/N passado/A ,/PNT quando/CONJ fomos/V também/ADV com/P a/ART XXXXX/N e/CONJ a/ART XXXXX/N para/P os/ART Açores/N ./PNT
+
+Foi/V um/ART Verão/N estupendo/A ,/PNT mas/CONJ .../PNT Assim/ADV são/V as/ART coisas/N ,/PNT devemos/V trabalhar/V !/PNT
+
+Então/ADV ,/PNT já/ADV decidiste/V onde/ADV é/V que/C vais/V trabalhar/V mal/ADV acabes/V a/ART universidade/N ?/PNT
+
+Eu/PRS ,/PNT com/P este/DEM estágio/N que/REL estou/V a/P fazer/V ,/PNT tenho/V as/ART ideias/N mais/ADV claras/A !/PNT
+
+Aqui/ADV estou/V a/P fazer/V catalogação/N de/P os/ART livros/N italianos/N e/CONJ também/CONJ ensino/N Língua/N Italiana/N ;/PNT há/V quanto/P tempo/N que/REL te/CL digo/V que/C quero/V ser/V professor/N ?/PNT
+
+Olha/V agora/ADV que/C já/ADV tenho/V mais/ADV experiência/N posso/V dizer/V te/CL que/C sim/ADV ,/PNT adoro/V ensinar/A e/CONJ vou/V fazer/V o/ART doutoramento/N para/P consegui/V #/N lo/A ./PNT
+
+Gosto/V de/P estar/V em/P Coimbra/N ,/PNT mas/CONJ também/ADV tenho/V saudade/N de/P os/ART meus/POSS pais/N e/CONJ amigos/N ,/PNT porque/CONJ é/V que/C não/ADV vens/V para/P aqui/ADV um/ART dia/N ?/PNT
+
+Mostro/V te/CL a/ART minha/POSS escola/N de/P dança/N e/CONJ o/ART ginásio/N e/CONJ assim/ADV podemos/V fazer/V uma/ART aula/N de/P Salsa/N juntos/A ,/PNT o/ART que/REL é/V que/C achas/V ?/PNT
+
+Ali/ADV costuma/V haver/V muitas/QNT mulheres/N que/REL não/ADV têm/V pares/V então/ADV vamos/V dançar/V a/ART noite/N toda/QNT !/PNT
+
+Pronto/ADV !/PNT
+
+tenho/V que/C deitar/V me/CL porque/CONJ é/V muito/ADV tarde/ADV e/CONJ amanhã/ADV tenho/V aula/N a/P as/ART noves/N horas/N ./PNT
+
+Liga/N me/CL em/P a/ART próxima/A sextafeira/N ,/PNT se/CL podes/V está/V bem/ADV ?/PNT
+
+Um/ART abraço/N ,/PNT XXXXX/V
+

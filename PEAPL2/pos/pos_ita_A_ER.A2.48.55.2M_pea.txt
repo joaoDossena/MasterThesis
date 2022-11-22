@@ -1,0 +1,16 @@
+Comer/V é/V um/ART de/P os/ART prazeres/N de/P a/ART vida/N ./PNT
+
+Eu/PRS gosto/V de/P comer/N não/ADV muitas/QNT coisas/N ,/PNT não/ADV comidas/V muito/ADV elaboradas/A ;/PNT gosto/V mais/ADV de/P as/ART comidas/N simples/A ./PNT
+
+Eu/PRS sou/V italiana/A e/CONJ como/CONJ toda/QNT a/ART gente/N sabe/V em/P Italia/N se/CL come/V muita/QNT ``/N pasta/N ''/N ./PNT
+
+Existem/V mesmo/ADV muitas/QNT maneiras/N de/P cozinhar/V pasta/N e/CONJ se/CL tens/V fantasia/V pode/V se/CL preparar/V um/ART tipo/N de/P pasta/N cada/QNT dia/N diferente/A ./PNT
+
+A/ART pasta/N que/REL gosto/V mais/ADV é/V ``/A Lasagne/N ''/V ,/PNT em/P particular/N aquelas/DEM que/REL a/ART minha/POSS avó/N faz/V ./PNT
+
+Mas/N pasta/A não/ADV é/V a/ART minha/POSS comida/N preferida/A ./PNT
+
+De/ADV facto/ADV prefiro/V mais/ADV doces/A ,/PNT em/P particular/N o/ART chocolate/N ./PNT
+
+Gosto/V muito/ADV de/P os/ART doces/N portugues/A ,/PNT ;/PNT pastel/N de/P nata/N ,/PNT bolo/N de/P arroz/N .../PNT mas/CONJ tambem/V tenho/V saudade/N de/P os/ART doces/N e/CONJ de/P toda/QNT a/ART cozinha/N italiana/A ./PNT
+

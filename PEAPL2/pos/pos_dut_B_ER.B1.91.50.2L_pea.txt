@@ -1,0 +1,40 @@
+:/PNT A/ART Bélgica/N é/V um/ART país/N pequeno/A ./PNT
+
+É/V menor/A de/P o/ART que/REL Portugal/N ,/PNT mas/CONJ tem/V tantos/N habitantes/N que/REL Portugal/N ./PNT
+
+Os/ART nossos/POSS países/N vizinhos/A são/V :/PNT Os/ART Países/N Baixos/A em/P o/ART Norte/N ,/PNT a/ART Alemanha/N e/CONJ o/ART Luxemburgo/N em/P o/N Este/DEM e/CONJ a/ART França/N em/P o/ART SulOeste/N ./PNT
+
+Também/ADV ha/V o/ART Mar/N de/P o/ART Norte/N em/P o/ART Oeste/N ./PNT
+
+A/ART nossa/POSS capital/N é/V Bruxelas/N ./PNT
+
+É/V uma/ART cidade/N muito/ADV multicultural/A e/CONJ também/ADV é/V a/ART capital/N de/P a/ART Europa/N ./PNT
+
+Os/ART dois/CARD monumentos/N mais/ADV famosos/A ficam/V em/P Bruxelas/N :/PNT o/ART ``/N Manneke/N Pis/N ''/N e/CONJ o/ART ``/N Atomium/N ''/N ./PNT
+
+O/ART ``/N Manneke/N Pis/N ''/N é/V uma/ART státua/N de/P um/ART rapaz/N que/REL faz/V chichi/N ./PNT
+
+O/ART ``/N Atomium/N ''/N é/V um/ART prédio/N constituído/V de/P 9/CARD bolas/N ./PNT
+
+Foi/V construído/V por/P causa/N de/P a/ART Expo/N `/N 58/N ./PNT
+
+A/ART Bélgica/N é/V um/ART país/N complicado/A ./PNT
+
+Em/P a/ART parte/N norte/A ,/PNT fala/V se/CL neerlandês/V ;/PNT em/P a/ART parte/N sul/N ,/PNT fala/V se/CL francês/A e/CONJ em/P a/ART parte/N este/DEM ,/PNT há/V uns/ART 70.000/A pessoas/N que/REL têm/V a/ART língua/N alemã/A como/CONJ língua/N materna/A ./PNT
+
+Todas/QNT estas/DEM ``/N comunidades/N ''/N têm/V o/ART seu/POSS próprio/POSS governo/N ./PNT
+
+Mas/V há/V outra/ART maneira/N de/P dividir/V o/ART país/N :/PNT também/ADV pode/V falar/V em/P ``/N regiões/N ''/N :/PNT a/ART Flandres/N ,/PNT a/ART Valónia/N e/CONJ Bruxelas/N ,/PNT que/REL também/ADV tem/V o/ART seu/POSS próprio/POSS governo/N ./PNT
+
+E/CONJ depois/ADV ainda/ADV temos/V um/ART governo/N federal/A !/PNT
+
+Por/P causa/P de/P esta/DEM complicidade/N ,/PNT a/ART maior/A parte/N de/P os/ART Belgas/N não/ADV se/CL interessa/V em/P o/ART político/N ./PNT
+
+A/ART cultura/N belga/A não/ADV existe/V ./PNT
+
+A/ART cultura/N de/P a/ART Valónia/N não/ADV é/V a/ART mesma/A coisa/N que/REL a/ART cultura/N de/P Bruxelas/N ,/PNT e/CONJ a/ART cultura/N flamenga/A é/V ainda/ADV outra/ART coisa/N ./PNT
+
+Pode/V mesmo/ADV dizer/V que/C cada/QNT província/N ,/PNT cada/QNT cidade/N e/CONJ mesmo/ADV cada/QNT aldeia/N tem/V a/ART sua/POSS própria/POSS cultura/N ./PNT
+
+As/ART coisas/N que/REL nos/V ligam/N ,/PNT são/V geralmente/V as/ART coisas/N que/REL os/ART estrangeiros/A conhecem/V :/PNT as/ART batatas/N fritas/A ,/PNT a/ART cerveja/N e/CONJ o/ART chocolate/N :/PNT -RRB-/N
+

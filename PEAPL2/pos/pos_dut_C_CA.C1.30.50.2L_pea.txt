@@ -1,0 +1,16 @@
+Em/P o/ART meu/POSS país/N ,/PNT há/V basicamente/N dois/CARD partes/N ou/CONJ regiões/N :/PNT a/ART região/N Flamenga/N -LRB-/N Flandres/N -RRB-/V ,/PNT a/ART maior/A ,/PNT onde/ADV se/CL fala/V Neerlandês/N ./PNT
+
+Flandres/N é/V uma/ART região/N sobretudo/ADV plana/A e/CONJ de/P ponto/N de/P vista/N histórica/A ,/PNT campones/N ./PNT
+
+Desde/V a/ART Idade/N Média/N ,/PNT Flandres/N ,/PNT que/REL se/CL encontra/V em/P o/ART centro/N de/P a/ART Europa/N ,/PNT foi/V o/ART palco/N de/P acontecimentos/N históricos/A muito/ADV importantes/A :/PNT a/ART conquista/N por/P o/ART Julius/N Caesar/A ,/PNT que/REL escreveu/V ``/N Horum/N amniam/N fortissimi/N sunt/N Belgae/N .../PNT ''/V ,/PNT a/ART ocupação/N por/P os/ART Franceses/N ,/PNT a/ART primeira/ORD guerra/N mundial/A ./PNT
+
+Por/P causa/P de/P a/ART dominância/N por/P os/ART ``/N estrangeiros/A romanos/N ,/PNT Franceses/N ,/PNT Austríacos/N ,/PNT Espanhois/N .../PNT ''/A ,/PNT a/ART carácter/N de/P os/ART Flamengos/N é/V pacífico/A ./PNT
+
+Os/ART Flamengos/N eram/V os/ART ``/N camponeses/N ''/N ,/PNT os/ART produtores/N de/P riqueza/N ,/PNT e/CONJ a/ART educação/N ficou/V em/P um/ART nível/N baixo/A ./PNT
+
+Em/P o/ART entanto/ADV ,/PNT em/P Flandres/N encontram/A se/CL monumentos/V bem/ADV conhecidos/V em/P Bruges/N ,/PNT Antwerpia/N ,/PNT Gent/V ,/PNT Bruxelas/N .../PNT Infelizmente/A ,/PNT a/ART ``/N inteligência/N ''/N Flamenga/N fugiu/V para/P os/ART PaísesBaixio/N por/P causa/N de/P a/ART Inquisição/N ./PNT
+
+Bruxelas/N foi/V originalmente/V parte/N de/P Flandres/N ,/PNT mas/CONJ quando/CONJ a/ART Bélgica/N tornou/V se/CL independente/V ,/PNT a/ART ``/N burguesia/N ''/N era/V convencida/V que/C a/ART cultura/N Francesa/A valeu/V muito/ADV mais/ADV e/CONJ tornou/A a/ART cidade/N ``/V francófona/A ''/N ./PNT
+
+A/ART terçeira/N parte/N de/P a/ART Bélgica/N ,/PNT ``/N Wallonia/N ''/N ,/PNT é/V mais/ADV montanhosa/A e/CONJ quando/CONJ o/ART petróleo/N ganhou/V a/ART batalha/N ``/N economica/N ''/N sobre/P o/ART carvão/N ,/PNT a/ART região/N francofona/A perdiu/V a/ART sua/POSS importância/N economica/A e/CONJ a/ART sua/POSS fonte/N de/P prosperidade/N ./PNT
+

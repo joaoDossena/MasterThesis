@@ -1,0 +1,14 @@
+Moro/V aqui/ADV ,/PNT em/P Portugal/N ,/PNT em/P a/ART Rua/N XXX/N XXX/N ,/PNT onde/ADV perto/ADV de/P um/ART centro/N comercial/A ,/PNT chamado/V XXX/N ./PNT
+
+-LRB-/N mas/CONJ de/P facto/N ,/PNT em/P este/DEM centro/N comercial/A não/ADV há/V tantas/QNT lojas/N ,/PNT e/CONJ penso/N que/REL finalmente/ADV vá/V fechar/V ./PNT -RRB-/N
+
+Não/ADV gosta/V de/P esta/DEM zona/N !/PNT
+
+As/ART casas/N tão/ADV velhas/A parecem/V o/ART bairro/N de/P as/ART latas/N ;/PNT durantes/V a/ART noite/N ,/PNT está/V sempre/ADV cheia/A de/P os/ART barulhos/N ,/PNT que/REL não/ADV consigo/V adormecer/V :/PNT o/ART que/REL pior/A é/V que/C tenho/V um/ART roommate/N antipático/A que/REL mora/V com/P mim/PRS ./PNT
+
+Aquele/DEM rapaz/N costume/V usar/V as/ART minhas/POSS coisas/N -LRB-/N louças/N ,/PNT gás/N .../PNT -RRB-/V sem/P lavar/N nem/CONJ pagar/V nada/QNT e/CONJ quando/CONJ eu/PRS e/CONJ a/ART senhoria/N tentávamos/V falar/V com/P ele/PRS ,/PNT deu/V nos/V uma/ART ameaça/N de/P nos/N matar/V ./PNT
+
+Ainda/ADV havia/V uma/ART vez/N ,/PNT o/ART meu/POSS dinheiro/N foi/V roubado/V ,/PNT embora/CONJ não/ADV tivesse/V os/ART testemunhos/N para/P identificar/N o/ART ladrão/N ,/PNT mas/CONJ penso/V que/C aquele/DEM rapaz/N devia/V ser/V o/ART suspeito/N !/PNT
+
+Para/P min/N ,/PNT há/V única/A coisa/N que/REL podia/V mudar/V a/ART vida/N para/P que/REL mais/ADV agradável/A lá/ADV viver/V é/V que/C ,/PNT o/ART rapaz/N mudasse/V se/CL para/P outro/ART local/N !/PNT
+

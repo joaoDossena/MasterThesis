@@ -1,0 +1,42 @@
+Minha/V querida/N !/PNT
+
+Quanto/P tempo/N desde/P nos/N vimos/V nos/N !/PNT
+
+!/N
+
+Como/V estas/DEM ?/PNT
+
+Tudo/QNT bem/ADV com/P ti/PRS ?/PNT
+
+Aqui/ADV ,/PNT em/P Portugal/N ,/PNT ``/V a/ART doce/N vida/N ''/N de/P uma/ART estudante/N Erasmus/A continua/V .../PNT !/PNT
+
+Lembras/V te/CL o/ART grupo/N de/P o/ART teatro/N que/REL nos/V visitiámos/N ?/PNT
+
+Há/V algumas/QNT semanas/N ,/PNT juntei/V este/DEM grupo/N e/CONJ de/ADV facto/ADV ,/PNT já/ADV estou/V muito/ADV bem/ADV integrado/A ./PNT
+
+Organizamos/V danças/N ,/PNT música/N e/CONJ noites/N de/P cantar/V de/P a/ART cultura/N tradicional/A de/P Portugal/N e/CONJ para/P mim/PRS ,/PNT está/V uma/ART boa/A maneira/N de/P comecar/N a/P conhecer/V o/ART país/N e/CARD sua/POSS cultura/N !/PNT
+
+Nós/PRS vamos/V também/ADV fazer/V um/ART espectáculo/N o/ART próximo/ORD mês/N em/P o/ART Alentejo/N .../PNT e/CONJ diz/V me/CL qualquer/QNT coisa/N se/C tu/PRS querias/V ir/V !/PNT
+
+Esta/DEM noite/N ,/PNT vou/V para/P Holanda/N e/CONJ tenho/V tanta/QNT vontade/N de/P ir/V !/PNT
+
+Temos/V uma/ART grande/A festa/N com/P a/ART família/N e/CONJ por/P isso/DEM ,/PNT vou/V encontrar/V todo/QNT o/ART mundo/N em/P um/ART momento/N !/PNT
+
+Tive/V muito/ADV saudade/A e/CONJ pois/ADV ,/PNT não/ADV posso/V esperar/V de/P andar/V o/ART avião/N !/PNT
+
+Depois/ADV de/P a/ART volta/N próxima/A semana/N ,/PNT as/ART frequências/N de/P as/ART cadeiras/N começam/V e/CONJ tenho/V de/P começar/V a/P estudar/V seriosamente/N ./PNT
+
+Felizmente/ADV ,/PNT escolhei/N cadeiras/N que/REL interesan/V me/CL muito/ADV e/CONJ por/P causa/N de/P isto/DEM ,/PNT estou/V bastante/QNT motivada/N para/P estudar/V ./PNT
+
+E/CONJ tu/PRS ?/PNT
+
+Espero/V que/C tudo/QNT está/V muito/ADV bem/ADV ./PNT
+
+Conta/V me/CL de/P a/ART tua/POSS vida/N em/P uma/ART resposta/N !/PNT
+
+E/CONJ fala/V também/ADV de/P os/ART teus/POSS planos/N para/P o/ART novo/A ano/N !/PNT
+
+Até/ADV breve/ADV !/PNT
+
+Beijinhos/N ,/PNT XXXXX/N
+

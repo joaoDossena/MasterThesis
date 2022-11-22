@@ -1,0 +1,12 @@
+Eu/PRS moro/V em/P um/ART povo/N de/P Espanha/N ,/PNT chama/ADV se/CL XXXXX/V ,/PNT fica/V perto/ADV de/P Zamora/N e/CONJ também/ADV certamente/ADV de/P Portugal/N exatamente/V de/P Bragança/N ./PNT
+
+O/ART meu/POSS povo/N é/V muito/ADV pequeno/A ,/PNT só/ADV tem/V 300/CARD mais/ADV ó/V menos/ADV pessoas/N que/REL moram/V lá/ADV ./PNT
+
+É/V muito/ADV giro/A ,/PNT tem/V muitas/QNT árvores/N ,/PNT vegetação/N ,/PNT não/ADV tem/V contaminação/A ,/PNT as/ART pessoas/N são/V muito/ADV agradáveis/A e/CONJ próximas/A .../PNT Em/P a/ART altura/N de/P 25/CARD ,/PNT 26/CARD y/CARD 27/CARD de/P Junho/N são/V as/ART festas/N celebra/V se/CL ``/N San/N Pelayo/N ''/N em/P essa/DEM data/N ,/PNT as/ART pessoas/N ficam/V muito/ADV alegres/A ,/PNT e/CONJ o/ART amvemte/N é/V muito/ADV bom/A ./PNT
+
+As/ART pessoas/N estam/V a/ART dançar/N ,/PNT o/ART povo/N junta/N se/CONJ para/P lanchar/N e/CONJ ouvir/V música/N ,/PNT há/V touros/N por/P as/ART ruas/N ,/PNT as/ART mulheres/N vistem/V se/CL com/P traxes/N regionais/A .../PNT é/V espectacular/A !/PNT
+
+Mas/V ,/PNT a/ART pesar/N de/P tudo/QNT ,/PNT em/P o/ART povo/N ,/PNT cada/ADV vez/ADV moram/V menos/ADV pessoas/N ,/PNT durante/P tudo/QNT o/ART ano/N ./PNT
+
+A/ART razão/N é/V muito/ADV fácil/A ;/PNT morar/N em/P o/ART povo/N é/V muito/ADV bom/A ;/PNT não/ADV há/V barulho/N ,/PNT não/ADV há/V contaminação/A ,/PNT as/ART pessoas/N são/V agredavéls/A ,/PNT o/ART povo/N é/V giro/N de/P mais/ADV ,/PNT mas/CONJ há/V uma/ART coisa/N que/REL não/ADV tem/V ,/PNT trabalho/N os/ART jovens/N não/ADV ficassem/V a/ART trabalhar/V em/P o/ART povo/N -RRB-/N ,/PNT com/P um/ART carro/N ,/PNT isso/DEM não/ADV é/V tão/ADV difícil/A ,/PNT e/CONJ as/ART pessoas/N podem/V desfrutar/N de/P o/ART bom/A de/P trabalhar/V fora/ADV a/ART morar/N em/P o/ART povo/N ./PNT
+

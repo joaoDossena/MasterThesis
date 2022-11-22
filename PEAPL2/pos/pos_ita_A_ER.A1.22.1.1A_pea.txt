@@ -1,0 +1,18 @@
+Me/V chamo/N XXXXX/N XXXXX/N ./PNT
+
+Sou/V uma/ART menina/N italiana/A e/CONJ moro/V em/P Sardegna/N ,/PNT a/ART ilha/N mais/ADV bonita/A de/P o/ART mundo/N ./PNT
+
+Tenho/V 26/CARD anos/N ,/PNT não/ADV sou/V tão/ADV alta/A tenho/V os/ART cabelos/N encaracolados/A e/CONJ os/ART olhos/N azuls/A ./PNT
+
+Estudo/N arqueologia/A e/CONJ sobretudo/ADV gosto/V de/P a/ART arqueologia/N medieval/A ./PNT
+
+,/PNT Hà/V muitos/QNT anos/N estudo/N os/ART materiais/N de/P esta/DEM epoca/N e/CONJ agora/ADV conheço/V muitas/QNT cosas/N sobre/P a/ART cerâmica/N fabricada/A em/P Italia/N em/P esto/N periodo/A ./PNT
+
+Tenho/V 3/CARD irmãos/N mais/ADV grandes/A que/C mim/PRS ,/PNT todos/QNT os/ART 3/N estudam/V em/P a/ART universidade/N em/P Sassari/N ./PNT
+
+A/ART minha/POSS mãe/N trabalha/V em/P a/ART escola/N em/P XXXXX/N onde/ADV faz/V a/ART directora/N ./PNT
+
+Sinto/V muito/ADV a/ART saudade/N de/P a/ART minha/POSS familia/N e/CONJ de/P a/ART minha/POSS terra/N mas/CONJ gosto/V muito/ADV de/P Coimbra/N e/CONJ em/P geral/N de/P todo/QNT o/ART Portugal/N ./PNT
+
+Espero/V de/P aprender/V bem/ADV o/ART portugues/N e/CONJ ,/PNT não/ADV sei/V ,/PNT pode/V ser/V que/C em/P futuro/N vou/V a/P trabalhar/V como/CONJ arqueologia/V aqui/ADV em/P Portugal/N ./PNT
+

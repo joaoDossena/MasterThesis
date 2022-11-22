@@ -1,0 +1,42 @@
+Gosto/V muito/ADV de/ADV fazer/V desporto/N eu/PRS eu/PRS meu/POSS tempo/N livre/A ./PNT
+
+Corro/V cada/QNT dois/CARD dias/N ,/PNT mas/CONJ prefiro/V correr/V em/P uma/ART selva/N de/P que/REL em/P a/ART cidade/N ./PNT
+
+Cá/ADV em/P Coimbra/N não/ADV é/V muito/ADV bom/A para/P correr/V porque/CONJ só/ADV há/V colinas/N em/P a/ART cidade/N ./PNT
+
+Tambem/V gosto/V muito/ADV de/P as/ART actividades/N em/P o/ART mar./N ./PNT
+
+Mergulhar/N ,/PNT nadar/A e/CONJ surfing/A são/V minhas/POSS actividades/N preferidas/A ./PNT
+
+Ademas/V gosto/V muito/ADV de/P viajar/N ./PNT
+
+Já/ADV fui/V a/ART Porto/N ,/PNT Guimaraes/N ,/PNT Figueaira/N de/P a/ART Foz/N e/CONJ Braga/N ./PNT
+
+E/CONJ vou/V ir/V a/ART Lisboa/N e/CONJ Faro/N pronto/A ./PNT
+
+Alado/N de/P esas/N actividades/N divertidas/N gosto/V muito/ADV de/P ler/N livros/N ou/CONJ fazer/V investigação/N em/P o/ART Internet/N ./PNT
+
+Em/P a/ART semana/N que/REL vem/V vou/V comprar/V ou/CONJ livro/N ``/A Nighttrain/V te/CL o/ART Lisbon/N ''/A ./PNT
+
+Quando/CONJ era/V jovem/A gostei/V muito/ADV de/P jogos/N em/P o/ART PC/N ./PNT
+
+Tambem/V encantei/V jogar/V futbol/N ./PNT
+
+Cada/QNT dia/N estava/V a/P jogar/V futbol/N foro/A com/P amigos/N ./PNT
+
+Terminei/V jogar/V futbol/V há/V 3/CARD anos/N ./PNT
+
+As/ART vezes/N encontro/V com/P amigos/N para/P jogar/V poker/N ./PNT
+
+Mas/V nunca/ADV gano/A ./PNT
+
+Tenho/V de/P aprender/V estrategias/N para/P melhorar/V me/CL ./PNT
+
+Casi/V olvidei/A contar/N de/P a/ART minha/POSS actividade/N favorita/A ./PNT
+
+A/ART vida/N noturna/A !/PNT
+
+Encanto/V demasiado/ADV de/P sair/V por/P a/ART noite/N ./PNT
+
+Encontrar/N com/P amigos/N ,/PNT ver/V varias/N meninas/A ,/PNT beber/V algunos/N finos/A e/CONJ afinal/ADV ir/V a/P uma/ART discoteca/N ./PNT
+

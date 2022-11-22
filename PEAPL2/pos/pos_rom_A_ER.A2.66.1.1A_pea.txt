@@ -1,0 +1,28 @@
+Sou/V uma/ART rapariga/N ,/PNT de/P 20/CARD anos/N que/REL estuda/V ecónomia/N em/P a/ART FEUC/N ./PNT
+
+Como/V características/N fisicas/A ,/PNT podia/V mencionar/N que/REL sou/V alta/A e/CONJ magra/A ;/PNT tenho/V olhos/N e/CONJ cabelo/N castanho/A ./PNT
+
+Estou/V em/P Coimbra/N por/P um/ART ano/N ;/PNT estou/V a/P fazer/V ERASMUS/N e/CONJ gosto/V muito/ADV de/P a/ART vida/N aquí/A ./PNT
+
+Isto/DEM que/REL estou/V a/P viver/V agora/ADV ,/PNT nestos/N meses/N é/V muito/ADV diferente/A de/P o/ART que/REL vivia/V em/P a/ART minha/POSS cidade/N ./PNT
+
+Por/ADV um/ADV lado/ADV sento/V me/CL mais/ADV livre/A ,/PNT por/ADV outro/ADV lado/ADV ,/PNT tenho/V saudade/N dós/N dias/N em/P a/ART Roménia/N ./PNT
+
+Adoro/V falar/V Português/N e/CONJ gosto/V muito/ADV de/P a/ART Coimbra/N e/CONJ geralmente/N de/P Portugal/N ./PNT
+
+Muitas/QNT pessoas/N estão/V a/P dizer/V que/C falo/V muito/ADV bem/ADV tindo/A em/P conta/N que/REL estou/V a/P estudar/V a/ART lingua/N desde/P Septemvre/N ./PNT
+
+Eu/PRS acho/V que/C ainda/ADV tengo/V muito/ADV para/P aprender/V ,/PNT mas/CONJ sei/V qui/V depois/ADV de/P viver/V um/ART ano/N aqui/ADV falarei/V bastante/ADV bem/ADV ./PNT
+
+Conheci/V muitas/QNT pessoas/N incriveis/A e/CONJ acho/N que/REL vamos/V ficar/V amigas/N para/P tuda/N a/ART vida/N ./PNT
+
+Aqui/ADV as/ART experincias/N são/V unicas/A !/PNT
+
+Em/P a/ART minha/POSS opinião/N isto/DEM ajuda/N ,/PNT muito/ADV a/P que/REL os/ART jovens/N madurem/A ./PNT
+
+Agora/ADV que/CONJ faltam/V só/ADV 3/V dias/N até/P voltar/V em/P a/ART casa/N ,/PNT em/P a/ART minha/POSS cabeça/N há/V uma/ART grande/A confução/N ./PNT
+
+E/CONJ verdade/N que/REL tenho/V muita/QNT vontade/N para/P voltar/V mas/CONJ tambem/N sei/V que/C vou/V ter/V muita/QNT saudde/N de/P todas/QNT as/ART meus/POSS amigas/N ,/PNT de/P os/ART meus/POSS colegas/N ,/PNT de/P Coimbra/N ./PNT
+
+Estou/V conciente/N de/P que/REL tenho/V que/C aproveitar/V tudo/QNT o/ART que/REL esta/DEM experíncia/N vai/V oferecer/V me/CL ,/PNT assim/ADV que/C já/ADV estou/V a/ART espera/N de/P voltar/V em/P o/ART Janeiro/N ./PNT
+

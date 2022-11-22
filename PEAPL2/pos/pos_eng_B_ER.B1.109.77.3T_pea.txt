@@ -1,0 +1,26 @@
+Eu/PRS moro/V em/P um/ART aldeia/N bastante/ADV pequena/A em/P a/ART norte/N de/P a/ART Inglaterra/N ./PNT
+
+Fica/V mais/ADV o/ART menos/ADV trinta/A minutos/N de/P Manchester/N e/CONJ trinta/V minutos/N de/P Liverpool/N ./PNT
+
+É/V uma/ART aldeia/N muito/ADV bonita/A com/P umas/ART restaurantes/N de/P os/ART outros/A paises/N de/P o/ART Mundo/N como/CONJ de/P Italia/N ,/PNT Grega/A e/CONJ Índia/N ./PNT
+
+Também/ADV há/V umos/N bares/N ,/PNT cupes/N e/CONJ lojas/N importantes/A como/CONJ um/ART supermercado/N ,/PNT um/ART banco/N e/CONJ uma/ART farmácia/N ./PNT
+
+Por/P isso/DEM é/V muito/ADV conveniente/A para/P as/ART coisas/N que/CONJ preciso/A de/P ter/V todos/QNT os/ART dias/N ./PNT
+
+É/V uma/ART aldeia/N onde/ADV toda/QNT a/ART gente/N se/CL conhece/V porque/CONJ todas/QNT as/ART pessoas/N vão/V a/P a/ART misma/N escola/N ./PNT
+
+Contudo/ADV fui/V a/P a/ART escola/N diferente/A por/P isso/DEM não/ADV conheço/V quasi/N ninguem/A e/CONJ este/DEM é/V uma/ART coisa/N que/REL mudaria/V ./PNT
+
+Também/ADV para/P sair/V a/P as/ART noites/N preciso/A de/P viajar/N a/P a/ART outra/A cidade/N porque/CONJ em/P a/N há/V nenhumas/N discotecas/A ,/PNT por/P isso/DEM se/CL houvesse/V uma/ART discoteca/N sera/A um/ART aldeia/N mais/ADV interessante/A ./PNT
+
+Contudo/ADV tenho/V muito/ADV sorte/N porque/CONJ vivo/ADV perto/ADV as/ART duas/CARD cidades/N muito/ADV grandes/A que/REL tem/V quasi/V tudo/QNT que/REL quero/V e/CONJ tem/V aeroportos/N por/P isso/DEM é/V muito/ADV facil/A e/CONJ conveniente/V para/P viajar/N onde/ADV quero/V ./PNT
+
+Um/ART problema/N com/P o/ART meu/POSS barrio/N é/V que/C o/ART sistema/N de/P transporte/N é/V muito/ADV mal/ADV e/CONJ caro/A ./PNT
+
+Por/P exemplo/N se/CL quero/V ir/V a/ART Manchester/N leva/V muito/QNT tempo/N ,/PNT os/ART comboios/N não/ADV sao/V frequente/A e/CONJ costa/N cinco/CARD euros/N ./PNT
+
+Por/P isso/DEM é/V um/ART barrio/N aborrecido/A se/CL nao/V tem/V carro/N ./PNT
+
+Eu/PRS gosto/V muito/ADV de/P a/ART beleza/N de/P o/ART meu/POSS bairro/N mais/ADV seria/V ideial/V se/CL o/ART meu/POSS bairro/N ficasse/A em/P um/ART outro/A pais/N com/P tempo/N melhor/A porque/CONJ sempre/ADV faz/V chuva/N por/P isso/DEM não/ADV posso/V fazer/V as/ART coisas/N que/REL quero/V como/CONJ os/ART desportes/N ./PNT
+

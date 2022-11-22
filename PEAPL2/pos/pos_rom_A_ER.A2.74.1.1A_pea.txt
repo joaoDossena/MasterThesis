@@ -1,0 +1,12 @@
+Eu/PRS sou/V uma/ART rapariga/N Erasmus/N de/P a/ART Romenia/N ./PNT
+
+Chamo/V me/CL XXXXX/A e/CONJ estudo/N direito/A ./PNT
+
+Eu/PRS sou/V uma/ART rapariga/N magra/A ,/PNT com/P cabello/N preto/N ,/PNT comprido/A e/CONJ os/ART olhos/N azuis/A ./PNT
+
+Eu/PRS amo/V muito/ADV meus/POSS pais/N e/CONJ a/ART minha/POSS irmã/N e/CONJ dou/V me/CL muito/ADV bem/ADV com/P eles/PRS ./PNT
+
+Minha/N casa/N é/V muito/ADV bonita/A e/CONJ tem/V uma/ART atmosfera/N de/P calor/N e/CONJ eu/PRS gosto/V muito/ADV de/P isto/DEM ./PNT
+
+Eu/PRS gosto/V passiar/N com/P os/ART amigos/N ,/PNT sair/V em/P a/ART centro/N de/P a/ART cidade/N ,/PNT amos/V os/ART animais/N especialmente/ADV os/ART cães/N ./PNT
+

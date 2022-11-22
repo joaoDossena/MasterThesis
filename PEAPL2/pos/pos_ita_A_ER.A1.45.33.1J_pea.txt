@@ -1,0 +1,8 @@
+Em/P os/ART meus/POSS tempos/N livres/A eu/PRS gosto/V de/P fazer/V muitas/QNT coisas/N ./PNT
+
+Eu/PRS gosto/V de/P fazer/V muitas/QNT coisas/N porque/CONJ eu/PRS sou/V um/ART rapaz/N muito/ADV activo/A e/CONJ tambem/A porque/CONJ eu/PRS tenho/V muitos/QNT hobbies/N ./PNT
+
+Eu/PRS faço/V muito/QNT desporto/N ./PNT
+
+Cada/QNT semana/N eu/PRS faço/V karate/A -LRB-/V dois/CARD vezes/N cada/QNT semana/N ,/PNT em/P a/ART segunda/ORD e/CONJ em/P a/ART quarta/ORD feira/N a/ART tarde/ADV -RRB-/A ,/PNT boxe/N ,/PNT -LRB-/V tambem/V isto/DEM desporto/N dois/CARD vezes/N cada/QNT semana/N ,/PNT em/P a/ART terça/N e/CONJ em/P a/ART quinta/N a/ART tarde/N -RRB-/A :/PNT
+

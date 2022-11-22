@@ -1,0 +1,8 @@
+Moro/V em/P Sinaai/N ./PNT
+
+É/V uma/ART pequena/A aldeia/N em/P o/ART Norte/N de/P a/ART Bélgica/N ,/PNT com/P 6000/N habitantes/N ./PNT
+
+Antes/ADV de/P morar/N lá/ADV ,/PNT morei/N em/P todos/QNT os/ART meus/POSS amigos/N também/ADV moram/V em/P Sinaai/N e/CONJ também/ADV são/V membro/N de/P um/ART movimento/N ./PNT
+
+Como/V quase/QNT todos/QNT os/ART meus/POSS amigos/N moram/V lá/ADV ,/PNT acho/N que/REL não/ADV há/V coisas/N que/REL podiam/V mudar/V para/P que/REL fosse/V mais/ADV agradável/A lá/ADV viver/V :/PNT -RRB-/N Só/ADV o/ART tempo/N podia/V ser/V melhor/A ,/PNT mas/CONJ isto/DEM é/V típico/A de/P a/ART Bélgica/N .../PNT
+

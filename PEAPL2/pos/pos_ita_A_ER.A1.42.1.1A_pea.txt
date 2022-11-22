@@ -1,0 +1,16 @@
+Chamo/V me/CL XXXXX/V e/CONJ tenho/V 22/CARD anos/N ./PNT
+
+Sou/V italiana/N e/CONJ estudo/N letras/N modernas/V em/P a/ART facultade/N de/P ``/N Letras/A e/CONJ Filosofía/N ''/N de/P Macerata/N ,/PNT mas/CONJ agora/ADV vivo/A em/P Portugal/N ,/PNT em/P a/ART cidade/N de/P Coimbra/N ,/PNT para/P estudar/V a/ART lingua/N portuguesa/A ./PNT
+
+Gosto/V muito/ADV de/P a/ART cidade/N e/CONJ de/P viver/V sozinha/N mas/CONJ talvez/ADV tenho/V saudade/N de/P os/ART meus/POSS pais/N e/CONJ de/P os/ART meus/POSS amigos/N italianos/N ./PNT
+
+Em/P o/ART final/N de/P o/ART mese/N de/P Julho/N vou/V voltar/V em/P a/ART minha/POSS terra/N e/CONJ acho/N que/REL vai/V ser/V muito/ADV difícil/A regressar/V a/P a/ART vida/N ``/A normal/A ''/N ./PNT
+
+Nesto/N ano/N ,/PNT o/ART em/P o/ART proximo/N ,/PNT espero/V de/P licenciar/V me/CL então/ADV tenho/V muitas/QNT coisas/N para/P fazer/V epara/V estudar/V ,/PNT a/ART minha/POSS terá/V vai/V ser/V um/ART trabalho/N sobre/P o/ART Manoel/N de/P Oliveira/N ,/PNT o/ART cineasta/N portugues/V mais/ADV importante/A de/P o/ART Portugal/N -LRB-/A e/CONJ também/ADV mais/ADV velho/A -RRB-/A ./PNT
+
+O/ART meu/POSS desejo/N é/V escriver/A estorias/N para/P o/ART cinema/N mas/CONJ também/ADV gosteria/V de/P ser/V professora/N de/P literatura/N italiana/V o/ART de/P estoria/N de/P o/ART espetaculo/N ./PNT
+
+Não/ADV sei/V em/P verdade/N o/ART que/REL vou/V conseguir/V fazer/V porque/CONJ agora/ADV em/P Italia/N temos/V uma/ART situação/N muito/ADV difícil/A e/CONJ não/ADV há/V trabalho/N ,/PNT sobretudo/ADV em/P a/ART outra/A de/P o/ART que/REL eu/PRS gosto/V mais/ADV ./PNT
+
+Não/ADV tenho/V muitas/QNT certezas/N ,/PNT mas/CONJ sou/V que/C em/P a/ART minha/POSS vida/N vou/V voltar/V muitas/QNT vezes/N em/P Portugal/N ,/PNT e/CONJ sou/V muito/ADV feliz/A de/P ter/V feito/V esta/DEM esperência/N de/P o/ART Erasmus/N :/PNT encontrei/V uma/ART terra/N muito/ADV bonito/A e/CONJ em/P o/ART mesmo/A tempo/N acho/A que/REL vou/V ser/V uma/ART pessoa/N diferente/A ,/PNT talvez/ADV melhor/A ./PNT
+

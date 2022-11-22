@@ -1,0 +1,10 @@
+Visto/V que/C eu/PRS sou/V belga/A ,/PNT vou/V presentar/V a/ART Bélgica/N ./PNT
+
+Bélgica/ADV é/V um/ART pais/N mais/ADV o/ADV menos/ADV pequeno/A em/P comparação/N com/P outros/ART paises/N europeus/A ./PNT
+
+É/V situado/N em/P o/ART occidente/N e/CONJ tem/V com/P vizinhos/N os/ART Paises/N Baixos/A em/P o/ART norte/N ,/PNT a/ART Alemánia/N em/P o/ART oriente/N ,/PNT o/ART Luxemburgo/N e/CONJ o/ART Francia/N em/P o/ART sul/N ./PNT
+
+Temos/V também/ADV uma/ART pequena/A de/P o/ART mundo/N -RRB-/A ,/PNT o/ART teatro/N e/CONJ a/ART dança/N contemporánea/A são/V de/P um/ART nível/N altíssimo/A e/CONJ ,/PNT se/CONJ queremos/V escapar/N de/P o/ART pais/N ,/PNT somos/V muito/ADV perto/ADV de/P os/ART grandes/A centros/N europeos/A como/CONJ Londres/N ,/PNT París/A e/CONJ Amsterdão/N ./PNT
+
+Viva/V Bélgica/N !/PNT
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader>
+<fileDesc><titleStmt><date>02/10/2017</date></titleStmt></fileDesc><profileDesc><particDesc><listPerson><person><persName><name>Elisangela Vila Nova da Silva Soares</name><birthdate>09/08/1993</birthdate><gender>Feminino</gender><nationality>Timorense</nationality><birthPlace>Timor-Leste</birthPlace><langKnowledge><langKnown level="first">Tétum</langKnown><langKnown level="school">Português</langKnown><langKnown level="foreign">Inglês, Indonésio</langKnown></langKnowledge></persName></person></listPerson></particDesc></profileDesc></teiHeader>
+<text id="TET.ES.05.FD.27.4">
+<p id="p-1"> Sou xxx, moro em Díli, a capital de Timor-Leste.</p>
+<p id="p-2"> Díli é a cidade onde nasci e cresci junto com os meus irmãos e com toda a minha família. É uma cidade bonita e cheio de lembranças significantes ao <gap reason="illegible" id="e-1"/> país, em especial para a minha família.</p>
+<p id="p-3"> Díli como capital do país, onde todas as pessoas se concentram a procura de emprego, escolas, <gap reason="illegible" id="e-2"/> ou seja, a procura de uma vida melhor, porque em Díli tem tudo, basta ter o querer de trabalhar e esforçar. Mesmo assim, não só coisas boas, há também coisas que consideramos negativas, não são bons para nós.</p>
+<p id="p-4"> Podemos ver que em Díli tem muitas pessoas, em cada ano o número de pessoas que vive em Díli aumentou-se porque a grande parte do desenvolvimento do país só é concentrada em Díli, por um lado é bom mas por outro lado não é bom. Todavia, que na implementação dos projetos, resulta muitos danos, essencialmente, danos ambientais que podem <gap reason="illegible" id="e-3"/> dar impacto a saúde humana, a economia do Estado e entre outros por falta de um estudo prévio. Portanto, precisamos de ter a cautela <gap reason="illegible" id="e-4"/> dos nossos actos, de melhorar a nossa cidade, de proteger e preservar o que temos, assim, podemos viver mais agradável, contudo, temos de ter a consciência e ser <gap reason="illegible" id="e-5"/> responsáveis.</p>
+
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+em/P este/DEM ano/N estou/V a/P estudar/V em/P Portugal/N ./PNT
+
+Sendo/N inglesa/A ,/PNT com/P si/PRS notar/V algumas/QNT diferenças/N culturáis/A ./PNT
+
+Para/P começar/V ,/PNT o/ART horário/N é/V completamente/ADV diferente/A ;/PNT lá/ADV ,/PNT em/P Inglaterra/N ,/PNT janta/V se/CL a/P as/ART sete/CARD horas/N de/P a/ART tarde/N ,/PNT enquanto/CONJ cá/ADV ,/PNT em/P Portugal/N ,/PNT ou/CONJ por/P o/ART menos/ADV em/P Coimbra/N ,/PNT se/CL janta/V mais/ADV tarde/ADV ,/PNT por/P as/ART nove/CARD horas/N ./PNT
+
+Também/ADV já/ADV reparei/V que/C há/V uma/ART diferença/N quanto/P a/ART vida/N nocturna/A ./PNT
+
+Lembrei/V me/CL de/P a/ART primeira/ORD vez/N que/REL saí/V com/P as/ART minhas/POSS colegas/N de/P casa/N ,/PNT que/REL são/V portuguesas/A ./PNT
+
+Fomos/V tomar/V um/ART café/N a/P as/ART onze/N horas/N e/CONJ tendo/N acabado/A ,/PNT saímos/V para/P irmos/N a/ART outros/A sítios/N ./PNT
+
+O/ART problema/N foi/V que/C eu/PRS estava/V habituada/V a/P voltar/V a/ART casa/N a/P as/ART duas/CARD de/P a/ART manhã/N porque/CONJ costumava/V fazer/V isto/DEM quando/CONJ saía/V em/P Inglaterra/N ./PNT
+
+Portanto/ADV ,/PNT queria/V ir/V para/P casa/N e/CONJ as/ART meninas/N queriam/V ficar/V em/P a/ART discoteca/N ./PNT
+
+Eu/PRS estava/V muito/ADV preocupada/A porque/CONJ achava/N que/REL seria/V impossível/A dar/V me/CL bem/ADV com/P elas/PRS se/CONJ não/ADV conseguisse/V ficar/V até/P a/P o/ART fim/N ./PNT
+
+Decidi/V ficar/V ainda/ADV que/C estivesse/V cansada/A e/CONJ a/P o/ART final/N diverti/V me/CL imenso/ADV ./PNT
+
+Mesmo/ADV havendo/V diferenças/N entre/P a/ART cultura/N portuguesa/A e/CONJ a/ART cultura/N inglesa/A ,/PNT não/ADV acho/V que/C as/ART pessoas/N sejam/V tão/ADV diferentes/A ./PNT
+
+Como/V por/P exemplo/N ,/PNT já/ADV notei/V que/C os/ART dois/CARD países/N gostam/V muito/ADV de/P futbol/N ,/PNT e/CONJ o/ART mundo/N quase/ADV pára/A quando/CONJ há/V um/ART jogo/N ./PNT
+
+Além/P de/P isso/DEM ,/PNT pessoalmente/ADV creio/V que/C os/ART portugueses/N ,/PNT em/P geral/N ,/PNT bebem/V tanto/ADV como/CONJ os/ART ingleses/N embora/CONJ os/ART ingleses/N sejam/V mais/ADV conhecidos/V por/P serem/V bêbedos/N ./PNT
+
+Acho/V que/C a/ART única/A diferença/N é/V que/C os/ART ingleses/N vão/V a/P os/ART países/N estrangeiros/A e/CONJ embebam/V se/CL em/P aqueles/DEM países/N e/CONJ os/ART portugueses/N costumam/V ficar/V em/P Portugal/N ./PNT
+
+Com/P a/ART minha/POSS oportunidade/N de/P contactar/V uma/ART cultura/N diferente/A ,/PNT posso/V dizer/V que/REL se/C bem/ADV que/C vai/V haver/V problemas/N em/P o/ART início/N ,/PNT a/P o/ART final/N vale/V a/ART pena/N porque/CONJ vai/V haver/V a/ART oportunidade/N de/P conhecer/V pessoas/N diferentes/A ./PNT
+
+Não/ADV acho/V que/C seja/V muito/ADV difícil/A adaptarmo/N nos/A a/P as/ART culturas/N estrangeiras/A e/CONJ mesmo/ADV por/P isso/DEM aconselhari/N que/REL todo/QNT o/ART mundo/N tente/V a/P conhecer/V um/ART país/N estrangeiro/A ./PNT
+

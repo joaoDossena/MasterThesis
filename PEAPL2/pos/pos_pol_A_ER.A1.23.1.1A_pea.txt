@@ -1,0 +1,16 @@
+Eu/PRS gosto/V muito/ADV a/ART minha/POSS casa/N ./PNT
+
+É/V grande/A porque/CONJ eu/PRS tenho/V melhor/A família/N ./PNT
+
+A/ART casa/N não/ADV é/V em/P centro/N de/P o/ART cidade/N ,/PNT é/V perto/ADV de/P o/ART rio/N ./PNT
+
+Em/P a/ART 1º/ORD piso/N é/V uma/ART cozinha/N ,/PNT uma/ART quarta/ORD pai/N e/CONJ mãe/N ,/PNT uma/ART quarta/ORD minha/POSS irma/N ,/PNT grande/A quarta/ORD com/P televisão/N e/CONJ casa/N de/P banho/N ./PNT
+
+Em/P a/ART 2º/N piso/N é/V minha/POSS quarta/ORD e/CONJ casa/N de/P banho/N tambem/A ,/PNT e/CONJ quarta/ORD minha/POSS otra/N irmã/N e/CONJ um/ART escritorio/N de/P pai/N ./PNT
+
+A/ART minha/POSS quarta/ORD é/V bonita/A mas/CONJ pequena/A ./PNT
+
+Eu/PRS vivo/ADV em/P casa/N com/P pai/N ,/PNT mãe/N e/CONJ duas/CARD irmãs/N ./PNT
+
+Tenho/V dois/CARD irmãos/N tambem/A mas/CONJ eles/PRS não/ADV vivem/V em/P minha/POSS casa/N agora/ADV ./PNT
+

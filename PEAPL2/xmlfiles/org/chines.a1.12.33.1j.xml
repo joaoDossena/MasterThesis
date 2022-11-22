@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader><profileDesc><particDesc><listPerson><person><birthcountry>China</birthcountry><profbestl2 converse="A2" listen="B1" write="A2" speak="A2" read="B1"/><langKnowledge><langKnown level="first">Chinês</langKnown><langKnown level="second">Inglês</langKnown><langKnown level="foreign">Inglês</langKnown><langKnown level="school">Chinês</langKnown></langKnowledge><proficiency read="A1" write="A1" speak="A1" converse="A1" listen="A1"/><nationality>Chinesa</nationality><residence n="prior">N.R. </residence><note n="outside-school">N.R. </note><sex type="M"/><birthdate>1987.08.22</birthdate><portugueseLearning><start>2009</start></portugueseLearning></person></listPerson></particDesc></profileDesc><notesStmt><note n="informantcnt">1</note><note n="textcode">CHINÊS.CA.A1.12</note><note n="fase">Fase 1</note><note n="stimulus">33.1J</note><note n="wrdcount">18</note><note n="qecrl">A1</note></notesStmt></teiHeader>
+<text>
+<p id="p-1"><tok id="w-1">Nos<dtok lemma="em" pos="SP" id="d-1-1"/><dtok lemma="o" pos="DA0MP0" id="d-1-2"/></tok> <tok id="w-2" lemma="tempo" pos="NCMP000">tempos</tok> <tok id="w-3" lemma="livre" pos="AQ0CP00">livres</tok><tok id="w-4" lemma="," pos="Fc">,</tok> <tok id="w-5" lemma="eu" pos="PP1CSN0" nform="eu">Eu</tok> <tok id="w-6" lemma="gostar" pos="VMIP1S0">gosto</tok> <add><tok form="de" id="w-7" lemma="de" pos="SP">de</tok></add> <tok id="w-8" lemma="jogar" pos="VMN0000">jogar</tok> <tok id="w-9" lemma="basquetebol" pos="NCMS000">basquetebol</tok> <tok id="w-10" lemma="e" pos="CC">e</tok> <tok id="w-11" lemma="ver" pos="VMN0000">ver</tok> <del><tok form="--" id="w-12">futebol</tok></del> <tok id="w-13" lemma="jogo" pos="NCMS000" nform="jogo">Jogo</tok> <tok id="w-14" lemma="de" pos="SP">de</tok> <tok id="w-15" lemma="futebol" pos="NCMS000">futebol</tok> <tok id="w-16" lemma="e" pos="CC">e</tok> <tok id="w-17" lemma="ir" pos="VMN0000">ir</tok> <tok id="w-18" lemma="o" pos="DA0FS0">a</tok> <tok id="w-19" lemma="parque" pos="NCMS000">parque</tok><tok id="w-20" lemma="." pos="Fp">.</tok></p>
+<p id="p-2"/>
+<p id="p-3"/>
+<p id="p-4"/>
+</text>
+
+</TEI>

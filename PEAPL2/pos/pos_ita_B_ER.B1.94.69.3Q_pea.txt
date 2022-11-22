@@ -1,0 +1,16 @@
+Eu/PRS sempre/ADV vivi/V em/P a/ART cidade/N ,/PNT mas/CONJ quando/CONJ era/V pequena/A costumava/N passar/V as/ART férias/N de/P verão/N em/P a/ART casa/N de/P o/ART meu/POSS avó/N em/P o/ART campo/N ./PNT
+
+É/V por/P isso/DEM que/C eu/PRS gosto/V de/P as/ART duas/CARD opções/N ./PNT
+
+É/V certeza/N que/REL temos/V vantagens/N e/CONJ desvantagens/N em/P os/ART dois/CARD casos/N ,/PNT por/P exemplo/N viver/V em/P a/ART cidade/N é/V bom/A porque/CONJ sempre/ADV temos/V todo/QNT a/P a/ART disposição/N ,/PNT ou/CONJ seja/V ,/PNT <as to>/N as/ART escolas/N ,/PNT onde/ADV fazer/V as/ART compras/N ,/PNT as/ART lojas/N ,/PNT tudo/QNT o/ART que/REL precisamos/V para/P viver/V e/CONJ mais/ADV ,/PNT os/ART meios/N de/P transporte/N que/REL também/ADV são/V muito/ADV importantes/A ./PNT
+
+Por/ADV outro/ADV lado/ADV temos/V muita/QNT poluição/N ,/PNT \//N que/REL está/V \//N producta/A por/P os/ART carros/N ,/PNT por/P as/ART fabricas/N e/CONJ ,/PNT além/P de/P isso/DEM ,/PNT temos/V o/ART tráfico/N ,/PNT e/CONJ a/ART gente/N que/REL está/V sempre/ADV a/P correr/V ,/PNT <para fazer tudo>/A e/CONJ de/P aqui/ADV chega/V o/ART nervosismo/N ,/PNT o/ART mal/ADV estar/V de/P as/ART pessoas/N ./PNT
+
+Por/P isso/DEM ,/PNT viver/V em/P o/ART campo/N podria/V ser/V melhor/A ,/PNT mas/CONJ em/P a/ART verdade/N ,/PNT a/P o/ART menos/ADV de/P o/ART aire/N limpo/A e/CONJ de/P a/ART naturaleza/N ,/PNT também/ADV a/ART vida/N em/P o/ART campo/N pode/V ser/V um/ART pouco/ADV incomoda/V ,/PNT porque/CONJ não/ADV estão/V todas/QNT as/ART coisas/N que/REL estão/V em/P a/ART cidade/N ./PNT
+
+Imaginemo/ADV nos/V de/P acordar/V nos/V todos/QNT os/ART dias/N as/ART 6h/N de/P a/ART manhã/N porque/CONJ temos/V que/C ir/V a/P trabalhar/V em/P o/ART centro/N de/P a/ART cidade/N ,/PNT ou/CONJ porque/CONJ é/V preciso/A levar/V os/ART filhos/N a/P a/ART escola/N ,/PNT que/REL ,/PNT com/P certeza/N ,/PNT fica/V dentro/ADV de/P a/ART cidade/N ./PNT
+
+Então/ADV ,/PNT é/V impossível/A escolher/V o/ART mais/ADV comfortavel/A ,/PNT cada/QNT um/QNT tem/V as/ART proprias/A necessidades/N e/CONJ escolhe/V sozinho/A ./PNT
+
+Eu/PRS ,/PNT gosto/V de/P a/ART cidade/N ,/PNT e/CONJ em/P um/ART futuro/N ,/PNT ou/CONJ só/ADV nos/V verãos/V ir/V em/P o/ART campo/N para/P descansar/N ./PNT
+

@@ -1,0 +1,26 @@
+Eu/PRS chamo/V me/CL XXXXX/V e/CONJ tenho/V 23/CARD anos/N ./PNT
+
+Eu/PRS moro/V em/P Madrid/N embora/CONJ este/DEM ano/N estou/V em/P Coimbra/N de/P Erasmus/N ./PNT
+
+Os/ART meus/POSS pais/N e/CONJ o/ART meu/POSS irmão/N moram/V em/P XXXXX/N ,/PNT uma/ART pequena/A aldeia/N perto/ADV de/P os/ART Pirineos/N ./PNT
+
+Tenho/V tamben/V uma/ART irma/N que/C esta/DEM a/P estudar/V em/P Madrid/N com/P mim/PRS ./PNT
+
+Em/P os/N temos/V a/ART boa/A relaçao/N e/CONJ eu/PRS gosto/V muito/ADV de/P fazer/V coisas/N con/A eles/PRS ./PNT
+
+Costumamos/V a/P fazer/V viajens/N juntos/A ./PNT
+
+quando/CONJ temos/V tempo/N libré/A e/CONJ quando/CONJ os/ART meus/POSS pais/N têm/V ferias/N ./PNT
+
+A/ART minha/POSS irmã/N chama/V se/CL XXXXX/V e/CONJ tem/V 21/CARD anos/N ./PNT
+
+Gostamos/V de/P as/ART mismas/N coisas/N :/PNT musica/V ,/PNT afiçoes/N ,/PNT desportos/N .../PNT E/CONJ tamben/N temos/V amigos/N em/P comum/A ,/PNT por/P isso/DEM somos/V muito/ADV boas/A colegas/N ./PNT
+
+O/ART meu/POSS irmao/N tem/V 16/CARD anos/N e/CONJ ele/PRS esta/DEM em/P uma/ART edade/N muito/ADV dificil/A ./PNT
+
+mas/CONJ eu/PRS gosto/V de/P ele/PRS ./PNT
+
+Chama/V se/CL XXXXX/V ./PNT
+
+Os/ART neus/N pais/N chaman/V se/CL XXXXX/V e/CONJ XXXXX/N e/CONJ gostan/N de/P ler/N ,/PNT caminhar/V por/P a/ART Montana/N com/P o/ART nosso/POSS cao/N .../PNT Agora/ADV em/P Natal/N volto/A para/P casa/N dois/CARD semanas/N com/P boa/A energia/N !/PNT
+

@@ -1,0 +1,22 @@
+O/ART meu/POSS retrato/N ./PNT
+
+Sou/V uma/ART rapariga/N com/P meia/A altura/N em/P a/ART Suecia/N mas/CONJ aqui/ADV em/P Portugal/N penso/A que/REL estou/V um/ART pouquínho/N mais/ADV alta/A de/P o/ART que/REL a/ART medida/N ./PNT
+
+O/ART meu/POSS cabelo/N e/CONJ mais/ADV ou/CONJ menos/ADV comprido/A e/CONJ castanho/A ,/PNT mas/CONJ aqui/ADV muítas/N pessoas/N dissem/V me/CL que/C sou/V loira/A .../PNT Tudo/QNT em/P a/ART vida/N é/V relativo/A ,/PNT não/ADV é/V .../PNT Queria/V aprender/V português/A porque/CONJ há/V alguns/QNT anos/N encontrou/V o/ART meu/POSS namorado/N que/C é/V português/A e/CONJ para/P poder/V falar/V com/P a/ART família/N de/P ele/PRS e/CONJ também/ADV para/P poder/V ter/V uma/ART vida/N aqui/ADV em/P Portugal/N queria/V tal/A como/CONJ preciso/A de/P aprender/V português/A ./PNT
+
+Mas/N ainda/ADV não/ADV sabemos/A se/CL vamos/V ficar/V em/P Portugal/N ou/CONJ não/ADV ,/PNT até/ADV agora/ADV só/ADV tínhamos/V morado/N em/P a/ART Suécia/N e/CONJ o/ART meu/POSS namorado/N queria/V voltar/V depois/ADV deste/N ano/N ,/PNT mas/CONJ vamos/V ver/V .../PNT Antes/ADV deste/N ano/N só/ADV tinha/V estudo/N português/A sozinha/A com/P os/ART livros/N em/P casa/N ,/PNT lá/ADV em/P a/ART Suécia/N ,/PNT e/CONJ sempre/ADV queria/V tirar/A este/DEM curso/N ./PNT
+
+Penso/V que/C achava/V que/C se/CL tirasse/V um/ART curso/N com/P aulas/N ,/PNT professores/N e/CONJ tudo/QNT aperendaria/V finalmente/ADV este/DEM lingua/N tão/ADV dificil/A ./PNT
+
+Mas/V agora/ADV ,/PNT quando/CONJ estou/V aqui/ADV ,/PNT estou/V a/P ver/V que/C frequentar/V um/ART curso/N pode/V ajudar/V ,/PNT mas/CONJ não/ADV vai/V fazer/V o/ART trabalho/N de/P aprender/V a/ART língua/N para/P ti/PRS ./PNT
+
+Mesmo/ADV assim/ADV ,/PNT a/P andar/V em/P as/ART aulas/N com/P a/ART ajuda/N de/P os/ART professores/N ,/PNT é/V nesessario/V dar/V muitos/QNT escforços/N para/P aprender/V uma/ART língua/N nova/A tal/A como/CONJ foi/V quando/CONJ estudava/V sosinha/N em/P casa/N ./PNT
+
+Não/ADV há/V caminhos/N pertinhos/A aqui/ADV em/P a/ART vida/N pois/ADV não/ADV ?/PNT
+
+./N
+
+./N
+
+-LRB-/V Este/DEM texto/N foi/V um/ADV pouco/ADV em/P fora/ADV de/P a/ART tema/N ,/PNT que/REL escolhei/V .../PNT desculpem/V me/CL -RRB-/A
+

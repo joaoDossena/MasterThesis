@@ -1,0 +1,30 @@
+Eu/PRS moro/V em/P a/ART Baixa/N de/P Coimbra/N ./PNT
+
+Bom/ADV ,/PNT pode/V não/ADV ser/V o/ART bairro/N com/P mais/ADV ``/A glamour/N ''/N de/P a/ART cidade/N ,/PNT mas/CONJ é/V uma/ART área/N com/P uma/ART mágia/N particular/A ./PNT
+
+Adoro/V caminhar/V por/P as/ART ruelas/N deste/N espaço/N com/P tanta/QNT história/N ./PNT
+
+Gosto/V muito/ADV de/P ir/V almoçar/N o/ART prato/N de/P o/ART dia/N a/P os/ART restaurantes/N sitos/V lá/ADV ,/PNT porque/CONJ têm/V uma/ART atmósfera/N tão/ADV tradicional/A que/REL me/CL sinto/V sempre/ADV como/CONJ em/P casa/N ./PNT
+
+E/CONJ também/ADV gosto/V de/P fazer/V compras/N aqui/ADV ,/PNT porque/CONJ os/ART vendedores/N têm/V experiência/N de/P muitos/QNT anos/N em/P o/ART seu/POSS trabalho/N ,/PNT podem/V me/CL ajudar/V se/CL tenho/V dúvidas/N ou/CONJ problemas/N ,/PNT e/CONJ são/V sempre/ADV muito/ADV agradáveis/A ./PNT
+
+A/ART Baixa/N está/V tão/ADV viva/A !/PNT
+
+Com/P frequência/N vou/V ouvir/V fado/N a/P o/ART Diligência/N ,/PNT ou/CONJ a/P o/ART teatro/N de/P a/ART Cerca/ADV de/ADV São/V Bernardo/N ./PNT
+
+E/CONJ também/ADV há/V concertos/N em/P a/ART Igreja/N de/P Santa/N Cruz/N ,/PNT ou/CONJ em/P o/ART clásico/N café/N Santa/N Cruz/N ./PNT
+
+Há/V sempre/ADV muitas/QNT coisas/N a/P fazer/V ,/PNT muitas/QNT actividades/N para/N me/CL entreter/V ./PNT
+
+Mas/ADV não/ADV tudo/QNT é/V perfeito/A .../PNT As/ART casas/N são/V velhas/A e/CONJ não/ADV tenho/V mais/ADV de/P o/ART que/REL algum/QNT aquecedor/V para/P manter/V a/ART minha/POSS casa/N quente/A .../PNT Eu/PRS gostaria/V tanto/ADV de/P ter/V calefacção/N verdadeira/A .../PNT !/PNT
+
+E/CONJ uma/ART outra/A coisa/N :/PNT Fico/V sempre/ADV cansada/A quando/CONJ chego/V a/P a/ART faculdade/N ./PNT
+
+Desde/V o/ART primeiro/ORD dia/N compreendi/A a/ART razão/N de/P o/ART nome/N de/P a/ART rua/N QuebraCostas/A !/PNT
+
+Embora/V não/ADV seja/V o/ART melhor/A lugar/N de/P Coimbra/N ,/PNT o/ART meu/POSS bairro/N é/V um/ART bom/A lugar/N para/P viver/V ./PNT
+
+Fica/V perto/ADV de/P a/ART universidade/N e/CONJ de/P a/ART estação/N de/P comboio/N ,/PNT de/P os/ART supermecados/N e/CONJ de/P tantas/QNT lojas/N .../PNT Há/V prédios/N bonitos/A ,/PNT e/CONJ muitas/QNT férias/N e/CONJ mercados/N em/P a/ART praça/N de/P o/ART comércio/N ./PNT
+
+E/CONJ mais/ADV uma/ART outra/A coisa/N que/REL não/ADV tem/V preço/N :/PNT Depois/ADV de/P uma/ART noite/N muito/ADV longa/A ir/V a/P a/ART padaria/N Mimosa/A e/CONJ comer/V um/ART pãocinho/N acabado/A de/P fazer/V .../PNT É/V como/ADV estar/V em/P o/ART Céu/N !/PNT
+

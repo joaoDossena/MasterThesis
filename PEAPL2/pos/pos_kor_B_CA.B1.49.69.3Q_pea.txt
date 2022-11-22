@@ -1,0 +1,28 @@
+Gosto/V de/P viver/V em/P a/ART cidade/N ./PNT
+
+Mas/ADV ,/PNT também/ADV gosto/V de/P viver/V em/P o/ART campo/N ./PNT
+
+Já/ADV vivia/V nos/V ambos/QNT ./PNT
+
+Quando/CONJ era/V criança/N ,/PNT vivia/V muito/QNT tempo/N em/P o/ART campo/N porque/CONJ os/ART meus/POSS pais/N são/V de/P campo/N ./PNT
+
+se/CONJ vivo/ADV em/P o/ART campo/N ,/PNT posso/V respirar/V com/P ar/N fresco/A e/CONJ limpo/N ./PNT
+
+É/V claro/A que/C isso/DEM é/V muito/ADV saudável/A ./PNT
+
+E/CONJ é/V mais/ADV fácil/A encontrar/V ambiente/N natural/A ,/PNT vários/QNT animais/N e/CONJ tranquilidade/N ./PNT
+
+Acho/V que/C isso/DEM também/ADV é/V bom/A para/P saúde/N mental/A ./PNT
+
+Mas/ADV ,/PNT Quando/CONJ vivia/N em/P o/ART campo/N ,/PNT unica/A problema/N era/V que/C encontrar/V e/CONJ ver/V alguns/QNT concertos/N eram/V um/ADV pouco/ADV difícil/A ./PNT
+
+Em/P a/ART cidade/N ,/PNT normalmente/ADV ,/PNT há/V muitos/QNT concertos/N ./PNT
+
+por/P isso/DEM ,/PNT Quando/CONJ vivia/V em/P a/ART cidade/N ,/PNT tinha/V mais/ADV oportunidade/N para/P aproveitar/N vida/N cultural/A ./PNT
+
+Mas/V ,/PNT também/ADV normalmente/ADV ,/PNT o/ART ar/N de/P a/ART cidade/N é/V sujo/V por/P causa/N de/P muitos/QNT carros/N ./PNT
+
+Estava/V aborrecido/N de/P muitos/QNT carros/N e/CONJ barulhos/N e/CONJ trânsito/N ./PNT
+
+E/CONJ em/P a/ART cidade/N falta/V muito/ADV de/P espaço/N verde/A ./PNT
+

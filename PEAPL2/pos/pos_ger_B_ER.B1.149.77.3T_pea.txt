@@ -1,0 +1,20 @@
+Moro/V em/P a/ART parte/N mais/ADV velha/A de/P Coimbra/N ./PNT
+
+Gosto/V muito/ADV de/P esta/DEM parte/N ./PNT
+
+Mas/V também/ADV há/V muitas/QNT républicas/N e/CONJ cães/N vadios/A ./PNT
+
+Acho/V gostaria/V mais/ADV se/CONJ as/ART pessoas/N não/ADV dexassem/V o/ART seu/POSS lixo/N em/P a/ART rua/N ./PNT
+
+Também/ADV não/ADV gosto/V de/P barulho/N lá/ADV ./PNT
+
+Mas/V o/ART meu/POSS quarto/ORD atrás/N de/P Museu/N Machado/N de/P Castro/N é/V bem/ADV perto/ADV de/P a/ART universidade/N ./PNT
+
+Posso/V ver/V o/ART torre/N de/P a/ART universidade/N de/P a/ART minha/POSS janela/N ./PNT
+
+Mas/V outro/ART bairros/N são/V mais/ADV barratos/A e/CONJ eu/PRS estou/V a/P procurar/V um/ART alojamente/N que/REL pôde/V ser/V mais/ADV longe/ADV de/P a/ART universidade/N para/P poupar/N dinheiro/N ./PNT
+
+Apesar/P de/P isso/DEM gosto/V de/P viver/V lá/ADV e/CONJ sinto/V me/CL feliz/A porque/CONJ encontrei/V este/DEM quarto/ORD muito/ADV rapidamente/ADV ./PNT
+
+Só/ADV seria/V melhor/A se/CONJ estas/DEM coisas/N -LRB-/V a/ART música/N alta/A ,/PNT a/ART gritação/N a/ART meianoite/N -RRB-/N acabassem/N ./PNT
+

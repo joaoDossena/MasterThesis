@@ -1,0 +1,32 @@
+Em/P os/ART meus/POSS tempos/N livres/A ./PNT
+
+Eu/PRS gosto/V de/P nadar/N ,/PNT cantar/V ,/PNT dançar/V brincar/V em/P o/ART computador/N e/CONJ ouvir/V música/N ./PNT
+
+Eu/PRS prefiro/V nadar/N em/P as/ART férias/N de/P o/ART Verão/N ,/PNT com/P a/ART minha/POSS família/N em/P a/ART praia/N Hac/N Sá/N ,/PNT em/P Macau/N ./PNT
+
+Porque/ADV assim/ADV ,/PNT eu/PRS sento/V me/CL muito/ADV agradável/A ,/PNT e/CONJ eu/PRS não/ADV fico/V muito/QNT calor/N ./PNT
+
+Nós/PRS também/ADV tomamos/V banho/N de/P sol/N ./PNT
+
+,/PNT Fazemos/N castelos/N de/P as/ART areias/N ,/PNT ficou/V muito/ADV bonito/A ./PNT
+
+O/ART tempo/N de/P Macau/N em/P o/ART Verão/N é/V muito/ADV húmido/A e/CONJ calor/N ,/PNT por/P isso/DEM nós/PRS precissamos/V ir/V a/P o/ART praia/N ,/PNT e/CONJ nós/PRS também/ADV achamos/V este/DEM actividade/N é/V muito/ADV bom/A de/P fazer/V em/P os/ART tempos/N livres/A ,/PNT porque/CONJ pode/V tornavar/V se/CL ser/V nosso/POSS dia/N de/P a/ART família/N ./PNT
+
+Eu/PRS também/ADV gosto/V de/P nadar/N com/P as/ART minhas/POSS colegas/N ,/PNT porque/CONJ nós/PRS também/ADV achamos/V este/DEM actividade/N é/V muito/ADV relaxo/A e/CONJ não/ADV é/V muito/ADV sumptuoso/A e/CONJ caro/A ./PNT
+
+Nós/PRS podemos/V brincar/V ,/PNT comer/V com/P nós/PRS ./PNT
+
+por/P isso/DEM ,/PNT eu/PRS faço/V este/DEM actividade/N em/P os/ART meus/POSS tempos/N livres/A cada/ADV vez/ADV mais/ADV frequente/A ./PNT
+
+Natação/N para/P mim/PRS ,/PNT em/P a/ART primeira/ORD vez/N que/REL eu/PRS aprendo/V como/ADV natar/A ,/PNT é/V muito/ADV muito/ADV dificil/A ./PNT
+
+Mas/ADV ,/PNT agora/ADV ,/PNT eu/PRS acho/V que/C não/ADV é/V ,/PNT eu/PRS gosto/V muito/ADV de/P nadar/N e/CONJ nadar/N é/V bom/A para/P meu/POSS saúde/N ./PNT
+
+Assim/ADV ,/PNT eu/PRS também/ADV gosto/V muito/ADV de/P cantar/V e/CONJ ouvir/V música/N ,/PNT porque/CONJ eu/PRS gosto/V muito/ADV de/P música/N e/CONJ eu/PRS fico/V muito/ADV contente/A ./PNT
+
+As/ART minhas/POSS irmãs/N e/CONJ eu/PRS também/ADV gostamos/V de/P canta/V ,/PNT porque/CONJ nós/PRS somos/V o/ART grupo/N de/P canto/N jovens/N de/P Macau/N ./PNT
+
+Eu/PRS também/ADV gosto/V muito/ADV de/P viajar/N em/P o/ART outro/A país/N ,/PNT se/CONJ eu/PRS não/ADV sou/V muito/ADV pobre/A ./PNT
+
+:/PNT -RRB-/N
+

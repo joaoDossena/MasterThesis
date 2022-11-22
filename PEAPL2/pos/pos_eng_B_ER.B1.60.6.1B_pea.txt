@@ -1,0 +1,42 @@
+Cara/V XXXXX/N ./PNT
+
+Como/ADV estás/V minha/POSS amiga/N ?/PNT
+
+Tenho/V muitas/QNT saudade/N para/P ti/PRS !/PNT
+
+E/CONJ como/CONJ está/V tua/POSS familia/N ?/PNT
+
+Eu/PRS gosto/V muito/ADV de/P Portugal/N ./PNT
+
+Já/ADV conheci/V alguns/QNT amigos/N e/CONJ normalmente/ADV vamos/V a/P as/ART cafés/N juntos/A e/CONJ em/P as/ART noites/N ,/PNT vamos/V a/P as/ART bares/N e/CONJ clubes/N aqui/ADV ./PNT
+
+O/ART meu/POSS deus/N ,/PNT a/ART outra/A noite/N ,/PNT foi/V tão/ADV bêbeda/V que/C ,/PNT tive/V uma/ART ressaca/N por/P duas/CARD dias/N !/PNT
+
+Eu/PRS moro/V com/P portuguesas/A mas/CONJ irrita/V me/CL muito/ADV uma/ART de/P as/ART raparigas/N porque/CONJ ela/PRS sempre/ADV fala/V por/P os/ART cotovelos/N !/PNT
+
+Em/ADV o/ADV entanto/ADV ,/PNT em/P geral/N ,/PNT elas/PRS são/V boas/A pessoas/N ./PNT
+
+As/ART minhas/POSS aulas/N aqui/ADV são/V um/ADV pouco/ADV dificéis/A mas/CONJ oxalá/V que/C melhore/V meu/POSS português/N ./PNT
+
+Ontem/ADV ,/PNT eu/PRS fui/V a/P uma/ART de/P as/ART minhas/POSS aulas/N e/CONJ por/P uma/ART hora/N eu/PRS não/ADV percebi/V que/C foi/V em/P a/ART aula/N errada/A !/PNT
+
+!/N
+
+Que/N vergonha/A !/PNT
+
+Tenho/V muito/QNT trabalho/N para/P casa/N aqui/ADV e/CONJ amanhã/ADV ,/PNT vou/V começá/N #/N lo/N mas/CONJ admito/V que/C tenho/V muito/ADV stress/A ./PNT
+
+Em/P o/ART entanto/ADV ,/PNT venha/V o/ART que/REL vier/V ,/PNT tenho/V a/ART certeza/N que/REL farei/V bem/ADV em/P os/ART meus/POSS exámes/N ./PNT
+
+Espero/V que/C me/CL visites/V logo/ADV !/PNT
+
+Sinto/V me/CL falta/N de/P as/ART actividades/N que/REL faziámos/V juntos/A como/CONJ andando/V em/P o/ART parque/N ou/CONJ bebendo/A cafés/N em/P Starbucks/N ./PNT
+
+Lembras/V te/CL os/ART tempos/N quando/CONJ iámos/V a/P o/ART cinema/N juntos/A ?/PNT
+
+Estou/V aqui/ADV há/V 3/CARD meses/N e/CONJ ainda/ADV sou/V sozinha/N sem/P minha/POSS amiga/N !/PNT
+
+Quando/CONJ visitares/V ,/PNT eu/PRS promisso/V que/C mostrarCLei/V te/CL as/ART praias/N aqui/ADV ./PNT
+
+Um/ART Beijo/N e/CONJ um/ART abraço/N XXXXX/A
+

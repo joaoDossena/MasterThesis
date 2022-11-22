@@ -1,0 +1,32 @@
+Eu/PRS sou/V uma/ART pessoa/N de/P sexo/N masculino/N ./PNT
+
+Tenho/V vinte/CARD e/CARD dois/CARD anos/N e/CONJ sou/V alemão/A ./PNT
+
+Mas/V ,/PNT como/CONJ sou/V um/ART estudante/N ERASMUS/N moro/N em/P Coimbra/N por/P um/ART ano/N ./PNT
+
+Quanto/P a/N as/ART minhas/POSS características/N físicas/A posso/V dizer/V que/C tenho/V uma/ART altura/N de/P 1/N ,/PNT 80m/V e/CONJ sou/V magro/A ,/PNT apesar/P de/P engordar/N um/ART bocadinho/N em/P os/ART últimos/ORD meses/N ./PNT
+
+Além/P de/P isso/DEM ,/PNT sou/V moreno/A ,/PNT tenho/V olhos/N castanhos/A e/CONJ uma/ART pele/N relativamente/ADV escura/A por/P um/ART alemão/A ./PNT
+
+Cá/ADV em/P Coimbra/N vivo/ADV junto/ADV com/P três/CARD italianos/N em/P a/ART parte/N histórica/A de/P a/ART cidade/N ./PNT
+
+Dois/N de/P os/ART meus/POSS companheiros/N de/P casa/N são/V estudantes/N de/P Medicena/N ,/PNT exactamente/A como/CONJ eu/PRS ./PNT
+
+Em/P a/ART Alemanha/N moro/V junto/ADV com/P a/ART minha/POSS família/N ,/PNT quer/V dizer/V com/P os/ART meus/POSS pais/N e/CONJ com/P a/ART minha/POSS irmã/N ./PNT
+
+Ela/PRS é/V mais/ADV nova/A de/P o/ART que/REL eu/PRS e/CONJ terminou/V a/ART escola/N há/V alguns/QNT meses/N ./PNT
+
+Em/P a/ART próxima/A semana/N ela/PRS vai/V participar/V em/P o/ART programa/N de/P ``/N work/N and/N travel/N ''/N e/CONJ viver/V em/P o/ART estrangeiro/N por/P quase/QNT um/ART ano/N ./PNT
+
+Por/P isso/DEM será/V mais/ADV aborrecido/A em/P a/ART nossa/POSS casa/N ./PNT
+
+Mas/V ainda/ADV temos/V um/ART gato/N como/CONJ animal/N doméstico/A que/REL evita/V a/ART tranquilidade/N completa/A ./PNT
+
+Coisas/N de/P que/REL eu/PRS gosto/V são/V tocar/V o/ART piano/N ,/PNT brincar/V com/P o/ART gato/N e/CONJ sobretudo/ADV passar/V o/ART tempo/N com/P os/ART meus/POSS amigos/N ./PNT
+
+Em/P as/ART férias/N costumamos/A sair/V frequentemente/ADV ./PNT
+
+Vamos/V a/P um/ART bar/N ou/CONJ a/P o/ART cinema/N a/P a/ART noite/N e/CONJ durante/P a/ART a/N tarde/ADV encontramo/V nos/V para/P beber/V café/N ou/CONJ jogar/V futebol/N ./PNT
+
+Gosto/V muito/ADV de/P a/ART vida/N preguiçosa/A !/PNT
+

@@ -1,0 +1,26 @@
+Meu/N país/N é/V um/ART pais/N muito/ADV grande/A ./PNT
+
+Por/P isso/DEM ,/PNT temos/V muita/QNT variedade/N de/P cultura/N e/CONJ geografia/N ./PNT
+
+As/ART pessoas/N vinham/V de/P vários/QNT países/N europeus/A e/CONJ traziam/V sua/POSS própria/POSS cultura/N ./PNT
+
+Também/ADV por/P ser/V tão/ADV grande/A ,/PNT as/ART diferenças/N geograficais/A são/V bem/ADV pronuciadas/A ./PNT
+
+O/ART pais/N tem/V montanhas/N ,/PNT campos/A e/CONJ deserta/N ;/PNT há/V diferenças/N de/P o/ART tempo/N também/ADV ./PNT
+
+Em/P o/ART noreste/N de/P o/ART pais/N ,/PNT por/P exemplo/N ,/PNT há/V muitos/QNT ingleses/N e/CONJ portugueses/N ./PNT
+
+Faz/V frio/N muitas/QNT vezes/N ,/PNT porque/CONJ os/ART ventos/N de/P o/ART mar/N são/V bloqueados/V por/P as/ART montanhas/N mais/ADV a/P o/ART oeste/N ./PNT
+
+Em/P o/ART centro/N de/P o/ART pais/N ,/PNT a/ART gente/N é/V ,/PNT por/P grande/A parte/N ,/PNT alemão/A e/CONJ polaco/A ./PNT
+
+A/ART agricultura/N é/V muito/ADV popular/A ,/PNT porque/CONJ há/V grandes/A campos/N com/P muito/QNT espaço/N ./PNT
+
+O/ART sul/N de/P pais/N sempre/ADV faz/V calor/N ,/PNT em/P o/ART oeste/N é/V por/P causa/N de/P as/ART desertas/A ,/PNT mas/CONJ em/P o/N este/DEM é/V por/P causa/N de/P os/ART mares/N tropicais/A ./PNT
+
+em/P esta/DEM zona/N ,/PNT há/V muitos/QNT inmigrantes/N de/P América/N de/P o/ART Sul/N ,/PNT por/P isso/DEM se/CL pode/V ver/V cultura/N latina/A ./PNT
+
+Além/P de/P isso/DEM ,/PNT esta/DEM zona/N é/V popular/A com/P os/ART turistas/N ,/PNT cujos/D são/V muitas/QNT vezes/N turistas/N de/P o/ART norte/N ,/PNT fugindo/V a/ART neve/N e/CONJ o/ART frio/N ./PNT
+
+Ainda/ADV que/N meu/POSS pais/N tenha/V muitas/QNT influências/N de/P outros/ART países/N e/CONJ de/P outra/ART gente/N ,/PNT esta/DEM mixtura/N de/P cultura/N chegou/V a/P ser/V algo/V muito/ADV interessante/A e/CONJ tenho/V orgulho/N de/P ser/V uma/ART parte/N de/P ela/PRS ./PNT
+

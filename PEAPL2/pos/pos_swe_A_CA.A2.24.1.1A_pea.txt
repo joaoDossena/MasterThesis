@@ -1,0 +1,48 @@
+Eu/PRS chamo/V me/CL XXXXX/V ,/PNT sou/V estudante/N Sueca/A ./PNT
+
+Já/ADV estudei/V português/A há/V um/ART mes/N ./PNT
+
+Cheguei/V em/P Portugal/N em/P Junho/N porque/CONJ o/ART meu/POSS namorado/N tem/V uma/ART casa/N aqui/ADV ./PNT
+
+Além/P de/P o/ART Português/N estudava/V outras/ART linguas/N :/PNT inglês/N ,/PNT françes/A e/CONJ russo/A ./PNT
+
+Estudei/N lingua/N inglês/N em/P a/ART Universidade/N há/V 3/CARD anos/N e/CONJ vivi/V 5/CARD anos/N em/P a/ART Irlanda/N ./PNT
+
+Por/P isso/DEM ,/PNT falo/V esta/DEM lingua/N muito/ADV bem/ADV ./PNT
+
+Além/P de/P isso/DEM ,/PNT estudei/N russo/A há/V 6/CARD meses/N em/P St/N ./PNT
+
+Petesburg/V e/CONJ estudava/V francês/A muito/QNT tempo/N em/P a/ART escola/N ./PNT
+
+e/CONJ cCompreendo/V estas/DEM linguas/N bem/ADV ./PNT
+
+Espero/N que/REL eu/PRS ,/PNT certo/A dia/N ,/PNT vou/V falar/V e/CONJ compreender/N lingua/A portuguesa/A bom/A também/ADV ``/A Segunda/V ,/PNT Terça/A ,/PNT Quarta/V ,/PNT Quinta/N e/CONJ Sextafeira/A vivo/A em/P Coimbra/N e/CONJ ,/PNT em/P o/ART fimdesemana/N ,/PNT vivo/A com/P o/ART meu/POSS companheiro/N em/P o/ART campo/N ./PNT
+
+Gosto/V muito/ADV de/P o/ART campo/N em/P Portugal/N ./PNT
+
+É/V tão/ADV bonito/A !/PNT
+
+Gosto/V Coimbra/N também/ADV ;/PNT as/ART casas/N velhas/A ,/PNT a/ART universidade/N e/CONJ as/ART igrejas/N são/V lindíssimas/A !/PNT
+
+Em/P o/ART tempo/N livre/A eu/PRS gosto/V de/P cozinhar/V ,/PNT -LRB-/N de/P -RRB-/N dormir/V ou/CONJ -LRB-/V de/P -RRB-/N ler/A ./PNT
+
+Estou/V gávida/A e/CONJ ,/PNT por/P isso/DEM ,/PNT estou/V ,/PNT tudo/QNT tempo/N ,/PNT um/ADV pouco/ADV cansada/A ./PNT
+
+O/ART Bebé/N é/V um/ART rapaz/N e/CONJ vai/V -LRB-/V nascer/V chegar/V ?/PNT -RRB-/V
+
+em/P Marzo/N ./PNT
+
+Penso/V que/C ele/PRS -LRB-/V vai/V ser/V -RRB-/V ?/PNT
+
+um/ART menino/N muito/ADV lindo/A ./PNT
+
+O/ART meu/POSS namorado/N tem/V cabelo/N préto/A e/CONJ encaracolado/N e/CONJ olhos/N castanhos/A ,/PNT mas/CONJ eu/PRS tenho/V cabelo/N louro/A e/CONJ olhos/N azúis/A ./PNT
+
+Talvez/ADV o/ART bebé/N -LRB-/A vai/V ter/V ?/PNT -RRB-/A
+
+cabelo/N preto/N e/CONJ olhos/N azúis/A ,/PNT como/CONJ alguns/QNT de/P os/ART portugueses/N Penso/V que/C é/V muito/ADV bonito/A ./PNT
+
+Mas/ADV ,/PNT não/ADV é/V muito/ADV importante/A ./PNT
+
+Sai/V que/C o/ART menino/N tem/V dois/CARD pés/N e/CONJ duas/CARD mãos/N e/CONJ uma/ART cabeça/N :/PNT é/V o/ART coisa/N mais/ADV importante/A !/PNT
+

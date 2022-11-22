@@ -1,0 +1,18 @@
+O/ART bairro/N onde/ADV moro/A fica/V muito/ADV perto/ADV de/P a/ART Cruz/N de/P Celas/N ./PNT
+
+Quando/CONJ cheguei/V aqui/ADV em/P Coimbra/N em/P o/ART Outubre/N ,/PNT logo/ADV morei/V em/P a/ART casa/N que/REL actualmente/ADV ainda/ADV é/V a/ART minha/POSS casa/N ,/PNT onde/ADV tenho/V um/ART quarto/N novo/A e/CONJ silêncioso/A ./PNT
+
+De/ADV facto/ADV todo/QNT o/ART bairro/N é/V muito/ADV tranquilo/A ,/PNT apesar/P de/N ser/V uma/ART zona/N onde/ADV há/V muitas/QNT casas/N onde/ADV moram/V só/ADV estudantes/N e/CONJ também/ADV fica/V uma/ART grande/A residência/N universitária/A ./PNT
+
+Todas/QNT as/ART vezes/N que/REL tive/V de/P voltar/V para/P casa/N sosinha/V de/P a/ART praça/N de/P a/ART República/N ou/CONJ de/P a/ART Sá/N de/P a/ART Bandeira/N ,/PNT nunca/ADV tive/V medo/N ./PNT
+
+Em/P a/ART minha/POSS cidade/N é/V diferente/A :/PNT também/ADV alí/V muro/N em/P um/ART bairro/N muito/ADV tranquilo/A mas/CONJ é/V igualmente/ADV muito/ADV perigoso/A para/P uma/ART rapariga/N voltar/V para/P casa/N sousinha/A ./PNT
+
+Gosto/V muito/ADV de/P o/ART edifício/N que/REL escolhei/V porque/CONJ fica/V mesmo/ADV em/P o/ART meio/N de/P o/ART caminho/N entre/P praça/N de/P a/ART República/N e/CONJ os/ART hospitais/N ,/PNT onde/ADV frequento/V as/ART aulas/N práticas/N e/CONJ teóricas/N de/P a/ART faculdade/N de/P Medicina/N ./PNT
+
+Portanto/ADV não/ADV preciso/A de/P esperar/V autocarros/N e/CONJ costumo/N ir/V sempre/ADV de/P pé/N ./PNT
+
+O/ART meu/POSS edifício/N fica/V mesmo/ADV a/P o/ART lado/N de/P o/ART Jardim/N de/P ``/N Montes/N Claros/N ''/N ,/PNT e/CONJ isso/DEM é/V bom/A ,/PNT porque/CONJ quando/CONJ o/ART tempo/N é/V bom/A ,/PNT há/V muitas/QNT familias/N com/P crianças/N que/REL costumam/V ir/V para/P alí/N para/P apanharem/N o/ART sol/N e/CONJ deixarem/V jogar/V os/ART filhos/N ./PNT
+
+A/ART única/A coisa/N que/REL não/ADV gosto/V é/V que/C as/ART ruas/N de/P o/ART meu/POSS bairro/N são/V todas/QNT a/P subir/V ,/PNT com/P escadinhas/N e/CONJ curvas/N ,/PNT e/CONJ a/P a/ART tarde/N depois/ADV de/P ter/V andando/N por/P 5/CARD minutos/N já/ADV fico/V cansada/A !/PNT
+

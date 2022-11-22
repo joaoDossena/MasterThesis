@@ -1,0 +1,26 @@
+Moro/V em/P o/ART bairro/N de/P Almedina/N ,/PNT centro/N histórico/A de/P Coimbra/N ./PNT
+
+Mais/ADV precisamente/ADV a/ART minha/POSS casa/N fica/V rua/N XXX/N XXX/N ,/PNT e/CONJ como/CONJ o/ART seu/POSS nome/N indica/A ,/PNT é/V uma/ART rua/N que/REL sobe/V --/V ou/CONJ desce/N --/A entre/P o/ART arco/N de/P Almedina/N e/CONJ a/ART Sé/N Velha/N ,/PNT comportando/N escadas/A cujo/D degraus/N são/V irregulares/N provocando/N suores/N e/CONJ dores/N musculares/A .../PNT !/PNT
+
+!/N
+
+Gosto/V imenso/ADV de/P a/ART localização/N de/P o/ART meu/POSS apartamento/N ,/PNT perto/ADV de/P tudo/QNT ,/PNT ambiente/N popular/A e/CONJ atractiva/A ./PNT
+
+O/ART Dinamismo/N desse/N bairro/N é/V particuliarmente/N forte/A devido/V as/ART várias/QNT lojas/N ,/PNT restaurantes/N ,/PNT bares/N e/CONJ esplanadas/N ./PNT
+
+Um/ART bairro/N onde/ADV o/ART desfile/N de/P os/ART turistas/N é/V quase/QNT ininterrompto/N enchendo/V a/P as/ART ruas/N de/P uma/ART grande/A mistura/N de/P línguas/N diferentes/A ./PNT
+
+Além/P de/P isso/DEM ,/PNT tenho/V de/P dizer/V que/C se/CL acrescenta/V a/P o/ART Som/N linguístico/A o/ART som/N melodioso/A de/P o/ART Fado/N -LRB-/N loja/N recentemente/ADV aberta/V -RRB-/N ./PNT
+
+De/ADV facto/ADV ,/PNT não/ADV posso/V dizer/V que/C este/DEM bairro/N é/V sossegado/A durante/P o/ART dia/N ,/PNT mas/CONJ a/P a/ART noite/N ,/PNT o/ART bairro/N e/CONJ ,/PNT em/P particular/N ,/PNT esta/DEM rua/N que/REL é/V a/ART XXX/N XXX/A transforma/V se/CL ./PNT
+
+As/ART lojas/N encerradas/V e/CONJ os/ART turistas/N desaparecidos/A permitem/V a/ART chegada/N de/P os/ART gatos/N ./PNT
+
+em/P essa/DEM altura/N de/P o/ART ano/N -LRB-/N primavera/N -RRB-/N ,/PNT as/ART conversas/N e/CONJ a/ART música/N deixam/V o/ART lugar/N a/P os/ART gritos/N terríveis/A de/P os/ART gatos/N em/P lutam/N por/P causa/N de/P as/ART gatas/N em/P cios/N .../PNT ``/V À/N noite/N todos/QNT os/ART gatos/N são/V pardos/N ''/A e/CONJ também/ADV os/ART estudantes/N ,/PNT vestidos/V de/P o/ART trás/ADV tradicional/A ,/PNT que/REL sobem/V e/CONJ descem/N a/P a/ART procura/N de/P amigos/N e/CONJ lugares/N para/P festejar/N a/ART vida/N estudantil/A ./PNT
+
+O/ART que/REL conto/V hoje/ADV em/P estas/DEM linhas/N é/V o/ART quotidiano/N sonor/A e/CONJ visual/V de/P a/ART minha/POSS rua/N ,/PNT igual/A a/P o/ART bairro/N todo/QNT ./PNT
+
+Gosto/V imenso/ADV de/P o/ART lugar/N onde/ADV vivo/A mesmo/ADV se/CONJ ,/PNT em/P tempos/N de/P exames/N ,/PNT queria/V viver/V em/P o/ART campo/N !/PNT
+
+Tenho/V a/ART sorte/N de/P estar/V a/P viver/V a/P o/ART pé/N de/P as/ART actividades/N culturais/A de/P a/ART cidade/N ,/PNT cujo/D a/N programação/N de/P a/ART Câmara/N Municipal/N estabelece/V em/P essa/DEM zona/N ,/PNT ou/CONJ perto/ADV ./PNT
+

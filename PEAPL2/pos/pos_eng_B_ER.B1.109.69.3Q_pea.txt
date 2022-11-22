@@ -1,0 +1,24 @@
+Aqui/ADV em/P Portugal/N ,/PNT vivo/ADV em/P a/ART cidade/N e/CARD minha/POSS universidade/N em/P Inglaterra/N fica/V em/P uma/ART cidade/N também/ADV ./PNT
+
+Eu/PRS gosto/V muito/ADV de/P viver/V em/P a/ART cidade/N e/CONJ em/P este/DEM momento/N em/P a/ART minha/POSS vida/N não/ADV posso/V imaginar/V viver/V em/P o/ART campo/N ./PNT
+
+Primeiro/ADV ,/PNT porque/CONJ em/P a/ART cidade/N há/V muito/ADV que/C se/CL pode/V fazer/V e/CONJ tudo/QNT fica/V muito/ADV perto/ADV a/P a/ART casa/N ./PNT
+
+Por/P exemplo/N ,/PNT se/CL ando/V cinco/CARD minutos/N de/P a/ART minha/POSS casa/N posso/V ir/V a/P as/ART compras/N boas/A ,/PNT as/ART discotecas/N boas/A mas/CONJ também/ADV posso/V encontrar/V um/ART parque/N para/P descansarse/N ./PNT
+
+Também/ADV ,/PNT eu/PRS gosto/V muito/ADV de/P a/ART variedade/N de/P as/ART coisas/N em/P uma/ART cidade/N ,/PNT por/P exemplo/N muitas/QNT restaurantes/N diferentes/A ,/PNT discotecas/N diferentes/A normalmente/ADV ,/PNT têm/V tudo/QNT para/P satisfeitar/N uma/ART pessoa/N ./PNT
+
+Em/P as/ART cidades/N grandes/A eu/PRS gosto/V muito/ADV de/P cada/QNT dia/N há/V muita/QNT gente/N em/P as/ART ruas/N ou/CONJ em/P os/ART cafes/N e/CONJ cada/QNT noite/N há/V uma/ART coisa/N diferente/A para/P fazer/V ./PNT
+
+Contudo/ADV entendo/V que/C viver/V em/P a/ART cidade/N não/ADV fica/V ideial/N para/P toda/QNT a/ART gente/N e/CONJ talvez/ADV quando/CONJ seja/V maior/A ,/PNT viveré/N em/P o/ART campo/N ./PNT
+
+Para/P algumas/QNT pessoas/N em/P as/ART cidades/N há/V demasiado/ADV ruido/A e/CONJ polucacão/A e/CONJ prefirem/A a/ART tranquilidade/N e/CONJ beleza/N de/P o/ART campo/N ./PNT
+
+Também/ADV em/P as/ART cidades/N ,/PNT especialmente/ADV em/P as/ART cidades/N grandes/A há/V muito/ADV perigro/A ,/PNT por/P ejemplo/N não/ADV se/CL pode/V andar/V solo/N sem/P o/ART perigro/N de/P estar/V robado/V o/ART assaltado/V ./PNT
+
+Outra/ART vantagem/N de/P viver/V em/P o/ART campo/N é/V que/C normalmente/ADV em/P as/ART aldeias/N há/V uma/ART comunidade/N com/P um/ART espírito/N bom/A onde/ADV todas/QNT as/ART pessoas/N conhecem/V as/ART outras/A ./PNT
+
+Contudo/ADV minha/POSS casa/N em/P a/ART Inglaterra/N fica/V em/P o/ART campo/N e/CONJ não/ADV vejo/V as/ART ventagens/N porque/CONJ se/CL quero/V ir/V a/P as/ART compras/N o/ART fazer/V outras/ART cosais/N tenho/V que/C viajar/V em/P o/ART autocarro/N durante/P vinte/CARD minutos/N ./PNT
+
+Acho/V que/C uma/ART cidade/N como/CONJ Coimbra/N é/V perfeita/A para/P viver/V porque/CONJ é/V barata/A ,/PNT não/ADV ha/V muito/ADV perigro/A ,/PNT é/V bastante/ADV pequeno/A mas/CONJ tudo/QNT fica/V perto/ADV e/CONJ ha/V muitas/QNT coisas/N para/P fazer/V ./PNT
+

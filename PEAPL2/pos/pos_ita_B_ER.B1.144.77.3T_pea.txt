@@ -1,0 +1,76 @@
+Sou/V vadia/N ,/PNT vagabunda/N ,/PNT ``/N semtelhado/N ''/N ./PNT
+
+Explico/V a/ART minha/POSS historia/N ./PNT
+
+É/V verdade/N !/PNT
+
+Cheguei/V em/P Coimbra/N em/P o/ART dia/N 21/N de/P setembro/N ./PNT
+
+Enquanto/ADV estava/V em/P o/ART DRIC/N ,/PNT conheci/V uma/ART rapariga/N itáliana/A de/P Milão/N :/PNT a/ART XXXXX/N ./PNT
+
+Ela/PRS hospedou/V me/CL porque/CONJ já/ADV tinha/V procurado/V um/ART quarto/N ./PNT
+
+Foi/V muito/ADV amável/A ./PNT
+
+Ela/PRS mora/V a/P o/ART lado/N de/P o/ART ``/N XXXXXXXXXX/N ''/N ,/PNT um/ART bar/N perto/ADV de/P Praça/N de/P a/ART República/N ./PNT
+
+Fiquei/V em/P a/ART casa/N de/P ela/PRS até/P a/P o/ART dia/N 18/CARD de/P Outubro/N ./PNT
+
+O/ART sítio/N era/V muito/ADV bom/A :/PNT perto/ADV de/P a/ART Universidade/N e/CONJ perto/ADV de/P os/ART boates/N ./PNT
+
+O/ART único/A problema/N eram/V as/ART escais/N monumentois/A ./PNT
+
+Seria/V melhor/A se/CONJ sejam/V móbil/N !/PNT
+
+Procurei/V um/ART quarto/N em/P Rua/N XXXXX/N XXXXX/N ./PNT
+
+Era/V muito/ADV barato/A ,/PNT mas/CONJ pequeno/A e/CONJ não/ADV gostava/V de/P as/ART minhas/POSS collegas/N ./PNT
+
+Discuti/V com/P elas/PRS depois/P dez/CARD dias/N e/CONJ o/ART dono/N expulsou/V me/CL ,/PNT sem/CONJ entregar/V me/CL o/ART dinheiro/N ./PNT
+
+Fiquei/V em/P a/ART rua/N com/P muitas/QNT malas/N e/CONJ sem/P cama/N !/PNT
+
+Felizmente/V outra/ART minha/POSS amiga/N -LRB-/A a/ART XXXXX/N -RRB-/A recebeu/V me/CL ./PNT
+
+Ela/PRS mora/V em/P Rua/N XXXXX/N XXXXX/N ./PNT
+
+A/ART casa/N é/V grande/A ,/PNT o/ART sítio/N é/V bastante/ADV cómodo/A ./PNT
+
+Perto/ADV de/P o/ART Avenida/N ./PNT
+
+Há/V algumas/QNT casas/N abandonadas/A ./PNT
+
+É/V uma/ART pena/N !/PNT
+
+O/ART problema/N é/V que/C agora/ADV não/ADV vale/V a/ART pena/N alugar/A um/ART quarto/ORD porque/CONJ em/P o/ART dia/N 14/CARD de/P Dezembro/N vou/V para/P Itália/N e/CONJ volto/V em/P o/ART dia/N 10/CARD de/P Janeiro/N ./PNT
+
+Teria/V pagar/V a/ART renda/N sem/P ficar/V em/P casa/N muitos/QNT dias/N ./PNT
+
+mas/CONJ também/ADV não/ADV posso/V dormir/V sempre/ADV a/ART casa/N de/P a/ART XXXXX/N ./PNT
+
+Por/P isso/DEM dormo/N um/ADV pouco/ADV casa/N de/P ela/PRS e/CONJ um/ADV pouco/ADV em/P a/ART casa/N de/P a/ART XXXXX/N ,/PNT que/REL mora/V em/P Rua/N XXXXX/N XXXXX/N XXXXX/N ./PNT
+
+A/ART casa/N é/V pequena/A e/CONJ fria/N ,/PNT mas/CONJ não/ADV faz/V mal/ADV !/PNT
+
+Para/P ir/V a/P a/ART Universidade/N apanhamos/V o/ART autocarro/N porque/CONJ ela/PRS está/V sempre/ADV cansada/A !/PNT
+
+O/ART problema/N de/P Coimbra/N é/V que/C são/V todas/QNT subidas/N e/CONJ escais/V Nunca/ADV saimos/V a/P a/ART noite/N ./PNT
+
+E/CONJ ela/PRS também/ADV é/V um/ADV pouco/ADV maluca/A ./PNT
+
+Mas/V que/C posso/V fazer/V ?/PNT
+
+Tenho/V que/C adaptar/V me/CL !/PNT
+
+Espero/N que/REL quando/CONJ volto/V a/ART Coimbra/N ,/PNT depois/ADV de/P as/ART férias/N ,/PNT posso/V alugar/V um/ART quarto/N a/P a/ART casa/N de/P o/ART XXXXX/N -LRB-/A já/ADV falei/V de/P ele/PRS trabalho/N em/P o/ART dia/N 2/N !/PNT -RRB-/N
+
+./N
+
+Gosteria/V de/P morar/N em/P a/ART sua/POSS casa/N porque/CONJ ele/PRS mora/V com/P três/CARD portugueses/N simpáticos/A ./PNT
+
+Assim/ADV vou/V aprender/V ,/PNT de/P certeza/N -LRB-/A e/CONJ não/ADV com/P certeza/N -RRB-/V a/ART língua/N !/PNT
+
+Todavia/ADV gosto/V MUITO/N de/P Coimbra/N e/CONJ de/P Portugal/N em/P geral/N !/PNT
+
+BEIJO/V !/PNT
+

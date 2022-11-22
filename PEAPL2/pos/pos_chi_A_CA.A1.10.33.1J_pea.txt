@@ -1,0 +1,26 @@
+Olá/V !/PNT
+
+Eu/PRS chamo/V me/CL XXXXX/V ./PNT
+
+Sou/V chinesa/N ./PNT
+
+Tenho/V 22/CARD anos/N ./PNT
+
+Sou/V estudante/N ./PNT
+
+Agora/ADV moro/V em/P Coimbra/N ,/PNT em/P a/ART rua/N XXXXX/N XXXXX/N com/P familias/N ./PNT
+
+Eu/PRS estudo/N Português/N em/P a/ART Universidade/N de/P a/ART Coimbra/N com/P outro/ART estrangeiros/A ./PNT
+
+Estudo/N Português/N porquê/N quero/V viver/V Portugal/N e/CONJ fazer/V negócio/N em/P Portugal/N ./PNT
+
+Quando/CONJ tenho/V tempos/N livres/A ,/PNT gosto/V de/P ver/V televisão/N ,/PNT ouvir/V música/N ,/PNT estudar/V português/A e/CONJ trabalhar/V em/P a/ART loja/N chinesa/A ./PNT
+
+Depois/ADV de/P jantar/N ,/PNT preciso/A estudar/V em/P a/ART igreja/N ,/PNT perto/ADV de/P doce/N vida/N ./PNT
+
+Eu/PRS gosto/V de/P Portugal/N ./PNT
+
+É/V uma/ART ``/N cidade/N de/P estudante/N ''/A ./PNT
+
+Mais/ADV de/ADV aqui/ADV tem/V pessoas/N muitos/QNT simpaticas/N ./PNT
+

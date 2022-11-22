@@ -1,0 +1,12 @@
+Chamo/V me/CL ``/N XXXXX/N ''/N e/CONJ estou/V Grécia/N ./PNT
+
+Eu/PRS moro/V em/P Coimbra/N quatro/CARD más/N e/CONJ gosto/V muito/ADV ficar/V mais/ADV em/P Portugal/N ./PNT
+
+Estudo/N economia/N e/CONJ maís/V de/P meu/POSS livros/N estes/DEM ingles/N ./PNT
+
+A/ART minha/POSS casa/N aqui/ADV este/DEM grande/A ,/PNT eu/PRS fico/V com/P 6/N pessoas/N ,/PNT e/CARD meu/POSS quarto/N é/V bela/A ./PNT
+
+Ele/PRS há/V escretaria/N ,/PNT uma/ART mesa/N ,/PNT computador/N ./PNT
+
+Ele/PRS é/V depois/ADV de/P case/N de/P banho/N ./PNT
+

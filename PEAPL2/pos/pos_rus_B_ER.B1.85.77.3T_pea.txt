@@ -1,0 +1,36 @@
+Eu/PRS moro/V em/P Coimbra/N ,/PNT em/P o/ART bairro/N de/P Solum/N ./PNT
+
+A/ART minha/POSS casa/N é/V grande/A ,/PNT tem/V doze/CARD andares/N ./PNT
+
+O/ART bairro/N não/ADV é/V típico/A de/P Coimbra/N porque/CONJ é/V moderno/A e/CONJ parece/V uma/ART cidade/N grande/A ./PNT
+
+O/ART centro/N comercial/A muito/ADV grande/A que/REL se/CL chama/V Dolce/N Vita/A ,/PNT fica/V muito/ADV perto/ADV de/P a/ART minha/POSS casa/N ./PNT
+
+É/V muito/ADV prático/A ,/PNT sempre/ADV posso/V comprar/V comida/N e/CONJ outras/ART coisas/N sem/P gastar/N muito/QNT tempo/N ./PNT
+
+Há/V sempre/ADV muita/QNT gente/N em/P a/ART Dolce/N Vita/A ./PNT
+
+Junto/ADV a/P a/N ela/PRS fica/V o/ART Estádio/N de/P a/ART Cidade/N de/P Coimbra/N ./PNT
+
+Quando/CONJ joga/V o/ART clube/N coimbrão/A que/REL se/CL chama/V Académica/N ,/PNT esta/DEM zona/N é/V especialmente/ADV viva/A ./PNT
+
+O/ART bairro/N é/V bem/ADV organizado/A ,/PNT tem/V rotundas/N com/P palmas/N mais/ADV seria/V melhor/A se/CONJ a/ART zona/N tivesse/V mais/ADV árvores/N ./PNT
+
+Outra/ART coisa/N má/A é/V o/ART barulho/N feito/V por/P carros/N e/CONJ motocicletas/V durante/P todas/QNT as/ART noites/N ./PNT
+
+Sempre/ADV tenho/V que/C fechar/V a/ART janela/N para/P que/REL se/CL sinta/V menos/ADV sons/N ,/PNT mas/CONJ assim/ADV ,/PNT em/P o/ART verão/N ,/PNT falta/V ar/N fresco/A ./PNT
+
+O/ART Solum/N é/V uma/ART parte/N de/P a/ART freguesia/N de/P o/ART Santo/N Antonio/N de/P Olivais/N onde/ADV mora/V a/ART maioria/N de/P a/ART população/N de/P Coimbra/N ./PNT
+
+Por/P isso/DEM ,/PNT muita/QNT gente/N vai/V a/P o/ART centro/N de/P a/ART cidade/N de/P manhã/N ,/PNT de/P carros/N e/CONJ autocarros/N ./PNT
+
+O/ART problema/N é/V que/C só/ADV há/V uma/ART estrada/N que/REL toda/QNT esta/DEM gente/N possa/V usar/V -LRB-/ADV talvez/ADV duas/CARD ,/PNT mas/CONJ a/ART segunda/ORD fica/V por/P cima/P -RRB-/N ./PNT
+
+Por/P isso/DEM a/ART velocidade/N de/P movimento/N de/P carros/N de/P manhã/N a/P as/ART vezes/N é/V baixa/ADV ,/PNT especialmente/ADV em/P os/ART dias/N úteis/A ./PNT
+
+Se/CONJ calhar/V a/ART construção/N de/P metro/N pode/V ajudar/V ./PNT
+
+Já/ADV agora/ADV ,/PNT há/V uma/ART estação/N de/P São/N José/N -LRB-/N ferroviária/N -RRB-/N perto/ADV de/P o/ART estadio/N ,/PNT mas/CONJ os/ART comboios/N ali/ADV são/V raros/A ./PNT
+
+Talvez/ADV seja/V possível/A também/ADV organizar/V mais/ADV comboios/N para/P resolver/V o/ART problema/N indicado/V ./PNT
+

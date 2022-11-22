@@ -1,0 +1,42 @@
+Cara/V XXXXX/N ,/PNT como/CONJ estás/V ?/PNT
+
+Tudo/QNT bom/A em/P a/ART Alemanha/N ?/PNT
+
+Eu/PRS estou/V óptima/V aqui/ADV em/P Coimbra/N ./PNT
+
+Gosto/V muito/ADV de/P a/ART cidade/N e/CONJ de/P a/ART vida/N académica/A ,/PNT mas/CONJ agora/ADV estamos/V perto/ADV de/P o/ART fim/N de/P semestre/N ,/PNT então/ADV tenho/V de/P estudar/V muito/ADV ./PNT
+
+Já/ADV tive/V várias/QNT testes/N e/CONJ vou/V ter/V mais/ADV frequências/A em/P a/ART semana/N antes/P de/P o/ART natal/N ./PNT
+
+Tenho/V de/P fazer/V um/ART trabalho/N sobre/P a/ART física/A de/P a/ART música/N também/ADV ./PNT
+
+Mas/N em/P o/ART fimdesemana/N passado/A não/ADV estudei/V nada/QNT ./PNT
+
+Fui/V a/P uma/ART viagem/N a/P o/ART Alentejo/N ./PNT
+
+Foi/V muito/ADV divertido/A !/PNT
+
+Ainda/ADV lembras/V te/CL de/P nossa/POSS viagem/N a/ART Londres/N ?/PNT
+
+Chuvava/V todos/QNT os/ART dias/N ,/PNT mas/CONJ gostavamos/V muito/ADV !/PNT
+
+Fomos/V a/P o/ART Castelo/N ``/N Tower/N ''/N e/CONJ visitavamos/V vários/QNT museus/N também/ADV ./PNT
+
+Se/CONJ estivesses/V aqui/ADV em/P Coimbra/N ,/PNT podiamos/V fazer/V muitas/QNT visitas/N também/ADV !/PNT
+
+Então/ADV ,/PNT porque/CONJ não/ADV passas/V as/ART próximas/ORD férias/N com/P mim/PRS aqui/ADV em/P Portugal/N ?/PNT
+
+Podiamos/V ir/V a/P um/ART concerto/N porque/CONJ os/ART bilhetes/N de/P concertos/N são/V muito/ADV baratos/A aqui/ADV ./PNT
+
+Já/ADV fomos/V a/P muitos/QNT concertos/N em/P conjunto/N e/CONJ cantamos/V muitas/QNT canções/N !/PNT
+
+Então/ADV ,/PNT vamos/V fazer/V isso/DEM aqui/ADV também/ADV !/PNT
+
+Mas/V o/ART próximo/ORD ano/N será/V melhor/A para/P visitar/V me/CL porque/CONJ agora/ADV tenho/V estudar/V demais/N ./PNT
+
+em/P este/DEM momento/N estou/V a/P resolver/V integrais/N para/P encontrar/V probabilidades/N de/P partículas/N .../PNT Mas/N isso/DEM não/ADV interessa/V te/CL muito/ADV ,/PNT não/ADV é/V ?/PNT
+
+:/PNT -RRB-/V Então/ADV ,/PNT até/P a/ART proxima/N !/PNT
+
+Beijinhos/N ,/PNT XXXXX/N
+

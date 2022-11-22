@@ -1,0 +1,52 @@
+XXX/V ,/PNT Olá/N !/PNT
+
+Tudo/QNT bem/ADV ?/PNT
+
+Estou/V a/P estudar/V em/P Coimbra/N em/P Portugal/N !/PNT
+
+Cheguei/V aqui/ADV em/P fevreiro/N ,/PNT lembras/V te/CL que/C eu/PRS estudei/V em/P a/ART França/N o/ART semestre/N passado/A ?/PNT
+
+Este/DEM semestre/V eu/PRS tenho/V que/C morar/V em/P Portugal/N para/P praticar/N o/ART meu/POSS português/N ./PNT
+
+Adoro/V Coimbra/N ,/PNT porque/CONJ é/V uma/ART cidade/N de/P estudantes/N ,/PNT e/CONJ por/P isso/DEM a/ART cidade/N é/V muito/ADV divertida/A e/CONJ cheia/A de/P os/ART estudantes/N que/REL querem/V fazer/V festas/N ./PNT
+
+Há/V dois/CARD semanas/N que/REL foi/V Queima/N de/P as/ART fitas/N ,/PNT foi/V fantástica/A !/PNT
+
+Toda/QNT a/ART semana/N houve/V concertos/N em/P o/ART parque/N ,/PNT e/CONJ em/P a/ART quintafeira/N os/ART estudantes/N participaram/V em/P uma/ART garraiada/N -LRB-/A mas/CONJ eu/PRS não/ADV gostei/V de/P isso/DEM ,/PNT foi/V um/ART pouco/ADV horrível/A para/P mim/PRS -RRB-/N ./PNT
+
+O/ART domingo/N foi/V o/ART melhor/A dia/N de/P a/ART semana/N por/P causa/N de/P o/ART cortejo/N !/PNT
+
+Foi/V tão/ADV engraçado/A ./PNT
+
+Nós/PRS bebémos/V muito/QNT cerveja/N porque/CONJ os/ART estudantes/N em/P as/ART camiões/N em/P os/ART dêram/N e/CONJ ninguém/N teve/V que/C pagar/V para/P as/ART bebidas/N e/CONJ a/ART comida/N ./PNT
+
+Foi/V muito/ADV fixe/A ./PNT
+
+Todos/QNT os/ART estudantes/N tragaram/V as/ART suas/POSS capas/N e/CONJ o/ART traje/N com/P as/ART cartolas/N em/P os/ART cores/N de/P a/ART faculdade/N ./PNT
+
+Eles/PRS também/ADV tiveram/V as/ART fitas/N em/P os/ART cores/N de/P a/N cada/QNT faculdade/N e/CONJ em/P o/ART dia/N de/P o/ART cortejo/N é/V tradicional/A queimar/V as/ART fitas/N porque/CONJ significa/V o/ART fim/N de/P os/ART estudos/N ./PNT
+
+Coimbra/N é/V muito/ADV barato/A ,/PNT que/REL é/V ótimo/A para/P mim/PRS ./PNT
+
+Já/ADV comi/V em/P um/ART restaurante/N onde/ADV pode/V comer/V quase/ADV uma/ART galinha/N enteira/A para/P menos/ADV de/ADV 5/CARD !/PNT
+
+Durante/P de/P as/ART férias/N de/P páscoa/N ,/PNT nós/PRS viajámos/V em/P Portugal/N ./PNT
+
+Nós/PRS fomos/V a/P o/ART Algarve/N para/P quatro/CARD dias/N ,/PNT e/CONJ fomos/V a/P a/ART praia/N ,/PNT nadámos/N em/P o/ART mar/N ,/PNT vistámos/V alguns/QNT castelos/N ./PNT
+
+A/ART viagem/N foi/V muito/ADV bom/A !/PNT
+
+Em/P o/ART caminho/N para/P Coimbra/N ,/PNT nós/PRS vistámos/V Lisboa/N para/P comer/N os/ART maiores/A pasteis/N de/P nata/N em/P todo/QNT Portugal/N -LRB-/A é/V verdade/N -RRB-/A e/CONJ para/P ver/V Belém/N e/CONJ tirar/N fotográfias/A ./PNT
+
+Depois/ADV fomos/V a/ART Sintra/N onde/ADV andámos/A em/P o/ART castelo/N de/P os/ART mouros/N e/CONJ em/P o/ART Palacio/N de/P a/ART Pena/N ,/PNT Sinta/N é/V tão/ADV linda/A ,/PNT se/CL pude/V gostaria/V viver/V lá/ADV !/PNT
+
+Para/P terminar/N a/ART viagem/N fomos/V a/ART Cascais/N e/CONJ jogámos/V futebol/N em/P a/ART praia/N e/CONJ comémos/V um/ART gelado/N em/P `/N Santini/N 's/N '/PNT ./PNT
+
+se/CONJ tenha/V a/ART oportunidade/N ,/PNT quero/V voltar/V a/ART Sintra/N ./PNT
+
+As/ART aulas/N estão/V a/P correr/V bem/ADV ,/PNT e/CONJ estão/V muito/ADV bom/A para/P o/ART meu/POSS português/N ,/PNT porque/CONJ os/ART professores/N falam/V em/P português/N e/CONJ o/ART meu/POSS trabalho/N teve/V que/C ser/V feito/V em/P português/N ./PNT
+
+Vou/V ter/V muitos/QNT saudades/N deste/N país/N ,/PNT mas/CONJ estou/V feliz/A que/C vai/V te/CL ver/V e/CONJ os/ART meus/POSS outros/A amigos/N e/CONJ a/ART minha/POSS familia/N também/ADV quando/CONJ eu/PRS voltar/V para/P Inglaterra/N ./PNT
+
+Beijinhos/N ,/PNT XXX/N
+

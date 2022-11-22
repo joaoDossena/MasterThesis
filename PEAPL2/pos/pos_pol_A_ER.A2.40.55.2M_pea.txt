@@ -1,0 +1,8 @@
+Eu/PRS como/CONJ muitos/QNT legumes/N e/CONJ frutas/N ./PNT
+
+Também/ADV adoro/V umas/ART sopas/N e/CONJ isto/DEM é/V um/ART tipo/N de/P a/ART comida/N eu/PRS gosto/V de/P mais/ADV ./PNT
+
+Eu/PRS gosto/V de/P os/ART peixes/N e/CONJ as/ART vezes/N crarne/A ,/PNT mas/CONJ detesto/V um/ART crarne/N vermelho/A ./PNT
+
+Quando/CONJ eu/PRS mudei/V de/P a/ART casa/N de/P os/ART meus/POSS pais/N ,/PNT eu/PRS tenho/V preparado/V uns/ART sparguethis/N regularmente/A ,/PNT mas/CONJ a/ART minha/POSS mãe/N pensa/V que/C não/ADV é/V saudavél/A ./PNT
+

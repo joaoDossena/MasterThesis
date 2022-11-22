@@ -1,0 +1,14 @@
+Eu/PRS moro/V em/P Espanha/N ,/PNT em/P uma/ART cidade/N chamada/N Valladolid/N ./PNT
+
+A/ART minha/POSS casa/N fica/V em/P o/ART centro/N de/P a/ART cidade/N ,/PNT em/P a/ART rua/N mais/ADV importante/A ,/PNT a/ART rua/N de/P XXXXX/N que/REL vai/V de/P a/ART Praça/N XXXXX/A a/P a/ART Praça/N XXXXX/A ./PNT
+
+Eu/PRS gosto/V muito/ADV de/P morar/N lá/ADV ,/PNT porque/CONJ em/P a/ART minha/POSS rua/N ficam/V todas/QNT as/ART lojas/N em/P as/ART que/REL costumo/V comprar/V :/PNT Zara/V ,/PNT El/N Corte/N Inglés/N ,/PNT Bershka/N além/P de/P bancos/N e/CONJ alguns/QNT supermercados/N como/CONJ Carrefour/A e/CONJ frutarias/A ,/PNT padarias/A e/CONJ pescadarias/A ./PNT
+
+Morar/V lá/ADV é/V muito/ADV fixe/A e/CONJ muito/ADV cómodo/A ,/PNT pois/ADV sempre/ADV que/C precisar/V de/P a/N alguma/QNT coisa/N ,/PNT só/ADV tenho/V de/P descer/V as/ART escadas/N de/P a/ART minha/POSS casa/N e/CONJ em/P um/ART minuto/N estou/V lá/ADV ./PNT
+
+Além/P de/P isso/DEM a/ART faculdade/N de/P direito/N ,/PNT que/REL é/V onde/ADV estou/V a/P estudar/V é/V a/ART única/A que/REL fica/V em/P o/ART centro/N de/P a/ART cidade/N ,/PNT a/ART só/ADV 10/CARD minutos/N de/P a/ART minha/POSS casa/N e/CONJ isto/DEM é/V uma/ART sorte/N para/P mim/PRS porque/CONJ se/CL acordar/V tarde/ADV ,/PNT posso/V correr/V e/CONJ chegar/V a/P as/ART aulas/N a/ART tempo/N ./PNT
+
+Em/P o/ART centro/N de/P a/ART cidade/N ficam/V cinemas/A ,/PNT e/CONJ muitos/QNT bares/N também/ADV ,/PNT a/P os/ART quais/REL vou/V com/P os/ART meus/POSS amigos/N para/P petiscar/V os/ART domingos/N em/P a/ART hora/N de/P o/ART almoço/N ou/CONJ para/P jantar/N ,/PNT e/CONJ como/CONJ sempre/ADV estou/V com/P pressa/N e/CONJ chego/V tarde/ADV a/P todos/QNT os/ART lugares/N ,/PNT se/CL não/ADV chegar/V em/P a/ART hora/N combinada/A ,/PNT eles/PRS podem/V ir/V a/ART cualquer/N lugar/N e/CONJ encontramo/V nos/V lá/ADV ./PNT
+
+A/ART única/A coisa/N de/P a/ART que/REL não/ADV gosto/V em/P o/ART meu/POSS bairro/N ,/PNT é/V que/C como/ADV tudo/QNT fica/V tão/ADV próximo/A ,/PNT nunca/ADV uso/N o/ART meu/POSS carro/N e/CONJ a/ART bateria/N já/ADV estropeouse/V 3/CARD vezes/N por/P causa/N de/P isto/DEM !/PNT
+

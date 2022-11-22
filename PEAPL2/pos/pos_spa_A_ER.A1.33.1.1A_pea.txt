@@ -1,0 +1,24 @@
+Tenho/V 26/CARD anos/N ,/PNT sou/V Espanhola/A e/CONJ sou/V estudante/N de/P doutoramento/N em/P Química/N ./PNT
+
+Físicamente/ADV sou/V uma/ART pessoa/N normal/A ./PNT
+
+Não/ADV sou/V muito/ADV alta/A e/CONJ sou/V mais/ADV o/ART menos/ADV magra/A ./PNT
+
+O/ART meu/POSS cabelo/N é/V castanho/A e/CONJ os/ART meus/POSS olhos/N também/ADV ./PNT
+
+Tenho/V o/ART cabelo/N de/P caracóis/N e/CONJ a/ART pele/N mesmo/ADV branca/A ./PNT
+
+Não/ADV gosto/V nada/QNT de/P a/ART minha/POSS boca/N e/CONJ os/ART meus/POSS dentes/N porque/CONJ são/V muito/ADV grandes/A ./PNT
+
+de/P a/ART minha/POSS vida/N familiar/A posso/V dizer/V que/C tenho/V uma/ART irmã/N maior/A que/CONJ eu/PRS ,/PNT que/REL tem/V 30/CARD anos/N ./PNT
+
+Ela/PRS é/V casada/A e/CONJ ainda/ADV não/ADV tem/V filhos/N ./PNT
+
+As/ART nossas/POSS caracteristicas/N fisicas/A são/V tão/ADV diferentes/A !/PNT
+
+Ela/PRS mora/V em/P a/ART sua/POSS própria/POSS casa/N mas/CONJ eu/PRS ainda/ADV moro/V com/P o/ART meu/POSS pai/N porque/CONJ a/ART minha/POSS mãe/N morreu/V há/V um/ART ano/N ./PNT
+
+Agora/ADV a/ART nossa/POSS vida/N não/ADV é/V facil/A mas/CONJ temos/V muitas/QNT pessoas/N que/REL nos/V apoiam/V em/P este/DEM momento/N Pode/V parecer/N que/REL a/ART minha/POSS vida/N é/V um/ART bocadinho/N triste/A ou/CONJ aborrecida/A ,/PNT mas/CONJ não/ADV é/V assim/ADV ./PNT
+
+Sou/V uma/ART pessoa/N muito/ADV divertida/A e/CONJ gosto/V muito/ADV de/P sair/V e/CONJ viajar/V com/P os/ART colegas/N ./PNT
+

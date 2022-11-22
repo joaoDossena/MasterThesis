@@ -1,0 +1,28 @@
+em/P este/DEM momento/N estou/V installado/N em/P a/ART rua/N XXXXX/N XXXXX/N a/P o/ART pé/N de/P o/ART largo/N de/P a/ART Portagem/N ./PNT
+
+É/V um/ART sítio/N bastante/ADV agradável/A ./PNT
+
+Fico/V em/P um/ART apartamento/N com/P dois/CARD estudantes/N portugueses/A ./PNT
+
+O/ART unico/N problema/N è/V o/ART facto/N que/REL a/P a/ART noite/N não/ADV consigo/V adormecer/N `/A graças/P '/PNT a/P o/ART barulho/N feito/V por/P as/ART festas/N de/P cidade/N ./PNT
+
+Como/V o/ART sono/N è/A um/ART elemento/N importante/A de/P a/ART vida/N ,/PNT já/ADV me/CL zanguei/V com/P a/ART dona/N ./PNT
+
+Ela/PRS podia/V ter/V dito/V .../PNT ./PNT
+
+Se/CONJ soubesse/V de/P as/ART festas/N não/ADV .../PNT Já/ADV decidi/V mudar/V de/P casa/N antes/P de/P o/ART final/N de/P o/ART mês/N ./PNT
+
+De/P resto/N Coimbra/N é/V maravilhosa/A ,/PNT uma/ART cidade/N que/REL brilha/V ./PNT
+
+Uma/ART vantagem/N è/V a/ART approximidada/N de/P um/ART estádio/N onde/ADV faço/V cerca/ADV de/ADV cinco/CARD corridas/N por/P semana/N ./PNT
+
+de/P esta/DEM maneira/N mantenho/V em/P forma/N o/ART meu/POSS corpo/N ./PNT
+
+Já/ADV sabia/V ,/PNT antes/ADV de/P chegar/V a/ART Coimbra/N ,/PNT que/C a/ART falta/N de/P familia/N pode/V ser/V um/ART horror/N ./PNT
+
+Até/ADV agora/ADV não/ADV a/ART senti/N ./PNT
+
+Talvez/ADV seja/V melhor/A viver/V com/P mais/ADV portugueses/A mas/CONJ tenho/V de/P aceitar/V a/ART situação/N ./PNT
+
+Por/P fim/N quero/V dizer/V que/C Coimbra/N ficou/V a/ART minha/POSS segunda/ORD casa/N ./PNT
+

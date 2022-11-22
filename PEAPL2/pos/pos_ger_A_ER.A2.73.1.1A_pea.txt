@@ -1,0 +1,10 @@
+Eu/PRS sou/V a/ART XXXXX/N ,/PNT tenho/V 24/CARD anos/N e/CONJ sou/V de/P a/ART Suiça/N ,/PNT mas/CONJ actualmente/ADV moro/V em/P Portugal/N ./PNT
+
+Tenho/V o/ART cabello/N comprido/A e/CONJ loiro/A ,/PNT pouco/ADV ondulados/A ./PNT
+
+Tenho/V um/ART irmão/N mais/ADV velho/A que/C também/ADV é/V estudante/N ,/PNT mas/CONJ não/ADV em/P sociologia/N com/P eu/PRS ,/PNT mas/CONJ em/P psychologia/N ./PNT
+
+Eu/PRS gosto/V de/P viajar/N ,/PNT de/P conhecer/V muitos/QNT pays/N e/CONJ de/P tentar/V vários/QNT pratos/N de/P várias/QNT pessoas/N ./PNT
+
+Também/ADV em/P a/ART Suiça/N os/ART meus/POSS amigos/N e/CONJ eu/PRS cozinhamos/V juntos/CARD pratos/N de/P differentes/N regiões/N de/P o/ART mundo/N ./PNT
+

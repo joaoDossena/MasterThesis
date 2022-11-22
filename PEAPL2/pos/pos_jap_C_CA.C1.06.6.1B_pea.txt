@@ -1,0 +1,52 @@
+Caro/N XXXXX/A ,/PNT Olá/N !/PNT
+
+Tudo/QNT bem/ADV ?/PNT
+
+Há/V muito/QNT tempo/N desde/P o/ART última/ORD vez/N que/REL te/CL vi/V ,/PNT não/ADV é/V ?/PNT
+
+Dantes/ADV estavamos/V a/P jogar/V futebol/N quase/QNT todos/QNT os/ART dias/N ./PNT
+
+E/CONJ depois/ADV de/P jogar/V ,/PNT nós/PRS sempre/ADV falavamos/V de/P nossas/POSS colégas/N ,/PNT nossos/POSS professores/N ,/PNT e/CARD nossas/POSS namoradas/N ./PNT
+
+Acho/V que/C foi/V um/ART tempo/N muito/ADV divertido/A ./PNT
+
+Então/ADV ,/PNT ouvi/V dizer/V que/C agora/ADV tu/PRS és/V a/ART capitão/N de/P Universidade/N de/P Hokkaido/N ./PNT
+
+A/ART sério/A ?/PNT
+
+Nunca/ADV imaginava/V uma/ART capitão/N como/CONJ ti/PRS ./PNT
+
+Antigamente/ADV tu/PRS não/ADV gostavas/V de/P estudar/V ,/PNT nem/CONJ treinar/V ,/PNT nem/CONJ correr/V ,/PNT nem/CONJ acordar/V .../PNT ./PNT
+
+Quer/V dizer/V ,/PNT muito/ADV muito/ADV preguiçoso/A és/V tu/PRS !/PNT
+
+!/N
+
+Mas/N para/P mim/PRS tanto/ADV me/CL faz/V mesmo/ADV que/C sejas/V boa/A capitão/N ou/CONJ não/ADV ./PNT
+
+Porque/V nós/PRS somos/V bons/A amigos/N !/PNT
+
+É/V o/ART mais/ADV importante/A !/PNT
+
+Agora/ADV estou/V a/P estudar/V língua/N portuguesa/A em/P a/ART Universidade/N de/P Coimbra/N ,/PNT em/P Portugal/N ./PNT
+
+É/V difícil/A para/P mim/PRS porque/CONJ português/A é/V completamente/ADV diferente/A de/P a/ART nossa/POSS língua/N ./PNT
+
+Ainda/ADV não/ADV percebo/V pouco/ADV e/CONJ falo/V pouco/ADV ./PNT
+
+Mas/ADV tenho/V que/C melhorar/V .../PNT Em/P a/ART semana/N passada/A ,/PNT comeci/V a/P jogar/V futebol/N em/P Coimbra/N ./PNT
+
+Ainda/ADV que/CONJ as/ART pessoas/N de/P Portugal/N joguem/V muito/ADV bonito/A ,/PNT eles/PRS disseram/V :/PNT ``/N Kota/A ,/PNT jogas/V muito/ADV bem/ADV !/PNT
+
+!/PNT ''/N
+
+Fiquei/V tanto/ADV feliz/A que/C pensei/V em/P ser/V um/ART jogador/N em/P Portugal/N ./PNT
+
+Chega/V de/P brincadeira/N ./PNT
+
+Espero/V que/C venhas/V aqui/ADV em/P Coimbra/N e/CONJ bebamos/N Super/N Bock/N ,/PNT uma/ART cerveja/N de/P Portugal/N ./PNT
+
+Tchau/V !/PNT
+
+Atenciosamente/V ,/PNT XXXXX/N ./PNT
+

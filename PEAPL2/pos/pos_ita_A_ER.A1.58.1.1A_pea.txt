@@ -1,0 +1,22 @@
+Chamo/V me/CL XXXXX/V XXXXX/N ,/PNT sou/V italiana/A e/CONJ tenho/V trinta/N cinque/N anos/N de/P idade/N ./PNT
+
+Sou/V investigadora/N e/CONJ agora/ADV estou/V a/P trabalhar/V em/P a/ART Universidade/N de/P Coimbra/N ./PNT
+
+Sou/V de/P meia/N altura/N ,/PNT tenho/V o/ART cabelo/N castanho/A lauro/N encaracolado/A e/CONJ os/ART olhos/N castanhos/A ./PNT
+
+Sou/V sociável/A e/CONJ gosto/V de/P sair/V com/P os/ART amigos/N ,/PNT gosto/V de/P ir/V dançar/A e/CONJ jantar/V a/P o/ART restaurante/N ./PNT
+
+Também/ADV gosto/V muito/ADV de/P o/ART Verão/N porque/CONJ não/ADV está/V frio/N e/CONJ posso/V ir/V a/ART praia/N e/CONJ apanhar/V o/ART sol/N ./PNT
+
+Gosto/V muito/ADV de/P viajar/N e/CONJ prefiro/V ir/V de/P avião/N porque/CONJ é/V mais/ADV rapido/A que/C ir/V de/P comboio/N ou/CONJ de/P carro/N ./PNT
+
+Moro/V em/P Coimbra/N ,/PNT perto/ADV de/P a/ART Rua/N de/P o/ART Brasil/N ,/PNT em/P um/ART apartamento/N muito/ADV bom/A ,/PNT com/P dois/CARD quartos/N para/P dormir/V -LRB-/N para/CONJ quando/CONJ os/ART pais/N vêem/V a/ART Portugal/N -RRB-/A e/CONJ um/ART grande/A quarto/N para/P jantar/N com/P muitas/QNT janelas/N e/CONJ luz/N ./PNT
+
+Gosto/V de/P o/ART meu/POSS apartamento/N ,/PNT mas/CONJ a/P as/ART vézes/N os/ART estudentes/N em/P o/ART otro/N apartamento/N estão/V a/ART fer/N rumor/A a/P a/ART noite/N e/CONJ eu/PRS e/CONJ o/ART meu/POSS namorado/N não/ADV podemus/V dormir/V ./PNT
+
+A/ART minha/POSS vida/N familiar/A é/V normale/A ,/PNT de/P a/ART segunda/ORD a/N a/ART sexta/N feira/A trabalhamos/V ,/PNT a/P o/ART fimdesemana/N limpamos/V a/ART casa/N ,/PNT fazemos/V as/ART compras/N e/CONJ vamos/V a/P o/ART restaurante/N ou/CONJ a/P o/ART cinema/N ./PNT
+
+Em/P o/ART fimdesemana/N estamos/V a/ART viajar/N ./PNT
+
+Vamos/V para/P Catania/N ,/PNT vamos/V passar/V as/ART festas/N com/P os/ART meus/POSS pais/N ./PNT
+

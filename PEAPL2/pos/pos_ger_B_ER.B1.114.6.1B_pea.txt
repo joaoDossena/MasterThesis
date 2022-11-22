@@ -1,0 +1,40 @@
+Querida/V XXXXX/N ,/PNT Como/V estas/DEM ?/PNT
+
+Espero/V que/C tudo/QNT te/CL corra/V bem/ADV !/PNT
+
+Já/ADV estou/V em/P Portugal/N há/V três/CARD meses/N e/CONJ eu/PRS gosto/V muito/ADV deste/A país/N !/PNT
+
+Coimbra/N é/V uma/ART cidade/N muito/ADV bonita/A ,/PNT cheia/A de/P estudantes/N ,/PNT pequena/A mas/CONJ com/P um/ART espírito/N acadêmico/A que/REL nunca/ADV vi/V antes/ADV ./PNT
+
+A/ART vida/N cá/ADV em/P Coimbra/N é/V confortável/A e/CONJ mais/ADV o/ADV menos/ADV calma/A ,/PNT tudo/QNT fica/V perto/ADV e/CONJ sempre/ADV encontro/V alguns/QNT amigos/N quando/CONJ andar/V em/P as/ART ruas/N ./PNT
+
+Já/ADV tenho/V muitos/QNT amigos/N aqui/ADV ,/PNT a/ART maioridade/N é/V português/A porque/CONJ eu/PRS acho/V que/C é/V muito/ADV mAis/ADV interessante/A ficar/V com/P portugueses/N que/REL com/P estudantes/N de/P Erasmus/N ,/PNT assim/ADV faço/V mais/ADV experiências/N com/P a/ART vida/N original/A de/P os/ART portugueses/N ./PNT
+
+O/ART estudo/N também/ADV corre/V bem/ADV ,/PNT em/P a/ART última/ORD semana/N terminei/V as/ART oito/CARD semanas/N de/P Cirurgia/N e/CONJ gostei/V muito/ADV ./PNT
+
+Não/ADV tive/V trabalhar/V muito/ADV ,/PNT mas/CONJ para/P aproveitar/N de/P a/ART vida/N aqui/ADV e/CONJ posa/V fazer/V viagens/N foi/V óptimo/A !/PNT
+
+Como/V vai/V o/ART teu/POSS estudo/N em/P Viena/N ?/PNT
+
+Tens/V muito/QNT trabalho/N ?/PNT
+
+Já/ADV tenho/V muito/ADV saudades/A de/P ti/PRS e/CARD nossos/POSS outros/A amigos/N ,/PNT foi/V sempre/ADV divertido/A !/PNT
+
+Lembras/V te/CL deste/A convívio/N em/P o/ART Wuk/N onde/ADV nós/PRS dançamos/V até/P sete/CARD de/P manha/N ?/PNT
+
+Foi/V espéctacular/N !/PNT
+
+Espero/V que/C tivesses/V gostado/N de/P a/ART tua/POSS viagem/N a/ART Portugal/N ,/PNT estive/V muito/ADV feliz/A que/C tu/PRS vieste/V cá/ADV !/PNT
+
+Estou/V a/P fazer/V o/ART prolongamento/N de/P o/ART meu/POSS estudo/N aqui/ADV ,/PNT então/ADV vou/V ficar/V mais/ADV um/ART semestre/N !/PNT
+
+Se/CONJ tu/PRS quiseres/V ,/PNT pode/V visitar/V me/CL mais/ADV uma/ART vez/N !/PNT
+
+Era/V muito/ADV fixe/A ,/PNT nós/PRS podíamos/V fazer/V um/ART curso/N de/P surf/N em/P a/ART praia/N !/PNT
+
+Até/ADV logo/ADV ,/PNT espero/V que/C nós/PRS vejamo/V nos/N em/P o/ART Natal/N em/P a/ART Áustria/N !/PNT
+
+Beijinhos/N e/CONJ abraços/N !/PNT
+
+XXXXX/N
+

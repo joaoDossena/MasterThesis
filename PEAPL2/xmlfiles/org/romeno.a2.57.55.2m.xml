@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader><notesStmt><note n="wrdcount">12</note><note n="fase">Fase 1</note><note n="stimulus">55.2M</note><note n="qecrl">A2</note><note n="textcode">ROMENO.ER.A2.57</note><note n="informantcnt">0</note></notesStmt><profileDesc><particDesc><listPerson><person><proficiency read="C1" converse="B1" speak="B1" write="A2" listen="B1"/><langKnowledge><langKnown level="foreign">Alemão/ Inglês</langKnown><langKnown level="second">N.R.</langKnown><langKnown level="first">Romeno</langKnown><langKnown level="school">Romeno</langKnown></langKnowledge><residence n="prior">"Romenia/ 26 anos; Alemanha/ 2 anos"</residence><nationality>Romena</nationality><birthcountry>Roménia</birthcountry><profbestl2 listen="C1" converse="C1" speak="C1" read="C1" write="C1"/><note n="outside-school">Sim.</note><sex type="F"/><portugueseLearning><start>2009</start></portugueseLearning><birthdate>1980.03.18</birthdate></person></listPerson></particDesc></profileDesc></teiHeader>
+<text>
+<p id="p-1"> <tok id="w-1" lemma="ser" pos="VMIP1S0">Sou</tok> <tok id="w-2" lemma="vegetariano" pos="AQ0FS00">vegetariana</tok><tok id="w-3" lemma="," pos="Fc">,</tok> <tok id="w-4" lemma="então" pos="RG">então</tok> <tok id="w-5" lemma="gostar" pos="VMIP1S0">gosto</tok> <tok id="w-6" lemma="muito" pos="RG">muito</tok> <tok id="w-7">das<dtok lemma="de" pos="SP" id="d-7-1"/><dtok lemma="o" pos="DA0FP0" id="d-7-2"/></tok> <tok id="w-8" lemma="legume" pos="NCMP000">legumes</tok><tok id="w-9" lemma="," pos="Fc">,</tok> <tok id="w-10" lemma="talvez" pos="RG">talvez</tok> <tok id="w-11" lemma="com" pos="SP">com</tok> <tok id="w-12" lemma="peixe" pos="NCMS000">peixe</tok><tok id="w-13" lemma="," pos="Fc">,</tok> <tok id="w-14" lemma="talvez" pos="RG">talvez</tok> <tok id="w-15" lemma="não" pos="RN">não</tok><tok id="w-16" lemma="." pos="Fp">.</tok> </p>
+</text>
+
+
+
+
+</TEI>

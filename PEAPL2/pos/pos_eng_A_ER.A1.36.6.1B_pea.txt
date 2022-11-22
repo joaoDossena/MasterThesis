@@ -1,0 +1,36 @@
+Querida/V XXXXX/N ,/PNT Bom/ADV dia/N !/PNT
+
+Estás/V bem/ADV ?/PNT
+
+Por/ADV aqui/ADV ,/PNT estou/V muito/ADV bem/ADV ./PNT
+
+Coimbra/N é/V uma/ART cidade/N muito/ADV velha/A e/CONJ interressante/V com/P muitos/QNT festas/N ./PNT
+
+Eu/PRS assistei/V a/P os/ART concertos/N de/P fado/N ,/PNT e/CONJ de/P música/N de/P brasiliero/N e/CONJ de/P angola/N ./PNT
+
+As/ART pessoas/N em/P Coimbra/N gostam/V de/P música/N muito/ADV e/CONJ os/ART billeta/N de/P os/ART concertos/N são/V baratos/A porque/CONJ o/ART C.M/N ./PNT
+
+de/P Coimbra/N os/ART supporte/N a/P os/ART fimdesemana/N eu/PRS e/CONJ o/ART XXXXX/N -LRB-/A e/CONJ ,/PNT a/P as/ART vezes/N ,/PNT o/ART seu/POSS filho/N XXXXX/N -RRB-/N visitaram/V os/ART castelos/N ou/CONJ a/ART praia/N de/P a/ART Figueira/N de/P a/ART Foz/N ou/CONJ descansaram/N em/P Coimbra/N ./PNT
+
+Nós/PRS visitamos/V Aveiro/N ,/PNT MontemoroVelho/N ,/PNT a/ART Praia/N de/P Mira/N ,/PNT Lousã/N ,/PNT Buçaco/V ,/PNT Luso/N ,/PNT Leiria/N ,/PNT e/CONJ Piodão/N ./PNT
+
+Nós/PRS queremos/V viajar/V a/P o/ART Porto/N ,/PNT e/CONJ a/P a/ART Algarve/N em/P o/ART Julho/N ./PNT
+
+Quando/CONJ é/V que/C tu/PRS vás/V nos/N visitar/A ?/PNT
+
+O/ART meu/POSS trabalho/N é/V bem/ADV ,/PNT e/CONJ os/ART meus/POSS collegas/N são/V simpaticos/A ./PNT
+
+Eu/PRS escrevei/V os/ART artigos/N por/P os/ART jornals/N e/CONJ um/ART livro/N ,/PNT e/CONJ Presentei/V a/P as/ART conférencias/N em/P o/ART Barcelona/N e/CONJ Stockholm/V em/P 2009/N ./PNT
+
+Eu/PRS tenho/V os/ART planos/N de/P assister/N a/P a/ART conférencia/N em/P o/ART `/N Finland/A '/PNT em/P augosto/N ./PNT
+
+A/ART nossa/POSS amiga/N ,/PNT XXXXX/N ,/PNT vai/V assister/V lá/ADV com/P mim/PRS ./PNT
+
+A/ART ce/N momento/N ,/PNT é/V muito/ADV de/P fazer/V --/V eu/PRS trabalho/N em/P 5/CARD projets/N em/P Junho/N !/PNT
+
+Mas/ADV está/V temperatura/N mais/ADV calor/N de/P o/ART que/REL a/ART Canadá/N e/CONJ são/V muito/ADV de/P flores/N em/P Coimbra/N ./PNT
+
+Eu/PRS vou/V fazer/V um/ART foto/N e/CONJ emáil/V o/ART para/P ti/PRS !/PNT
+
+Muitos/QNT beijinhos/N ,/PNT XXXXX/N ./PNT
+

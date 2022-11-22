@@ -1,0 +1,26 @@
+Eu/PRS falará/V sobre/P o/ART que/REL faço/V geralmente/N em/P o/ART meu/POSS tempo/N livre/A ./PNT
+
+Bom/ADV ,/PNT normalmente/ADV nunca/ADV fico/V aborrecida/N ./PNT
+
+Se/CONJ não/ADV tenho/V que/C estudar/V para/P a/ART universidade/N ,/PNT gosto/V muito/ADV estar/V com/P os/ART meus/POSS amigos/N ,/PNT organizar/V jantares/N ou/CONJ tomar/V café/N ./PNT
+
+Muito/ADV importante/A para/P mim/PRS é/V fazer/V desporto/N ./PNT
+
+Há/V dois/CARD anos/N pratico/N desporto/N de/P combate/N --/V o/ART taekwondo/N --/A e/CONJ realmente/ADV gosto/V isto/DEM muito/ADV como/CONJ um/ART equilíbrio/N para/P as/ART obrigações/N e/CONJ tarefas/N diarias/A ./PNT
+
+Outra/ART actividade/N que/REL para/P mim/PRS significa/V equilibrio/N --/A ou/CONJ mais/ADV ,/PNT e/CONJ quase/QNT a/ART minha/POSS paixão/N --/A é/V dançar/A ./PNT
+
+Em/P a/ART Alemanha/N ,/PNT em/P minha/POSS cidade/N Colonia/A eu/PRS saiu/V muito/ADV a/ART festas/N de/P salsa/N ./PNT
+
+Desde/V criança/N ,/PNT a/ART minhas/POSS actividades/N em/P o/ART tempo/N livre/A eram/V as/ART aulas/N de/P dança/N --/A como/CONJ ``/N dance/A for/V fans/N ''/A até/P flamengo/N e/CONJ tango/N ./PNT
+
+Além/P de/P isso/DEM ,/PNT bom/A ,/PNT não/ADV queda/N muito/QNT tempo/N ,/PNT gosto/V de/P ler/N e/CONJ ir/V a/P o/ART cinema/N ./PNT
+
+Gosto/V de/P livros/N e/CONJ de/P filmes/N que/REL representam/V uma/ART certa/A realidade/N ,/PNT relatos/N de/P histórias/N que/REL aconteceram/V realmente/ADV em/P o/ART passado/N ou/CONJ que/REL poderiam/N acontecer/V ;/PNT ficções/N que/REL querem/V atraer/V a/ART atenção/N de/P o/ART leitor/N ou/CONJ de/P o/ART público/N para/P uma/ART certa/A problemática/N existente/A em/P a/ART sociedade/N .../PNT E/CONJ como/CONJ eu/PRS estudo/N linguas/A ,/PNT e/CONJ estou/V apaixonada/V para/P aprender/V linguas/A e/CONJ novas/A culturas/N ,/PNT gosto/V de/P assistir/V os/ART filmes/N em/P a/ART língua/N original/A -LRB-/V -/N o/ART que/REL em/P a/ART Alemanha/N é/V difícil/A de/P encontrar/V -RRB-/N ./PNT
+
+<Sempre quando tenho a possibilidade oportunidade, faço viagens viajo, 
+
+Viagar Viajar também é uma paixão minha como encanto ir a diferentes lugares, conhecer () pessoas diferentes e a sua cultura. 
+
+Bom espero que o meu tempo livre, mesmo que quando esteja uma avó velhina, seja cheio de experienças novas que me façam contenta e sensações que me façam feliz.>/N
+

@@ -1,0 +1,24 @@
+Acho/N que/REL me/CL posso/V considerar/V uma/ART pessoa/N feliz/A porque/CONJ tenho/V muito/QNT tempo/N para/P fazer/V coisas/N agradáveis/A ./PNT
+
+Primeiro/ADV ,/PNT já/ADV o/ART meu/POSS curso/N em/P a/ART universidade/N implica/A que/REL tenho/V aulas/N interessantíssimas/A ,/PNT ler/N livros/N ,/PNT estudar/V a/ART língua/N --/A fazer/V esercícios/N ,/PNT aprender/V o/ART novo/A vocabulário/N ,/PNT falar/V com/P outros/ART em/P uma/ART língua/N estrangeira/N --/N tudo/QNT isto/DEM agrada/V me/CL muito/ADV ./PNT
+
+Além/P de/P isso/DEM ,/PNT a/ART minha/POSS área/N de/P estudos/N permete/V me/CL conhecir/V várias/QNT culturas/N ,/PNT assisto/N a/P as/ART palestras/N temáticas/A ,/PNT vou/V a/P os/ART encontros/N com/P as/ART personagens/N célebres/A .../PNT Em/P o/ART entanto/ADV ,/PNT quando/CONJ voltar/V para/P casa/N ,/PNT também/ADV tenho/V montes/N de/P coisas/N para/P fazer/V ./PNT
+
+Normalmente/ADV não/ADV vejo/V televisão/N --/N prefiro/N desenhar/N ,/PNT fazer/V ``/N origami/N ''/N ou/CONJ practicar/A caligrafia/N japonesa/A ./PNT
+
+Ouço/V música/N ,/PNT falo/V com/P os/ART meus/POSS colegas/N de/P casa/N sobre/P os/ART nossos/POSS problemas/N e/CONJ felicidades/N de/P diaadia/N ,/PNT gosto/V também/ADV de/P jogar/V com/P o/ART meu/POSS cão/N a/P o/ART ``/N frusbee/N ''/N ./PNT
+
+Se/CONJ o/ART tempo/N está/V bom/A ,/PNT dou/V um/ART passeio/N a/P a/ART beirario/N ou/CONJ corro/N em/P o/ART parque/N ./PNT
+
+À/V noite/N frequentemente/ADV saio/V com/P os/ART meus/POSS melhores/A amigos/N ,/PNT damos/V uma/ART volta/N por/P a/ART cidade/N :/PNT primeiro/ADV vamos/V jantar/V a/P um/ART restaurante/N ,/PNT depois/ADV visitamos/V uma/ART cafetaria/N e/CONJ finalmente/ADV andamos/V de/P capelinha/N em/P capelinha/N ./PNT
+
+Às/N vezes/N conseguimos/N encontrar/V uma/ART tasca/N onde/ADV se/CL canta/V fado/N ./PNT
+
+Em/P o/ART verão/N ,/PNT quando/CONJ tenho/V muito/QNT tempo/N livre/A ,/PNT gosto/V de/P fazer/V uma/ART escursão/N com/P os/ART meus/POSS amigos/N ou/CONJ com/P os/ART meus/POSS pais/N ./PNT
+
+Como/V a/ART minha/POSS cidade/N natal/A fica/V em/P a/ART montanha/N ,/PNT frequentemente/ADV fazemos/V uma/ART escalada/N ou/CONJ andamos/N de/P mochila/N de/P pousada/N em/P pousada/N ./PNT
+
+Em/ADV o/ADV entanto/ADV ,/PNT o/ART meu/POSS sonho/N ainda/ADV não/ADV realizado/V é/V poder/V visitar/V o/ART Japão/N ./PNT
+
+Por/ADV enquanto/ADV ,/PNT não/ADV tenho/V bastante/QNT dinheiro/N e/CONJ muito/ADV provável/A que/REL vá/V trabalhar/V para/P ganhar/V dinheiro/N necessário/A para/P poder/V realizar/V os/ART meus/POSS objectivos/N e/CONJ sonhos/N porém/ADV ,/PNT queria/V escolher/V um/ART trabalho/N onde/ADV é/V preciso/A contactar/V se/CL com/P pessoas/N :/PNT a/ART profissão/N de/P a/ART empregada/N de/P mesa/N ou/CONJ de/P a/ART professora/N de/P dança/N .../PNT
+

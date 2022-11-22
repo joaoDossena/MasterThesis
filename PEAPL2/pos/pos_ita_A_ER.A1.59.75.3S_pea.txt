@@ -1,0 +1,40 @@
+Ha/V quando/CONJ eu/PRS sou/V ?/PNT
+
+pequeno/A ,/PNT eu/PRS gosto/V viajar/N ./PNT
+
+Eu/PRS nao/ADV tenho/V metu/N de/P viajar/N ,/PNT sobratudo/N de/P o/ART aviaõ/N ./PNT
+
+Eu/PRS vou/V de/P o/ART aviao/N muitas/QNT vezes/N em/P o/ART anos/N ,/PNT pará/V ir/V pará/N Bologna/A ou/CONJ pará/N Pisa/A ,/PNT ou/CONJ pará/N Roma/N ou/CONJ pará/N Ferrara/A ./PNT
+
+Eu/PRS vao/V em/P estas/DEM cidades/N só/ADV pará/V poucos/QNT dias/N ,/PNT pará/V fazer/V anasiles/N Bolonha/A ,/PNT pará/V estar/V com/P a/ART mea/N familia/A em/P a/ART Ferrara/N ,/PNT e/CONJ pará/V salutar/V minha/POSS mae/N ?/PNT
+
+em/P a/ART Roma/N ./PNT
+
+Eu/PRS vou/V para/P Bolonha/N em/P o/ART aviaõ/N nr/A ./PNT
+
+XXXXX/V ``/N Airone/N ''/N ./PNT
+
+Pará/V ir/V pará/N Ferrara/A eu/PRS tenho/V passar/V por/P Bolonha/N ,/PNT e/CONJ depoi/V tenho/V apanhar/V o/ART autocarro/N até/P Ferrara/N ./PNT
+
+Mas/V eu/PRS prefiro/V ir/V sempre/ADV pará/N Pisa/N porqué/N o/ART viajem/N é/V muito/ADV mais/ADV simple/A ./PNT
+
+ir/V pará/V Pisa/V é/V facílimo/A !/PNT
+
+!/N
+
+Ali/ADV ha/V todos/QNT os/ART meus/POSS amigos/N ,/PNT e/CONJ quando/CONJ eu/PRS vou/V pará/N eles/PRS ,/PNT è/V sempre/ADV festa/N ./PNT
+
+Eu/PRS prefiro/V Pisa/V ainda/ADV porque/CONJ è/V uma/ART bonita/A cidade/N e/CONJ visitar/V esta/DEM é/V sempre/ADV um/ART prazer/N ./PNT
+
+Em/P esta/DEM cidade/N pode/V se/CL visitar/V a/ART torre/N ,/PNT a/ART igreja/N e/CONJ o/ART battistero/N ./PNT
+
+Quando/CONJ tenho/V mais/ADV tempo/N eu/PRS gosto/V ir/V para/P Firenze/N de/P carro/N porque/CONJ gosto/V muito/ADV conduçer/A e/CONJ as/ART ruas/N as/ART muito/ADV boas/A ./PNT
+
+Os/ART comboios/N italianos/N são/V muitos/QNT novissimos/N enormes/A e/CONJ rapidissimos/A mas/CONJ os/ART orarios/N não/ADV são/V sempre/ADV pontual/A mas/CONJ muitas/QNT vezes/N atrasados/V ./PNT
+
+O/ART comboio/N mais/ADV importante/A è/V ``/N Trenitalia/N ''/N ./PNT
+
+Eu/PRS que/CONJ moro/V em/P a/ART ilha/N de/P Sardenha/N ,/PNT preciso/A de/P apanhar/V sempre/ADV o/ART aviaõ/N ,/PNT mas/CONJ se/CL esto/V è/V muito/ADV caro/A ,/PNT eu/PRS posso/V apanhar/V o/ART barco/N que/REL è/V mais/ADV lento/A mas/CONJ neu/V posso/V trazer/V commigo/V o/ART cargo/N sem/P problemas/N ./PNT
+
+O/ART viajem/N é/V parte/N de/P a/ART minha/POSS vida/N e/CONJ eu/PRS prefiro/V fazer/V isto/DEM em/P o/ART meu/POSS tempo/N livre/A o/N em/P as/ART ferias/N ./PNT
+

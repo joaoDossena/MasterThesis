@@ -1,0 +1,4 @@
+Normalmente/ADV ,/PNT eu/PRS vou/V em/P o/ART carro/N ,/PNT mas/CONJ eu/PRS gosto/V de/P andar/V de/P comboio/N e/CONJ de/P avião/N ./PNT
+
+Eu/PRS ando/V as/ART viagens/N ./PNT
+

@@ -1,0 +1,26 @@
+Gosto/V de/P viver/V em/P uma/ART cidade/N muito/ADV grande/A e/CONJ cosmopolita/A ./PNT
+
+A/ART vida/N em/P a/ART cidade/N ,/PNT para/P mim/PRS ,/PNT é/V conveniente/A e/CONJ emocionante/N ./PNT
+
+A/ART gente/N encontra/V com/P muita/QNT facilidade/N lugares/N de/P entretenimento/N e/CONJ há/V sempre/ADV actividades/N culturais/A muito/ADV interessantes/A para/P assistir/V ,/PNT como/CONJ concertos/N ,/PNT óperas/A e/CONJ exposições/N ./PNT
+
+Há/V quem/REL diga/V que/C a/ART vida/N em/P a/ART cidade/N é/V agitada/A ,/PNT mas/CONJ eu/PRS é/V que/C gosto/V de/P viver/V em/P essa/DEM agitação/N ./PNT
+
+Divirto/V me/CL em/P viajar/N de/P metro/N ,/PNT ver/V as/ART diferentes/A pessoas/N ,/PNT em/P passar/N tempo/N em/P um/ART bar/N a/P conversar/V com/P os/ART amigos/N ,/PNT também/ADV não/ADV consigo/V imaginar/V a/ART minha/POSS vida/N sem/P livraria/N sem/P cinema/N !/PNT
+
+Em/P a/ART minha/POSS opinião/N ,/PNT depois/ADV de/P um/ART dia/N cheio/A de/P trabalho/N ,/PNT a/ART o/ART fim/N de/P a/ART tarde/ADV ,/PNT ir/V a/P um/ART restaurante/N com/P 3/N amigos/N e/CONJ depois/ADV cantar/V até/P a/ART a/ART meianoite/N em/P um/ART karaoke/N e/CONJ depois/ADV beber/V um/ART copo/N é/V um/ART grande/A prazer/N ,/PNT que/REL só/ADV podemos/V encontrar/V em/P a/ART cidade/N ./PNT
+
+Mas/V é/V verdade/N que/REL a/P as/ART vezes/N tenho/V saudades/N de/P o/ART campo/N ,/PNT de/P a/ART natureza/N ./PNT
+
+Nasci/N em/P uma/ART cidade/N ,/PNT passei/V a/ART infância/N em/P uma/ART pequena/A vila/N perto/ADV de/P a/ART montanha/N ,/PNT se/CL calhar/V é/V por/P causa/N de/P isso/DEM que/REL sinto/V falta/N de/P o/ART campo/N ./PNT
+
+Especialmente/N quando/CONJ estou/V farta/V de/P conhecer/V as/ART pessoas/N indiferentes/A e/CONJ hipócritas/A ,/PNT tão/ADV comuns/A em/P a/ART cidade/N ,/PNT ou/CONJ quando/CONJ estou/V triste/A de/P acordar/V sempre/ADV com/P barulho/N de/P os/ART automóveis/N em/P vez/N de/P os/ART passarinhos/N .../PNT Claro/ADV ,/PNT hoje/ADV em/P dia/N mesmo/A as/ART aldeias/N são/V ``/N invadidas/N ''/N por/P a/ART ``/N civilização/A ''/A urbana/A e/CONJ as/ART pessoas/N ,/PNT que/REL antes/ADV eram/V honestas/A e/CONJ simples/A ,/PNT dedicam/V se/CL mais/ADV a/P a/ART procura/N de/P as/ART luxúrias/N banais/A ./PNT
+
+Porém/ADV ,/PNT acredito/N que/REL ainda/ADV podemos/V entrar/V a/ART verdadeira/A vida/N de/P o/ART campo/N em/P este/DEM mundo/N ,/PNT para/P mim/PRS TrásosMontes/V é/V um/ART lugar/N onde/ADV este/DEM estilo/N de/P vida/N é/V visível/A ./PNT
+
+Montanhas/N ,/PNT rios/A ,/PNT campos/V ,/PNT gente/N corajosa/A e/CONJ frontal/A ,/PNT solidariedade/N ,/PNT felicidade/A tão/ADV simples/A e/CONJ tão/ADV irrecusável/A .../PNT É/V em/P o/ART campo/N é/V que/C podemos/V encontrar/V a/ART paz/N interior/N ,/PNT e/CONJ a/ART harmonia/N com/P a/ART natureza/N ,/PNT ambas/N imprescindíveis/A para/P o/ART serhumano/N ,/PNT e/CONJ tão/ADV raras/A em/P a/ART cidade/N !/PNT
+
+Que/N dilema/N !/PNT
+
+Gosto/V de/P viver/V em/P a/ART cidade/N ,/PNT sim/A ,/PNT mas/CONJ se/CL pudesse/V ,/PNT também/ADV gostava/V de/P viver/V em/P o/ART campo/N ,/PNT mesmo/ADV que/C saiba/N vou/V viver/V sem/P centros/N comerciais/A ou/CONJ a/P as/ART vezes/N sem/P água/N quente/A e/CONJ electricidade/N ,/PNT mesmo/ADV que/C saiba/V se/CL calhar/V vou/V ter/V uns/ART vizinhos/N que/REL gostam/V de/P observar/V e/CONJ comentar/V a/ART minha/POSS vida/N --/V afinal/ADV o/ART que/REL é/V que/C quer/V encontrar/V esta/DEM rapariga/N de/P a/ART cidade/N mas/CONJ com/P a/ART raiz/N em/P o/ART campo/N ?/PNT
+

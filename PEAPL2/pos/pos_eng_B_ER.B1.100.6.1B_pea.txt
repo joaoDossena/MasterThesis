@@ -1,0 +1,46 @@
+Cara/N XXXXX/A ,/PNT Como/N vai/V o/ART teu/POSS curso/N ?/PNT
+
+Ja/V és/V médica/N ?/PNT
+
+!/N
+
+Não/ADV te/CL tenho/V visto/V desde/P tua/POSS festa/N em/P o/ART verão/N ,/PNT foi/V óptimo/A ,/PNT não/ADV ?/PNT
+
+Quiseste/V ter/V uma/ART festa/N onde/ADV os/ART convidados/N vêem/V como/CONJ uma/ART pessoa/N famosa/A cujo/D nome/N começa/V com/P ``/N C/N ''/N e/CONJ decide/V se/CL o/ART boxeo/N ``/N Cassins/N Clay/N ''/N !/PNT
+
+Acho/V que/C todo/QNT o/ART mundo/N disfrutaram/V a/ART festa/N e/CONJ não/ADV posso/V esperar/V até/P a/ART próxima/A !/PNT
+
+Morar/V aqui/ADV em/P Portugal/N como/CONJ estudante/N de/P erasmus/N é/V muito/ADV divertido/A ./PNT
+
+Sabes/V que/C estudei/V português/A em/P a/ART inglaterra/N mas/CONJ tenho/V aprendido/V mais/ADV aquí/A em/P duas/CARD meses/N que/C em/P dois/CARD anos/N em/P a/ART Inglaterra/N ./PNT
+
+As/ART pessoas/N são/V muito/ADV simpáticas/A e/CONJ ajudam/V me/CL por/P falar/V devagar/V então/ADV posso/V entender/N melhor/A ./PNT
+
+Tento/V a/P falar/V português/A muito/ADV mas/CONJ o/ART problema/N é/V que/C todo/QNT o/ART mundo/N fala/V inglês/N perfeitamente/ADV !/PNT
+
+Minha/N casa/N aqui/ADV chama/V se/CL ``/N XXXXX/N XXXXX/N ''/N ./PNT
+
+É/V uma/ART casa/N grande/A e/CONJ antiga/A ,/PNT onde/ADV os/ART estudantes/N tem/V morado/V faz/V cinquenta/CARD anos/N !/PNT
+
+Porque/V a/ART casa/N é/V tão/ADV antiga/A algumas/QNT coixas/N ,/PNT como/CONJ o/ART forno/N ,/PNT não/ADV funciona/V bem/ADV ./PNT
+
+Ademais/V a/ART casa/N está/V muito/ADV frío/A durante/P o/ART inverno/N mas/CONJ não/ADV me/CL preocupa/V muito/ADV porque/CONJ é/V pare/N de/P o/ART carácter/N de/P a/ART casa/N ./PNT
+
+O/ART melhor/N de/P a/ART casa/N é/V que/REL durante/P os/ART anos/N muitos/QNT de/P os/ART estudantes/N que/REL moravam/V aquí/V deixaram/V mensagens/N em/P os/ART muros/N e/CONJ ,/PNT claro/A ,/PNT antes/ADV de/P que/REL eu/PRS quitasse/V a/ART casa/N vou/V escrever/V minha/POSS mensagem/N ./PNT
+
+A/ART universidade/N é/V muito/ADV bonita/A e/CONJ antiga/A ./PNT
+
+Quando/CONJ chegei/V aqui/ADV em/P o/ART Setembro/N ,/PNT haviam/V muitas/QNT turistas/N que/REL quiseram/V explorar/V a/ART universidade/N ./PNT
+
+Actualmente/ADV a/ART universidade/N parece/V mais/ADV normal/A porque/CONJ estou/V aquí/V cada/QNT dia/N mas/CONJ sem/P duda/N é/V um/ART lugar/N muito/ADV interessante/A ./PNT
+
+A/ART cidade/N ,/PNT como/CONJ a/ART universidade/N ,/PNT é/V antiga/A e/CONJ tem/V muitos/QNT edifícios/N velhos/A ,/PNT como/CONJ os/ART catedrais/N ./PNT
+
+Mas/N a/P o/ART mesmo/A tempo/N tem/V sitios/N modernos/A como/CONJ os/ART centros/N de/P lojas/N e/CONJ o/ART pavilhão/N de/P desportos/N ./PNT
+
+Estou/V a/ART disfrutar/N meu/POSS tempo/N aqui/ADV e/CONJ espero/N que/REL teu/POSS semestre/N vaja/V bem/ADV também/ADV ?/PNT
+
+Escreve/V me/CL quando/CONJ não/ADV estás/V muito/ADV ocupada/A com/P trabalho/N ,/PNT eu/PRS sei/V que/REL teu/POSS curso/N é/V muito/ADV difícil/A !/PNT
+
+Beijinhos/N XXXXX/N XXXXX/N
+

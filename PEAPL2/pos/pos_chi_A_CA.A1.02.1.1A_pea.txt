@@ -1,0 +1,20 @@
+Eu/PRS chamo/V me/CL XXXXX/V XXXXX/N ./PNT
+
+Sou/V chinesa/N e/CONJ tenho/V 18/CARD anos/N ./PNT
+
+Eu/PRS sou/V estudante/N ,/PNT agora/ADV eu/PRS moro/V em/P Coimbra/N e/CONJ estudo/N língua/N Português/N ./PNT
+
+Os/ART meus/POSS pais/N moram/V em/P uma/ART casa/N grande/A ,/PNT em/P Lisboa/N ./PNT
+
+A/ART casa/N tem/V 4/CARD quartos/N ,/PNT dois/CARD casas/N de/P banho/N ,/PNT uma/ART sala/N de/P jantar/N ,/PNT uma/ART cozinha/N grande/A e/CONJ um/ART garagem/N ./PNT
+
+Eu/PRS tenho/V um/ART primo/N ./PNT
+
+Ele/PRS é/V cabeleireiro/N e/CONJ tem/V vinte/CARD e/CARD três/CARD anos/N ./PNT
+
+O/ART meu/POSS pai/N é/V muito/ADV falador/A ,/PNT mas/CONJ a/ART minha/POSS mãe/N é/V calada/A ./PNT
+
+Eu/PRS gosto/V comço/N com/P os/ART meus/POSS amigos/N ./PNT
+
+Eu/PRS gosto/V ver/V livros/N de/P amor/N e/CONJ bebo/V sumo/N de/P laranja/A ,/PNT e/CONJ a/ART minha/POSS familia/N é/V goste/A Portugal/N muito/ADV ./PNT
+

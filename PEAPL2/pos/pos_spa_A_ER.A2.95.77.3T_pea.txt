@@ -1,0 +1,16 @@
+Eu/PRS sou/V uma/ART estudante/N Erasmas/A ,/PNT que/REL estuda/V em/P o/ART Polo/N II/N de/P a/ART Universidade/N ,/PNT em/P o/ART Departamento/N de/P Engenharia/N Civil/N ./PNT
+
+Eu/PRS vivo/ADV em/P a/ART Rua/N XXXXX/N XXXXX/V ,/PNT em/P a/ART Quinta/N Boa/A Vista/N ,/PNT em/P frente/N de/P a/ART Escola/N de/P Hotalaria/N ./PNT
+
+Esta/DEM rua/N é/V muito/ADV tranquila/A e/CONJ soçegada/V com/P pouca/QNT ./PNT
+
+Até/P os/ART prédios/N são/V novos/A por/P isso/DEM os/ART apartamentos/N estão/V muito/ADV bem/ADV ./PNT
+
+Além/P esta/DEM rua/N fica/V perto/ADV Polo/N II/N e/CONJ podemos/V ir/V caminhando/V a/P as/ART aulas/N ./PNT
+
+Más/V esta/DEM rúa/N também/ADV tem/V coisas/N malas/A ,/PNT como/CONJ que/REL não/ADV há/V lojas/N perto/ADV ,/PNT além/P a/ART iluminaçao/N é/V muito/ADV pouca/QNT ,/PNT entons/N por/P a/ART noite/N é/V dificil/V ver/V bem/ADV ./PNT
+
+Em/P o/ART entanto/ADV também/ADV tem/V boas/A comunicações/N com/P o/ART centro/N porque/CONJ há/V varias/N paragens/A de/P o/ART autocarros/N ./PNT
+
+Em/P conclusão/N eu/PRS estou/V feliz/A por/P a/ART rúa/N e/CONJ bairro/N onde/ADV eu/PRS vivo/ADV ./PNT
+

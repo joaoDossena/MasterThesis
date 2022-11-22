@@ -1,0 +1,22 @@
+Tenho/V vivido/N durante/P toda/QNT a/ART minha/POSS vida/N em/P a/ART cidade/N ,/PNT ou/CONJ seja/V em/P cidades/N diferentes/A ./PNT
+
+Depois/ADV de/P ter/V passado/A quase/ADV vinte/CARD anos/N em/P uma/ART cidade/N de/P 300000/N habitantes/N ,/PNT mudei/V para/P outra/ART que/REL tem/V mais/ADV ou/CONJ menos/ADV dez/CARD vezes/N este/DEM número/N de/P cidadãos/N ./PNT
+
+Nunca/ADV experimentei/V a/ART vida/N em/P o/ART campo/N ./PNT
+
+Em/P o/ART entanto/ADV há/V muitas/QNT coisas/N em/P a/ART cidade/N que/REL me/CL molestam/V e/CONJ me/CL chateiam/V ./PNT
+
+Passa/V se/CL muito/QNT tempo/N em/P os/ART transportes/N públicos/A porque/CONJ tudo/QNT fica/V muito/ADV longe/ADV ./PNT
+
+Em/P as/ART aldeias/N pequenas/A ,/PNT não/ADV se/CL precisa/V tanto/ADV tempo/N ,/PNT mas/CONJ a/P o/ART outro/A lado/N não/ADV há/V muita/QNT coisa/N para/P fazer/V lá/ADV e/CONJ para/P passar/N o/ART seu/POSS tempo/N livre/A em/P cafés/N ,/PNT cinemas/N ,/PNT bares/N ,/PNT bibliotecas/N etc/A ./PNT
+
+se/CONJ tem/V que/C viajar/V a/P a/ART cidade/N ./PNT
+
+Uma/ART vantagem/N de/P as/ART aldeias/N é/V com/P certeza/N a/ART natureza/N que/REL fica/V mais/ADV perto/ADV e/CARD cuja/D falta/N eu/PRS sinto/V em/P as/ART cidades/N ,/PNT onde/ADV só/ADV há/V parques/N ,/PNT que/REL muitas/QNT vezes/N são/V cheios/A demais/N em/P os/ART fins/N -/N desemana/N e/CONJ feriados/N ./PNT
+
+Mas/V sempre/ADV há/V diferenças/N entre/P cidades/N e/CONJ cidades/N e/CONJ aldeias/N e/CONJ aldeias/N ./PNT
+
+Berlim/N ,/PNT onde/ADV eu/PRS vivo/ADV ,/PNT é/V uma/ART cidade/N com/P extremamente/ADV muitos/QNT parques/N ,/PNT árvores/N e/CONJ natureza/N que/REL a/P o/ART mesmo/A tempo/N me/CL oferece/V uma/ART vida/N cultural/A extraordinária/V ,/PNT com/P cantidades/N de/P concertos/N e/CONJ museus/N ,/PNT música/N e/CONJ teatro/N para/P todos/QNT gostos/N ./PNT
+
+Estes/DEM aspectos/N positivos/A para/P mim/PRS são/V mais/ADV importantes/A de/P o/ART que/REL o/ART barulho/N ,/PNT o/ART lixo/N e/CONJ a/ART falta/N de/P natureza/N que/REL obviamente/ADV se/CL nota/N mais/ADV em/P as/ART cidades/N ./PNT
+

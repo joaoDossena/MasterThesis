@@ -1,0 +1,18 @@
+Eu/PRS tenho/V 25/CARD anos/N e/CONJ morada/N em/P Muních/N ,/PNT a/P o/ART Sul/N de/P a/ART Alemanha/N ./PNT
+
+Sou/V mais/ADV ou/CONJ menos/ADV 1.90/A e/CONJ tenho/V os/ART cabelos/N preto/N ./PNT
+
+Vive/V em/P Portugas/N desde/P dez/CARD semanas/N e/CONJ gosto/V tanto/ADV ./PNT
+
+Especialmente/V os/ART meus/POSS amigos/N portugues/A a/P o/ART Universidade/N de/P Coimbra/N ./PNT
+
+Ali/ADV eu/PRS estoudo/V física/A em/P o/ART Faculdade/N de/P ``/N Sciencias/A e/CONJ Technologìa/N ''/A ./PNT
+
+a/P o/ART fim/N de/P semana/N ,/PNT normalmente/ADV ,/PNT jogo/N basquetbol/A com/P os/ART meus/POSS amigos/N ,/PNT mas/CONJ em/P a/N ultima/V fim/N de/P semana/N em/P os/ART fomos/N para/P a/ART praia/N a/ART Figueira/N de/P a/ART Foz/N ./PNT
+
+Eu/PRS gosto/V o/ART Atlantico/N porque/CONJ ali/ADV a/ART agua/N é/V tão/ADV fresco/A ./PNT
+
+Nadar/V em/P o/ART Atlantico/N não/ADV e/CONJ facil/V mais/ADV eu/PRS prefiro/V o/ART oceano/N em/P o/ART swimmingpool/N ./PNT
+
+Depois/ADV de/P regressar/V para/P Alemanha/N vou/V querer/V nadar/N em/P o/ART Atlantico/N também/ADV ./PNT
+

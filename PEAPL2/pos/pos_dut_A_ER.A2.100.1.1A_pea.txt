@@ -1,0 +1,30 @@
+Estou/V uma/ART menina/N belga/A ,/PNT não/ADV grande/A ./PNT
+
+Eu/PRS tenho/V os/ART olhos/N azuis/A ,/PNT e/CONJ os/ART cabelos/N castanhos/A ./PNT
+
+A/ART minha/POSS família/N é/V assim/ADV grande/A ,/PNT porque/CONJ tenho/V duas/CARD irmãs/N e/CONJ um/ART irmão/N ./PNT
+
+A/ART vida/N em/P a/ART minha/POSS família/N é/V muito/ADV ocupada/A ./PNT
+
+Todos/QNT os/ART meus/POSS irmãos/N têm/V as/ART coisas/N a/P fazer/V ,/PNT por/P exemplo/N fazer/V de/P o/ART esporto/N ,/PNT visitar/V a/ART enamorada/N ,/PNT .../PNT Mais/ADV gosto/V de/P esse/DEM vida/N ,/PNT porque/CONJ estou/V acostumada/V a/P este/DEM vida/N e/CONJ quase/ADV nunca/ADV estou/V sozinha/N ./PNT
+
+Em/P os/ART vivemos/V em/P uma/ART casa/N grande/A ,/PNT com/P um/ART jardim/N assim/ADV grande/A ./PNT
+
+O/ART meu/POSS quarto/N em/P a/ART Belgica/N é/V mais/ADV pequeno/A de/P o/ART que/REL o/ART meu/POSS quarto/N em/P Portugal/N ,/PNT mais/ADV gosto/V muito/ADV deste/A quarto/N ./PNT
+
+A/ART casa/N tem/V uma/ART sala/N a/P estar/V grande/A ,/PNT com/P 3/N sofás/A ,/PNT uma/ART mesa/N grande/A ,/PNT 6/N cadeiras/N e/CONJ duas/CARD estantes/N ./PNT
+
+Em/P o/ART primeiro/ORD andar/V há/V 3/CARD quartos/N ,/PNT e/CONJ uma/ART casa/N de/P banho/N ./PNT
+
+2/N quartos/N são/V os/ART mais/ADV pequenos/A e/CONJ uma/ART quarto/N é/V maior/A de/P o/ART que/REL os/ART outros/A quartos/N ./PNT
+
+Em/P o/ART rezdochão/N há/V também/ADV uma/ART cozinha/N ./PNT
+
+Eu/PRS gosto/V de/P dançar/N e/CONJ cantar/V ,/PNT e/CONJ isso/DEM faço/V muito/ADV ./PNT
+
+Também/ADV gosto/V de/P viajar/N ./PNT
+
+Já/ADV fui/V em/P e/CARD a/P a/ART Nova/N Iorque/N ,/PNT mas/CONJ quero/V fazer/V uma/ART viagem/N muito/ADV grande/A através/P a/ART Indonesia/N ,/PNT ou/CONJ a/ART America/N de/P o/ART Sul/N ./PNT
+
+Eu/PRS estudo/N o/ART Serviço/N Social/N ,/PNT e/CONJ o/ART meu/POSS sonho/N é/V ,/PNT de/P trabalhar/V durante/P algum/QNT tempo/N a/P fora/ADV de/P Belgica/N ,/PNT por/P exemplo/N em/P o/ART Brazil/N ,/PNT ou/CONJ um/ART outro/A país/N ./PNT
+
