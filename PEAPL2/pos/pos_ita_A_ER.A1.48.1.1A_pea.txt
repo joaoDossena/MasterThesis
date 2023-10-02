@@ -1,8 +1,0 @@
-Eu/PRS chamo/V me/CL XXXXX/V XXXXX/A e/CONJ sou/V um/ART rapaz/N italiano/A que/REL tem/V 26/CARD anos/N ./PNT
-
-Eu/PRS estudo/N em/P a/ART facultade/N de/P direito/N de/P Coimbra/N ,/PNT em/P Portugal/N ,/PNT não/ADV sou/V muito/ADV alto/A -LRB-/N 1/N ,/PNT 75/N -RRB-/A ,/PNT tenho/V olho/N e/CONJ cabellos/N castano/A ./PNT
-
-Agora/ADV eu/PRS sou/V estudente/N erasmus/A e/CONJ em/P Coimbra/N gostha/V muito/ADV sair/V ,/PNT quando/CONJ estou/V em/P a/ART Italia/N é/V differento/A ,/PNT estudio/V mais/ADV e/CONJ vou/V por/P sair/V sozinho/A de/P sabado/N ./PNT
-
-Quando/CONJ tenho/V tempo/N livre/A gostha/V muito/ADV de/P fazer/V desport/N ou/CONJ ir/V ou/CONJ cinema/N com/P meus/POSS amigos/N
-

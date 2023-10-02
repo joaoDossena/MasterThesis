@@ -1,8 +1,0 @@
-AZ/V vezes/N eu/PRS vejo/V o/ART meu/POSS Amigo/N XXXXX/A é/V portugeuse/A ./PNT
-
-Quando/CONJ Eu/PRS vejo/V ele/PRS ,/PNT ele/PRS fala/V em/P inglês/N e/CONJ Eu/PRS falo/V em/P portugues/N ./PNT
-
-Tambem/V nos/N comemos/A e/CONJ uma/ART semana/N em/P os/ART comemos/N commer/N tradicionais/A de/P portugal/N e/CONJ proximo/A semana/N depois/ADV em/P os/ART commemos/N commer/N tradicionais/A de/P inglês/N ./PNT
-
-Costumo/V ver/V portugeuse/A Joogos/N de/P futebol/N EM/P A/ART televisao/N e/CONJ ele/PRS ve/V ingles/A Jogos/N de/P futebol/N EM/P A/ART televisão/N ./PNT
-

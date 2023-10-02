@@ -1,6 +1,0 @@
-Eu/PRS moro/V em/P Villa/N NOVA/A de/P Poiares/N ,/PNT um/ART lugar/N muito/ADV pequeno/A ./PNT
-
-Eu/PRS gosto/V muito/ADV porque/CONJ Poiares/N tem/V não/ADV muito/ADV pessoas/N muito/ADV perto/ADV é/V as/ART florestas/N e/CONJ um/ADV pouco/ADV rio/N Qual/N é/V Bonito/A ./PNT
-
-Queria/V a/P ver/V um/ART mais/ADV discoteca/N em/P Poiares/N ,/PNT porque/CONJ este/DEM momento/N POIARES/A só/ADV tem/V duaz/N Qual/A são/V muito/ADV pequenino/A ./PNT
-

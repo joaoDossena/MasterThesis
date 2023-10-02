@@ -1,8 +1,0 @@
-Eu/PRS moro/V Rua/N XXXXX/N de/P as/ART em/P Coimbra/N ,/PNT está/V perto/ADV de/P Coimbra/N shopping/A e/CONJ makro/A ./PNT
-
-Eu/PRS pensaro/V este/DEM lugar/N é/V muito/ADV calmo/A ./PNT
-
-Eu/PRS pensaro/V Coimbra/N é/V muito/ADV bom/A cidade/N ,/PNT mas/CONJ carros/N conduzir/V são/V muito/ADV rapido/A ./PNT
-
-o/ART são/V muito/ADV perigoso/A de/P presso/N ./PNT
-
